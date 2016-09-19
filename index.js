@@ -1,6 +1,10 @@
 var cheerio = require('cheerio');
+var _ = require('lodash');
 
 function parse(options, body, callback){
+  options = _.defaultsDeep(options, {
+    detectText: ['Annonce', 'Ads']
+  });
   var $ = cheerio.load(body);
   var ads = [];
   $('.ads-ad').each(function(){
@@ -12,7 +16,16 @@ function parse(options, body, callback){
       targetUrl: adNode.find('h3 a').next('a').attr('href')
     });
   });
-  callback(null, { ads : ads });
+  var detectRule = _.chain(options.detectText).map(function(text){
+    return _.template(':contains("<%= text %>")')({text: text});
+  }).join(', ').value();
+  var adsCount = 0, test = $(detectRule);
+  test.each(function(){
+    if(options.detectText.indexOf($(this).text()) >= 0 ){
+      adsCount++;
+    }
+  });
+  callback(null, { ads : ads, adsCount: adsCount });
 }
 
 module.exports.parse = parse;
