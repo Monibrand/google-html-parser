@@ -8,7 +8,7 @@ describe('GoogleHtmlParser', function() {
   describe('Parse tests', function() {
     it('Extract google ads', function(done){
       GoogleHtmlParser.parse({}, getMock('mock1'), function(err, extractedDatas){
-        //console.log(extractedDatas);
+        console.log(extractedDatas.ads);
         assert.strictEqual(extractedDatas.ads.length, 6);
         assert.equal(extractedDatas.adsCount, 6);
         extractedDatas.ads.forEach(function(ad){

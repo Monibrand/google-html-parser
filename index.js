@@ -9,12 +9,16 @@ function parse(options, body, callback){
   var ads = [];
   $('.ads-ad').each(function(){
     var adNode = $(this);
-    ads.push({
+    var ad = {
       title: adNode.children('h3').text(),
       content: adNode.children('.ads-creative').text() + '\n' + adNode.children('.ads-creative').next('div').text(),
       displayUrl: adNode.find('.ads-visurl cite').text(),
       targetUrl: adNode.find('h3 a').next('a').attr('href')
-    });
+    };
+    if(adNode.find('h3 a').next('a').attr('data-preconnect-urls')){
+      ad.preconnectUrls = adNode.find('h3 a').next('a').attr('data-preconnect-urls').split(',');
+    }
+    ads.push(ad);
   });
   var detectRule = _.chain(options.detectText).map(function(text){
     return _.template(':contains("<%= text %>")')({text: text});
