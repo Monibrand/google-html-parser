@@ -7,6 +7,7 @@ function parse(options, body, callback){
   });
   var $ = cheerio.load(body);
   var ads = [];
+  var position = 1;
   $('.ads-ad').each(function(){
     var adNode = $(this);
     var ad = {
@@ -17,6 +18,13 @@ function parse(options, body, callback){
     };
     if(adNode.find('h3 a').next('a').attr('data-preconnect-urls')){
       ad.preconnectUrls = adNode.find('h3 a').next('a').attr('data-preconnect-urls').split(',');
+    }
+    ad.position = position++;
+    if(adNode.parents('#taw').length > 0){
+      ad.area = 'top';
+    }
+    if(adNode.parents('#bottomads').length > 0){
+      ad.area = 'bottom';
     }
     ads.push(ad);
   });
