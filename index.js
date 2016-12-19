@@ -3,7 +3,7 @@ var _ = require('lodash');
 
 function parse(options, body, callback){
   options = _.defaultsDeep(options, {
-    detectText: ['Annonce', 'Ads']
+    detectText: ['Annonce', 'Ad']
   });
   var $ = cheerio.load(body);
   var ads = [];

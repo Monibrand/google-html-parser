@@ -8,7 +8,6 @@ describe('GoogleHtmlParser', function() {
   describe('Parse tests', function() {
     it('Extract google ads', function(done){
       GoogleHtmlParser.parse({}, getMock('mock1'), function(err, extractedDatas){
-        console.log(extractedDatas.ads);
         assert.strictEqual(extractedDatas.ads.length, 6);
         assert.equal(extractedDatas.adsCount, 6);
         extractedDatas.ads.forEach(function(ad){
@@ -35,10 +34,10 @@ describe('GoogleHtmlParser', function() {
         done(err);
       });
     });
-    it('Detect if missing ads', function(done){
+    it('Detect if missing ads mock2.', function(done){
       GoogleHtmlParser.parse({}, getMock('mock2'), function(err, extractedDatas){
-        assert.strictEqual(extractedDatas.ads.length, 5);
-        assert.equal(extractedDatas.adsCount, 6);
+        assert.strictEqual(extractedDatas.ads.length, 3);
+        assert.equal(extractedDatas.adsCount, 3);
         done(err);
       });
     });
