@@ -11,7 +11,7 @@ function parse(options, body, callback){
   $('.ads-ad').each(function(){
     var adNode = $(this);
     var ad = {
-      title: adNode.children('h3').text(),
+      title: adNode.find('h3').first().text(),
       content: adNode.children('.ads-creative').text() + '\n' + adNode.children('.ads-creative').next('div').text(),
       displayUrl: adNode.find('.ads-visurl cite').text(),
       targetUrl: adNode.find('h3 a').next('a').attr('href')
@@ -29,7 +29,7 @@ function parse(options, body, callback){
     ads.push(ad);
   });
   var detectRule = _.chain(options.detectText).map(function(text){
-    return _.template(':contains("<%= text %>")')({text: text});
+    return _.template('span:contains("<%= text %>")')({text: text});
   }).join(', ').value();
   var adsCount = 0, test = $(detectRule);
   test.each(function(){
