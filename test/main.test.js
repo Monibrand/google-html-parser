@@ -1,9 +1,10 @@
-var GoogleHtmlParser = require('..');
-var _ = require('lodash');
-var assert = require('assert');
-var fs = require('fs');
+const GoogleHtmlParser = require('..');
+const _ = require('lodash');
+const assert = require('assert');
+const fs = require('fs');
 
 
+// TODO Use the same test for all mock and check it againts a data mock json file like mock4 shopping test
 describe('GoogleHtmlParser', function() {
   describe('Parse tests', function() {
     it('Extract google ads', function(done){
@@ -12,6 +13,7 @@ describe('GoogleHtmlParser', function() {
         assert.strictEqual(extractedDatas.adsCount, 6);
         extractedDatas.ads.forEach(function(ad){
           // Test field presence for each ads
+          // TODO this test is cheat!
           assert.strictEqual(_.chain(ad).keys().difference(['title', 'content', 'displayUrl', 'targetUrl', 'preconnectUrls', 'position', 'area']).value().length, 0, '');
         });
         done(err);
@@ -90,8 +92,31 @@ describe('GoogleHtmlParser', function() {
       });
     });
     it('Ads and shopping extract from mockmobile1', function(done){
-      GoogleHtmlParser.parse({}, getMock('mockmobile1'), function(err, extractedDatas){
-        console.log(extractedDatas);
+      GoogleHtmlParser.parse({ tryMobile: true }, getMock('mockmobile1'), function(err, extractedDatas){
+        assert.strictEqual(extractedDatas.ads.length, 3);
+        assert.strictEqual(extractedDatas.adsCount, 3, 'Ads count doesn\'t match.');
+
+        assert.strictEqual(extractedDatas.ads[0].position, 1);
+        assert.strictEqual(extractedDatas.ads[0].area, 'top');
+        assert.strictEqual(extractedDatas.ads[0].title, 'cofidis.fr - Simulation de Crédit - Simulation de Crédit Gratuite‎');
+        assert.strictEqual(extractedDatas.ads[0].content, 'Crédit Renouvelable, Crédit ou Rachat de Crédit. Des Crédits pour Chaque Besoins\nService Client de l\'Année · Chat en ligne\nAppeler le 03 28 09 21 18');
+        assert.strictEqual(extractedDatas.ads[0].displayUrl, 'www.cofidis.fr/Cofidis');
+        assert.strictEqual(extractedDatas.ads[0].targetUrl, 'https://www.cofidis.fr/fr/credit_en_ligne/simulateur-credits.html');
+
+        assert.strictEqual(extractedDatas.ads[1].position, 2);
+        assert.strictEqual(extractedDatas.ads[1].area, 'top');
+        assert.strictEqual(extractedDatas.ads[1].title, 'pret entre particulier 2% en - 48h Offre speciale pour vous‎');
+        assert.strictEqual(extractedDatas.ads[1].content, 'pret entre particulier taeg fixe rapide disponible en 48h .');
+        assert.strictEqual(extractedDatas.ads[1].displayUrl, 'www.invests-sarl-credit.com/');
+        assert.strictEqual(extractedDatas.ads[1].targetUrl, 'http://invests-sarl-credit.com/');
+
+        assert.strictEqual(extractedDatas.ads[2].position, 3);
+        assert.strictEqual(extractedDatas.ads[2].area, 'top');
+        assert.strictEqual(extractedDatas.ads[2].title, 'Crédit Sans Justificatif - Réponse de Principe Immédiate‎');
+        assert.strictEqual(extractedDatas.ads[2].content, 'Crédit rapide pour financer votre projet. Pas de frais de dossier !\nCatégories: Travaux, Auto, Trésorerie…');
+        assert.strictEqual(extractedDatas.ads[2].displayUrl, 'www.credit-public.org/');
+        assert.strictEqual(extractedDatas.ads[2].targetUrl, 'http://www.credit-public.org/');
+
         done(err);
       });
     });

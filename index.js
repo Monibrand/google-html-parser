@@ -13,7 +13,7 @@ function parse(options, body, callback){
     var ad = {
       title: adNode.find('h3').first().text(),
       displayUrl: adNode.find('.ads-visurl cite').text(),
-      targetUrl: adNode.find('h3 a').next('a').attr('href')
+      targetUrl: adNode.find('h3 a, .ad_cclk > a').next('a').attr('href')
     };
 
     var content = [];
@@ -22,10 +22,16 @@ function parse(options, body, callback){
       content.push($(this).text());
     });
 
+    if(options.tryMobile){
+      adNode.find('div.ads-creative, div.ellip').each(function(){
+        content.push($(this).text());
+      });
+    }
+
     ad.content = content.join('\n');
 
-    if(adNode.find('h3 a').next('a').attr('data-preconnect-urls')){
-      ad.preconnectUrls = adNode.find('h3 a').next('a').attr('data-preconnect-urls').split(',');
+    if(adNode.find('h3 a, .ad_cclk > a').next('a').attr('data-preconnect-urls')){
+      ad.preconnectUrls = adNode.find('h3 a, .ad_cclk > a').next('a').attr('data-preconnect-urls').split(',');
     }
     ad.position = position++;
     if(adNode.parents('#taw').length > 0){
