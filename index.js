@@ -12,10 +12,18 @@ function parse(options, body, callback){
     var adNode = $(this);
     var ad = {
       title: adNode.find('h3').first().text(),
-      content: adNode.children('.ads-creative').text() + '\n' + adNode.children('.ads-creative').next('div').text(),
       displayUrl: adNode.find('.ads-visurl cite').text(),
       targetUrl: adNode.find('h3 a').next('a').attr('href')
     };
+
+    var content = [];
+    adNode.find('.ellip .g-bblc').remove();
+    adNode.children('.ellip').each(function(){
+      content.push($(this).text());
+    });
+
+    ad.content = content.join('\n');
+
     if(adNode.find('h3 a').next('a').attr('data-preconnect-urls')){
       ad.preconnectUrls = adNode.find('h3 a').next('a').attr('data-preconnect-urls').split(',');
     }
@@ -28,6 +36,7 @@ function parse(options, body, callback){
     }
     ads.push(ad);
   });
+
   var detectRule = _.chain(options.detectText).map(function(text){
     return _.template('span:contains("<%= text %>")')({text: text});
   }).join(', ').value();
@@ -37,7 +46,20 @@ function parse(options, body, callback){
       adsCount++;
     }
   });
-  callback(null, { ads : ads, adsCount: adsCount });
+
+  var shoppingAds = [];
+  $('.pla-unit:has(img)').each(function(){
+    var plaNode = $(this);
+    var shoppingAd = {
+      title: plaNode.find('.pla-unit-title').text(),
+      price: plaNode.find('._pvi').text(),
+      subtitle: plaNode.find('._mC').text(),
+      targetUrl: plaNode.find('.pla-unit-title-link').attr('href'),
+      image: plaNode.find('.pla-unit-img-container img').attr('src')
+    };
+    shoppingAds.push(shoppingAd);
+  });
+  callback(null, { ads : ads, adsCount: adsCount, shoppingAds: shoppingAds });
 }
 
 module.exports.parse = parse;
