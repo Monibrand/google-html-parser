@@ -22,17 +22,19 @@ if(argv.getmocks){
 
 // --pregeneratedata
 if(argv['pregeneratedata']){
-  var mocksNames = fs.readdirSync(__dirname);
-  var mocksToPreGenerate = _.filter(mocksNames, function(mocksName){
-    return /\.html$/.test(mocksName);
+  let selectRegExp = new RegExp( '.*' + (argv.g || '') +  '.*\\.html$');
+  let mocksNames = fs.readdirSync(__dirname);
+  let mocksToPreGenerate = _.filter(mocksNames, function(mocksName){
+    return selectRegExp.test(mocksName);
   }).sort();
   Promise.map(mocksToPreGenerate, filename => {
     return GoogleHtmlParser.parse({}, fs.readFileSync(__dirname + '/' + filename))
     .then(extractedDatas => {
       var extractName = /(.*)\.html$/.exec(filename);
       fs.writeFileSync( __dirname + '/' + extractName[1] + '-data.json', JSON.stringify(extractedDatas,null,2));
+      console.log('%s has been updated.', extractName[1] + '-data.json');
     });
   }).then(() => {
-    console.log('Done !');
+    console.log('Pre-generate mock data done. YOU NEED TO CHECK MANUALLY ALL mock-data.json FILE !');
   })
 }

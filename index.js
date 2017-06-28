@@ -51,14 +51,24 @@ function parse(options, body, callback){
   var shoppingAds = [];
   $('.pla-unit:has(img)').each(function(){
     var plaNode = $(this);
+
+    // This is parse old 2016 multilines shopping ads
+    var title = [];
+    plaNode.find('.pla-unit-title span').each(function(){
+      if($(this).text()){
+        title.push($(this).text());
+      }
+    });
+
     var shoppingAd = {
-      title: plaNode.find('.pla-unit-title, h4').text(),
+      title: title.join('\n') || plaNode.find('.pla-unit-title, h4').text(),
       price: plaNode.find('._pvi, ._XJg').text(),
       advertiser: plaNode.find('._mC, ._FLg').text(),
       targetUrl: plaNode.find('.pla-unit-title-link').attr('href') || plaNode.attr('href'),
       image: plaNode.find('.pla-unit-img-container img, .pla-img img').attr('src'),
       discountText: plaNode.find('._zHp, ._gti').text() || undefined
     };
+
     shoppingAds.push(shoppingAd);
   });
   return Promise.resolve({ ads : ads, adsCount: adsCount, shoppingAds: shoppingAds }).asCallback(callback);
