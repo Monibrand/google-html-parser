@@ -5,33 +5,44 @@ const fs = require('fs');
 
 
 describe('GoogleHtmlParser', function() {
-  describe('Parse tests', function() {
-    getMocks().forEach(mock => {
-      it('Extract and compare test for ' + mock.name, function(){
-        return GoogleHtmlParser.parse({}, mock.html).then(extractedDatas => {
-          assert.strictEqual(extractedDatas.ads.length, mock.data.ads.length, 'Ads length doesn\'t match.');
-          assert.strictEqual(extractedDatas.adsCount, mock.data.adsCount, 'Ads alternative count doesn\'t match.');
-          mock.data.ads.forEach((adMock, i) => {
-            assert.strictEqual(extractedDatas.ads[i].position, adMock.position);
-            assert.strictEqual(extractedDatas.ads[i].area, adMock.area);
-            assert.strictEqual(extractedDatas.ads[i].title, adMock.title);
-            assert.strictEqual(extractedDatas.ads[i].content, adMock.content);
-            assert.strictEqual(extractedDatas.ads[i].displayUrl, adMock.displayUrl);
-            assert.strictEqual(extractedDatas.ads[i].targetUrl, adMock.targetUrl);
-            if(adMock.preconnectUrls){
-              adMock.preconnectUrls.forEach((preconnectUrlMock, j) => {
-                assert.strictEqual(extractedDatas.ads[i].preconnectUrls[j], preconnectUrlMock);
-              });
-            }
-          });
-          mock.data.shoppingAds.forEach((shoppingAdMock, i) => {
-            assert.strictEqual(extractedDatas.shoppingAds[i].title, shoppingAdMock.title);
-            assert.strictEqual(extractedDatas.shoppingAds[i].advertiser, shoppingAdMock.advertiser);
-            assert.strictEqual(extractedDatas.shoppingAds[i].targetUrl, shoppingAdMock.targetUrl);
-            assert.strictEqual(extractedDatas.shoppingAds[i].image, shoppingAdMock.image);
-            assert.strictEqual(extractedDatas.shoppingAds[i].price, shoppingAdMock.price);
-            assert.strictEqual(extractedDatas.shoppingAds[i].discountText, shoppingAdMock.discountText);
-          });
+  getMocks().forEach(mock => {
+    describe('Extract and compare test for ' + mock.name, function(){
+      let extractedDatas;
+      before(function(){
+        return GoogleHtmlParser.parse({}, mock.html).then(parsedDatas => {
+          extractedDatas = parsedDatas;
+        });
+      });
+
+      it('Counting ads', function(){
+        assert.strictEqual(extractedDatas.ads.length, mock.data.ads.length, 'Ads length doesn\'t match.');
+        assert.strictEqual(extractedDatas.adsCount, mock.data.adsCount, 'Ads alternative count doesn\'t match.');
+      });
+
+      mock.data.ads.forEach((adMock, i) => {
+        it('Verify datas for ad ' + adMock.title + ' (' + i + ')', function(){
+          assert.strictEqual(extractedDatas.ads[i].position, adMock.position);
+          assert.strictEqual(extractedDatas.ads[i].area, adMock.area);
+          assert.strictEqual(extractedDatas.ads[i].title, adMock.title);
+          assert.strictEqual(extractedDatas.ads[i].content, adMock.content);
+          assert.strictEqual(extractedDatas.ads[i].displayUrl, adMock.displayUrl);
+          assert.strictEqual(extractedDatas.ads[i].targetUrl, adMock.targetUrl);
+          if(adMock.preconnectUrls){
+            adMock.preconnectUrls.forEach((preconnectUrlMock, j) => {
+              assert.strictEqual(extractedDatas.ads[i].preconnectUrls[j], preconnectUrlMock);
+            });
+          }
+        });
+      });
+
+      mock.data.shoppingAds.forEach((shoppingAdMock, i) => {
+        it('Verify datas for shopping ad ' + shoppingAdMock.title + ' (' + i + ')', function(){
+          assert.strictEqual(extractedDatas.shoppingAds[i].title, shoppingAdMock.title);
+          assert.strictEqual(extractedDatas.shoppingAds[i].advertiser, shoppingAdMock.advertiser);
+          assert.strictEqual(extractedDatas.shoppingAds[i].targetUrl, shoppingAdMock.targetUrl);
+          assert.strictEqual(extractedDatas.shoppingAds[i].image, shoppingAdMock.image);
+          assert.strictEqual(extractedDatas.shoppingAds[i].price, shoppingAdMock.price);
+          assert.strictEqual(extractedDatas.shoppingAds[i].discountText, shoppingAdMock.discountText);
         });
       });
     });

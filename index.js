@@ -57,7 +57,7 @@ function parse(options, body, callback){
       advertiser: plaNode.find('._mC, ._FLg').text(),
       targetUrl: plaNode.find('.pla-unit-title-link').attr('href') || plaNode.attr('href'),
       image: plaNode.find('.pla-unit-img-container img, .pla-img img').attr('src'),
-      discountText: plaNode.find('._zHp, ._gti').text()
+      discountText: plaNode.find('._zHp, ._gti').text() || undefined
     };
     shoppingAds.push(shoppingAd);
   });
