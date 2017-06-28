@@ -71,7 +71,17 @@ function parse(options, body, callback){
 
     shoppingAds.push(shoppingAd);
   });
-  return Promise.resolve({ ads : ads, adsCount: adsCount, shoppingAds: shoppingAds }).asCallback(callback);
+
+  var results = [];
+  $('#ires .g').each(function(){
+    results.push({
+      title: $(this).find('a').first().text(),
+      targetUrl: $(this).find('a').attr('href'),
+      description: $(this).find('.st').text()
+    });
+  });
+
+  return Promise.resolve({ ads : ads, adsCount: adsCount, shoppingAds: shoppingAds, results: results }).asCallback(callback);
 }
 
 module.exports.parse = parse;

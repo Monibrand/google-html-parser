@@ -1,7 +1,7 @@
 {
   "name": "google-html-parser",
-  "version": "0.0.3",
-  "description": "Parse Google Search Engine HTML to retrieve Google Ads and other stuff",
+  "version": "0.0.4",
+  "description": "Parse Google Search Engine HTML results to retrieve Google Adwords and other stuff",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
@@ -16,7 +16,8 @@
     "html",
     "ads",
     "search",
-    "engine"
+    "engine",
+    "adwords"
   ],
   "author": "Majewan Interactive",
   "license": "GPL-v3",

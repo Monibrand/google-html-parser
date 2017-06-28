@@ -45,6 +45,14 @@ describe('GoogleHtmlParser', function() {
           assert.strictEqual(extractedDatas.shoppingAds[i].discountText, shoppingAdMock.discountText);
         });
       });
+
+      mock.data.results.forEach((result, i) => {
+        it('Verify datas for result ' + result.title + ' (' + i + ')', function(){
+          assert.strictEqual(extractedDatas.results[i].title, result.title);
+          assert.strictEqual(extractedDatas.results[i].targetUrl, result.targetUrl);
+          assert.strictEqual(extractedDatas.results[i].description, result.description);
+        });
+      });
     });
   });
 });

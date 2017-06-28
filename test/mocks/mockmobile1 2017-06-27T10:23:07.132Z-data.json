@@ -26,5 +26,57 @@
     }
   ],
   "adsCount": 3,
-  "shoppingAds": []
+  "shoppingAds": [],
+  "results": [
+    {
+      "title": "Crédit Cofidis | Consommation, rachat de crédit, prêt personnel",
+      "targetUrl": "https://www.cofidis.fr/",
+      "description": "Financez vos projets personnels avec Cofidis, le spécialiste du crédit en ligne !"
+    },
+    {
+      "title": "Prêt personnel en ligne | Cofidis",
+      "targetUrl": "https://www.cofidis.fr/fr/pret-personnel/pret-sur-mesure.html",
+      "description": "Financez vos projets avec le prêt personnel de Cofidis . Simulez gratuitement votre prêt et faites la demande en ligne !"
+    },
+    {
+      "title": "Crédit à la consommation : simulation de crédit en ligne - Cofidis",
+      "targetUrl": "https://www.cofidis.fr/fr/credit/credit-consommation.html",
+      "description": "Concrétisez vos projets avec un crédit à la consommation Cofidis. Simulez gratuitement votre crédit et faites une demande en ligne !"
+    },
+    {
+      "title": "Crédit rapide sans justificatif | Cofidis",
+      "targetUrl": "https://www.cofidis.fr/fr/credit/credit-sans-justificatif.html",
+      "description": "Qu'il adopte la forme d'un pret personnel ou d'un crédit renouvelable, ce type de crédit vous fait bénéficier d'une liberté totale quant à la nature de vos dépenses, ..."
+    },
+    {
+      "title": "Simulation de credit en ligne : calcul de la mensualité - Cofidis",
+      "targetUrl": "https://www.cofidis.fr/fr/credit/simulation-credit.html",
+      "description": "Simulez en quelques clics votre crédit Cofidis et obtenez une réponse de principe immédiatement !"
+    },
+    {
+      "title": "Prêt personnel | Cofidis",
+      "targetUrl": "https://www.cofidis.fr/fr/pret-personnel.html",
+      "description": "Son taux et ses mensualités fixes vous garantissent un crédit sans surprise. Quel que soit votre projet, vous bénéficiez d'un crédit sans frais de dossier et profitez ..."
+    },
+    {
+      "title": "Espace client Cofidis : Identification",
+      "targetUrl": "https://www.cofidis.fr/fr/espace-client/identification.cgi",
+      "description": "Un crédit vous engage et doit être remboursé. Vérifiez vos capacités de remboursement avant de vous engager. Cofidis changez votre regard sur le crédit."
+    },
+    {
+      "title": "Besoin d'argent : simulation et demande de prêt en ligne | Cofidis",
+      "targetUrl": "https://www.cofidis.fr/fr/credit/credit-besoin-d-argent.html",
+      "description": "Imprévus ou dépenses importantes : effectuez une simulation de crédit en ligne et trouvez le crédit adapté à vos besoins avec Cofidis."
+    },
+    {
+      "title": "Simulation prêt personnel | Cofidis",
+      "targetUrl": "https://www.cofidis.fr/fr/pret-personnel/simulation-pret.html",
+      "description": "Informations consommateurs. **Pour un prêt personnel de 7 000€ (hors assurance facultative) sur 36 mois au TAEG fixe de 6,57% : 35 mensualités de 214,16€ ..."
+    },
+    {
+      "title": "Prêt sur mesure Cofidis : Crédit conso à 3,80% sur 4 ans - cBanque",
+      "targetUrl": "http://m.cbanque.com/epargne/cofidis/pret-personnel",
+      "description": "Le prêt sur mesure de Cofidis est un prêt personnel à taux fixe entre 500 euros et 35.000 euros à rembourser sur une durée comprise entre 6 mois et 84 mois."
+    }
+  ]
 }
