@@ -1,5 +1,6 @@
-var cheerio = require('cheerio');
-var _ = require('lodash');
+const cheerio = require('cheerio');
+const _ = require('lodash');
+const Promise = require('bluebird');
 
 function parse(options, body, callback){
   options = _.defaultsDeep(options, {
@@ -18,15 +19,9 @@ function parse(options, body, callback){
 
     var content = [];
     adNode.find('.ellip .g-bblc').remove();
-    adNode.children('.ellip').each(function(){
+    adNode.find('div.ads-creative, div.ellip').each(function(){
       content.push($(this).text());
     });
-
-    if(options.tryMobile){
-      adNode.find('div.ads-creative, div.ellip').each(function(){
-        content.push($(this).text());
-      });
-    }
 
     ad.content = content.join('\n');
 
@@ -57,15 +52,16 @@ function parse(options, body, callback){
   $('.pla-unit:has(img)').each(function(){
     var plaNode = $(this);
     var shoppingAd = {
-      title: plaNode.find('.pla-unit-title').text(),
-      price: plaNode.find('._pvi').text(),
-      subtitle: plaNode.find('._mC').text(),
-      targetUrl: plaNode.find('.pla-unit-title-link').attr('href'),
-      image: plaNode.find('.pla-unit-img-container img').attr('src')
+      title: plaNode.find('.pla-unit-title, h4').text(),
+      price: plaNode.find('._pvi, ._XJg').text(),
+      advertiser: plaNode.find('._mC, ._FLg').text(),
+      targetUrl: plaNode.find('.pla-unit-title-link').attr('href') || plaNode.attr('href'),
+      image: plaNode.find('.pla-unit-img-container img, .pla-img img').attr('src'),
+      discountText: plaNode.find('._zHp, ._gti').text()
     };
     shoppingAds.push(shoppingAd);
   });
-  callback(null, { ads : ads, adsCount: adsCount, shoppingAds: shoppingAds });
+  return Promise.resolve({ ads : ads, adsCount: adsCount, shoppingAds: shoppingAds }).asCallback(callback);
 }
 
 module.exports.parse = parse;

@@ -1,0 +1,100 @@
+{
+  "ads": [
+    {
+      "title": "Soldes LACOSTE Pas Cher - Soldes Nouvelle Démarque‎",
+      "displayUrl": "www.lacoste.com/Site_Officiel/Soldes",
+      "targetUrl": "http://www.lacoste.com/fr/lacoste/soldes/?utm_campaign=SoldesSS16&utm_medium=display&utm_source=ignitionone&utm_content=inapp",
+      "content": "Aujourd'hui La Livraison Offerte. Profitez Vite des Soldes Lacoste ! Commandez\nRetour Facile et Gratuit · Nouvelle Collection · Livraison Offerte dès 80€\nCatégories: Vêtements, Chaussures, Maroquinerie, Accessoires…",
+      "preconnectUrls": [
+        "http://www.lacoste.com/"
+      ],
+      "position": 1,
+      "area": "top"
+    },
+    {
+      "title": "-70% sur Top Marque - Zalando.fr‎",
+      "displayUrl": "soldes.zalando.fr/Lacoste",
+      "targetUrl": "https://www.zalando.fr/lacoste-online-shop/?",
+      "content": "Soldes sur Top Marque Jusqu'à -70% Livraison & Retour Gratuits !\nSoyez Une inspiration · Paiement Sécurisé · Plus de 1500 Marques\nStyles: Décontracté, Classique, Soir, Branché, Luxe, Urbain, Sport",
+      "preconnectUrls": [
+        "https://www.zalando.fr/",
+        "http://pixel.everesttech.net/"
+      ],
+      "position": 2,
+      "area": "top"
+    },
+    {
+      "title": "Alertes Contrefaçon - Nombreux sites de contrefaçon‎",
+      "displayUrl": "www.contrefacon.fr/",
+      "targetUrl": "https://www.contrefacon.fr/recherche/lacoste%20pas%20cher/",
+      "content": "Testez le site avant d'acheter\nTémoignages victimes · Réponse en temps réel · Protection gratuite",
+      "preconnectUrls": [
+        "https://www.contrefacon.fr/"
+      ],
+      "position": 3,
+      "area": "top"
+    },
+    {
+      "title": "Vente privée -90%‎",
+      "displayUrl": "www.brandalley.be/Lacoste",
+      "targetUrl": "http://www.fr.outlet-avenue.brandalley.be/FSMarque/Id-49345-Produit-0-Marqu",
+      "content": "Grand choix de produits remisés Jusqu'au27/7/2016. Stocks limités !\nRetours Gratuits · Panier Unique · Livraison Offerte dès 60€",
+      "preconnectUrls": [
+        "http://www.fr.outlet-avenue.brandalley.be/",
+        "http://k.brandalley.be/"
+      ],
+      "position": 4,
+      "area": "bottom"
+    },
+    {
+      "title": "Soldes pas cher - Collection à -50% - Foncez‎",
+      "displayUrl": "www.modz.fr/Lacoste",
+      "targetUrl": "https://www.modz.fr/marques/lacoste/",
+      "content": "Modz : Livraison Rapide",
+      "position": 5,
+      "area": "bottom"
+    },
+    {
+      "title": "Lacoste en ligne à -40%.‎",
+      "displayUrl": "soldes.lacoste.listupp.fr/",
+      "targetUrl": "http://listupp.fr/brand/lacoste/?discount=40&lstSource=google&lstMedium=cpc&lstCampaign=433518129&lstTerm=&adwCampaign=433518129&adwAdGroup=30872642289&adwMatchType=e&adwNetwork=g&adwDevice=c&adwDeviceModel=&adwKeyword=&adwPlacement=&adwAdPosition=none",
+      "content": "Découvre Lacoste promotions Lacoste à - 40% livrés en 48h\n+30 Mille marques · Réductions jusqu'à -70% · +150 magasins · Retours gratuits",
+      "preconnectUrls": [
+        "http://listupp.fr/"
+      ],
+      "position": 6,
+      "area": "bottom"
+    }
+  ],
+  "adsCount": 6,
+  "shoppingAds": [
+    {
+      "title": "T Shirt Slubbed Blanc Lacoste LiveT Shirt Slubbed Blanc Lacoste LiveT Shirt Slubbed Blanc Lacoste",
+      "price": "27,00 €",
+      "advertiser": "L'ExceptionL'ExceptionL'Exception",
+      "targetUrl": "/aclk?sa=l&ai=DChcSEwiN2Iyp25POAhVHidsKHagqDLQYABAV&sig=AOD64_2Gjs5MtQWPTSS1HA7GWbGnHK5Pfg&ctype=5&q=&ved=0ahUKEwj564mp25POAhVBOMAKHULnBFoQ9A4IugE&adurl=",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAGQAZAMBIgACEQEDEQH/xAAbAAEAAgMBAQAAAAAAAAAAAAAAAQUCAwQGB//EADQQAAEDAgQDBgQFBQAAAAAAAAEAAgMEEQUSITFBUXEGEyJhgZEUMsHwFSMzsfFCcoKh0f/EABkBAQADAQEAAAAAAAAAAAAAAAABAgQDBf/EAB0RAQABBQEBAQAAAAAAAAAAAAABAgMRMTIiEiH/2gAMAwEAAhEDEQA/APoCIiAsJ2l8EjW/M5pA62WaIPMQYnS/ioY8uzCK8YA3J+wr2iqhNEBYEXsRcXHsSvBYtTPw7FqzLnLb2DRHmu0i4t6W9irOmoIo6OOqNTLTSnxMs3Lm53AWCfx69OKqMvXV1YyOI2NgBxXh+z9bRsrMRxSvcTO6oLYAG3JtsBw5ey047ikXeh9TM4gDSNp/2V3YV2e/EaeiFY4xNgqPi5IrXznUNafTdWpj6lyrq+Iy9bh9OaeEh58T3Zi0G4boAGjoAOpueK6URbIjEYedMzM5kREUoEREBERAUgE6AXPkuqmoJJbOf4GHnuVbQU8cMeVjeptqUHyzti2WSsa+KIttEBnBPj1PsR9VVwwYrXxBgPcRt2uCSOi+yVOG0tXEWSxDe4NtQeYVHV4WaUWLLs4OA0Wa5bnOWy1d8/LxtD2apaSRlRMTPPoQ+Q3t0GwXo8MbZkrub7eyjuG3vuAPZWuCUgmoJC+4Bk8J9Et9IvctCLomo5oybNL282/8Wg6GxFitLIhERAREQSAXEAC5PBXNFQxxxh0jQ6Te/JcWGRZ5c5Gyu2bIMcgUgLPQ6JoRqpEKcw4hRtoiDTJR0j75qeK538I1WYjaxgYxoa0bACwWagqMQnMtWUXWirpGzt5PGxXWnNSh5lzSxxa4WcDYhQu3FmhtUHAfM0EriUAiIgucJZeDNbj9/Rd4Wmgi7qiibxIufXVbhcFIEjRZEWWCzzaKRCKdFHRBCcEUoMFiTY6rYLXXJnqfiJ2TQRtgaR3UrZLl21wRbTW6Dhxn9dn9qr1bYqzPCJeLXa+QP2FUqAREQerAAFhsFi7nwVXQdqMCxG3w2KU2Y6Bkju7d7OsVbgBzQQbg7EahM5TMTG2p18txvZaoc4/U34re8XFiT6LmlicAXNkfp5qUOkaqfRaYpL2B3W0aoDkCk2uoQLrVIblo87rYTYLBou+/JqDXJGZoJY+Lha/n/K88dN1bVGI9w50cIa519XE3AVU5xc4uO5NyoEIiIKjBIIXOqBJFG4OlcdWg7q4o6SnpXl9LEyEnUmIZb+yqsEcLE8XG6vWbFYIn9ehVpZUMskwcHyk2Ol11tJvleNf3VZQszueWOtIDorSN4kbZ4s7ittHMMNe2AYBtYLYOqFnmgbzV1UoigoDtWkeSp62RzpywEhobtdXBVLW6VP8Aj9Sudzl0t9KyAZe8byeVtWtp/PlHQrYlufMIuR6kUqEV1FPgejt9gP2V+4kDREXn07ejU7qZoZHSyN+Zzi13mLrvkbbUE7Ii3U6hgq2iCRz7h3Bbr62UorqoKHcIiCH7KixE/nu6fVSi53eXS104JAGPiy/1EgrNEVbOlr3QiIuri//Z"
+    },
+    {
+      "title": "Lacoste Sweat zippé, Garçon, ...Lacoste Sweat zippé, Garçon, Taille: 6a, Bleu ...Lacoste Sweat zippé, Garçon,",
+      "price": "44,00 €",
+      "advertiser": "Zalando.frZalando.frZalando.fr",
+      "targetUrl": "/aclk?sa=l&ai=DChcSEwiN2Iyp25POAhVHidsKHagqDLQYABAX&sig=AOD64_2I0pbi9r9lu0v4mL71yKpq4_DZcA&ctype=5&q=&ved=0ahUKEwj564mp25POAhVBOMAKHULnBFoQ9A4IvwE&adurl=",
+      "image": "data:image/jpeg;base64,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"
+    },
+    {
+      "title": "Lacoste Sport Tshirt de sport, ...Lacoste Sport Tshirt de sport, Homme, Taille: XL,Lacoste Sport Tshirt de sport,",
+      "price": "35,00 €",
+      "advertiser": "Zalando.frZalando.frZalando.fr",
+      "targetUrl": "/aclk?sa=l&ai=DChcSEwiN2Iyp25POAhVHidsKHagqDLQYABAZ&sig=AOD64_1QsKSEXA5C_-P1xQ2pjHVzweme7w&ctype=5&q=&ved=0ahUKEwj564mp25POAhVBOMAKHULnBFoQ9A4IxAE&adurl=",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAGQAXQMBIgACEQEDEQH/xAAcAAACAgMBAQAAAAAAAAAAAAAACAIHAQMGBAX/xABDEAABAwMBBAYFCAYLAAAAAAABAAIDBAURBgcSITETQVFhcYEiMlLB0hUjkZKhorGyFEJio7PRCBckJzZTVHJzdIL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ALxQhVPte2i1NlqRYbBMIq3dD6qpABMIPEMaD+sRxJ6gRjnkBZ9fX0dtpnVNwqoaWBvrSTSBjR5lVzqLbPZqLfhsdNLcphwEjsxQ58SN4+Qwe1UXXV9Vcajp7hV1FXN/mVErpHDwJ5LTlB0Optcaiv8AWsrKm4zU/QnMMVG90TIu8YOc95JK+1ZtQ7Qqm0trKLUbjT7zmjpw17+HA5zG78VwmVAxRE5Mbc+CD7l71pq6vlloK6/Vbw1xZI2F4jae3O4BkeK7HQu1WssMAoL2ya40TR81IHAzRD2cu4OHZkgjtxgCtWgNGGgAdyygaOw6801fSxlFdIWzu4CnqPmpCewB3reWV0qTYgOBBAIPauj0rrS96ZqoZKOsmlpWEB1FNKTE5vYAfV7iPtHBA0yF4bHdaW92mludC4up6mMPbnmO0HvByD3he5BF72xsc97g1rQS4nqCT2+3OS83uvujy4uq6h8o3uppPojyGB5JldrN4Fm0HdJA7EtTH+ixccHek9E48G7x8kruMYxyQSZIHDiFsGOpeQkskOFvY7Iyg2hCwCsoMr3NtdY63fKDI2uphnLg8ZaM4yR4rwArOBnOBntQZWMrJ4LW0kniqLw/o/3npaG5WWV5JgeKiEH2XcHAdwcAf/atxLBswu/yLre2Tuduwzv/AEWX/bJwH3tw+SZ9QVNt9or3cKC2R2631FRb6d75qmSFu+WvxhvojjgAv44xxVEAtePRII7inQXxb1pPT99JddrRSVEhGOlMe7J9cYcPpQKsLX0mm627lrvmK2npmHqO+yVzvo3Y/pXzojgFXrtW0tatM7NJ6WywOhhfcYp3h0jnkuPo83EnlhUQ3hvIPSOpSUexZQZUgolTHMIPfYrW69XWG3RuLXzMl3SBni2NzwPMtx5r5MDt9ocu22SxuftFs26ODXyuPh0Mit6k2RaLpnb3ybLLg5AkqpcDuwHD7UC6QRyzTMhp2ySTvOI2Qgue4/sgcc+CbTTdTW1en7dUXSB0FdJTsNRG5u6WyY9Lh1cepZtFitFlYW2m20lHvesYIWtLvEjifNfRQCEIQV5t3z/V9Nj/AFUP5ktn62O9Mrt1H93lV3VEP5wlrb6wQbz1KSieYUkAVsHJaypt5IO92LNDtf0p9mnlcPq496YxLpsU/wAfU3/Wl/BMWgEIQgEIQg4Tbc3e2b3E+zJAf3rB70szPXTNbbDjZtc+98H8ZiWWP1kG5ykOSgVNvJBg8lsjWoqcaDvtixxr6k/4Jh91Mal02KN3tfU59mnld9gHvTFoBCEIBCEIK+26v3dndWPanhH3wfclsi5lMjt4Gdns/DlUw/mS3Rcz4INqm3koAZUxyQRPNTjWt3NTj7EFh7EDjXkXfSSj8D7kxKXLYoca+pO+CYfdTGoBCEIBCEIOe19aKe+aRuNFVukbGY+kDoyA4OYQ4cwesKgYtHUBz/aaz6zPhWUIJyaPoI8Yqaw+LmfCtkWj6BzC41NX9ZnwrKEHkm0rRNIxUVXH9pvwqFPpukcCTNUcAeTm/wAlhCC1NkmkLdQVMl5jlqZKlsfRNbI9u40O5nAA48O1WihCAQhCD//Z"
+    },
+    {
+      "title": "Polo Enfant Lacoste L.12.12 ...Polo Enfant Lacoste L.12.12 en petit piqué uni ...Polo Enfant Lacoste L. ...",
+      "price": "30,00 €",
+      "advertiser": "Lacoste.comLacoste.comLacoste.com",
+      "targetUrl": "/aclk?sa=l&ai=DChcSEwiN2Iyp25POAhVHidsKHagqDLQYABAb&sig=AOD64_2Y7xpD3JGJ9wLbzyiOOGvD_P_Abw&ctype=5&q=&ved=0ahUKEwj564mp25POAhVBOMAKHULnBFoQ9A4IyQE&adurl=",
+      "image": "data:image/jpeg;base64,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"
+    }
+  ]
+}

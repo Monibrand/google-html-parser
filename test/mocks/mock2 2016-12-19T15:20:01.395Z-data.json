@@ -1,0 +1,75 @@
+{
+  "ads": [
+    {
+      "title": "Buy Hennessy XO Cognac - We Deliver Hennessy Worldwide‎",
+      "displayUrl": "www.send.com/HennessyCognacXO",
+      "targetUrl": "https://send.com/liquor/cat.php?list=285&utm_source=google&utm_medium=ppc&utm_term=HennessyCognac&utm_campaign=HennessyCognac",
+      "content": "Bottles & Baskets. Quick Delivery!\nIn business since 2001 · Schedule Future Delivery · Overnight Delivery\nTypes: Scotch, Bourbon, Whiskey, Tequila, Vodka, Cognac, Champagne, Wine, Gin, Beer",
+      "preconnectUrls": [
+        "http://send.com/"
+      ],
+      "position": 1,
+      "area": "bottom"
+    },
+    {
+      "title": "70% Off Hennessy Xo - Best Price On Hennessy Xo‎",
+      "displayUrl": "www.blackfridaydeals2016.co/hennessy-xo",
+      "targetUrl": "http://www.blackfridaydeals2016.co/hennessy-xo?",
+      "content": "Buy Now. Free Shipping. In Stock.",
+      "preconnectUrls": [
+        "http://www.blackfridaydeals2016.co/"
+      ],
+      "position": 2,
+      "area": "bottom"
+    },
+    {
+      "title": "Hennessy Xo - 70% Off - Lowest Price On Hennessy Xo‎",
+      "displayUrl": "www.stuccu.com/Hennessy+Xo",
+      "targetUrl": "http://n.stuccu.com/s/Hennessy%20Xo",
+      "content": "Free shipping, in stock. Buy now!\nIn stock · Exclusive deals · Best offers",
+      "preconnectUrls": [
+        "http://stuccu.com/"
+      ],
+      "position": 3,
+      "area": "bottom"
+    }
+  ],
+  "adsCount": 3,
+  "shoppingAds": [
+    {
+      "title": "Hennessy xo cognac (750 ml)",
+      "price": "$249.99",
+      "subtitle": "Country Wine...",
+      "targetUrl": "/aclk?sa=l&ai=DChcSEwjKrf2rw4DRAhUEthgKHYOTCccYABAI&sig=AOD64_2pJI4jaAN6gm0ZjaaiEKyqSd7Rbw&ctype=5&q=&ved=0ahUKEwjR_vmrw4DRAhUEFSwKHYedDN4Qww8IHg&adurl=",
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+    },
+    {
+      "title": "HENNESSY XO COGNAC .750",
+      "price": "$147.89",
+      "subtitle": "LiquorLiquida...",
+      "targetUrl": "/aclk?sa=l&ai=DChcSEwjKrf2rw4DRAhUEthgKHYOTCccYABAK&sig=AOD64_1Q1fXKuiihVrvGJk8Vi9Gc_p1xCg&ctype=5&q=&ved=0ahUKEwjR_vmrw4DRAhUEFSwKHYedDN4Qww8IIw&adurl=",
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+    },
+    {
+      "title": "Hennessy richard ...",
+      "price": "$4,299.99",
+      "subtitle": "Country Wine...",
+      "targetUrl": "/aclk?sa=l&ai=DChcSEwjKrf2rw4DRAhUEthgKHYOTCccYABAM&sig=AOD64_0WTKJokQbEXc51IB5wgoustdSkmg&ctype=5&q=&ved=0ahUKEwjR_vmrw4DRAhUEFSwKHYedDN4Qww8IKA&adurl=",
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+    },
+    {
+      "title": "Hennessy V.S.O.P. ...",
+      "price": "$71.00",
+      "subtitle": "Hennessy",
+      "targetUrl": "/aclk?sa=L&ai=DChcSEwjKrf2rw4DRAhUEthgKHYOTCccYABAO&sig=AOD64_2J7C1fRv56EUKhIRYqyTahRH3yBg&ctype=5&q=&ved=0ahUKEwjR_vmrw4DRAhUEFSwKHYedDN4Qww8ILQ&adurl=",
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+    },
+    {
+      "title": "Hennessy Richard ...",
+      "price": "$3,499.99",
+      "subtitle": "Shop Wine Di...",
+      "targetUrl": "/aclk?sa=l&ai=DChcSEwjKrf2rw4DRAhUEthgKHYOTCccYABAQ&sig=AOD64_3nyHYzoutUdF62DgbiDXwHmIiSqQ&ctype=5&q=&ved=0ahUKEwjR_vmrw4DRAhUEFSwKHYedDN4Qww8IMg&adurl=",
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+    }
+  ]
+}

@@ -24,9 +24,10 @@
     "url": "https://github.com/majewan/google-html-parser/issues"
   },
   "devDependencies": {
+    "bluebird": "^3.5.0",
     "google-search-scraper": "git+https://github.com/majewan/node-google-search-scraper.git",
     "lodash": "~4.13.1",
-    "async": "~2.0.0"
+    "minimist": "^1.2.0"
   },
   "dependencies": {
     "cheerio": "~0.20.0"
