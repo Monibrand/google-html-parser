@@ -23,5 +23,10 @@ GoogleHtmlParser.parse(options, '<html>Your Google snapshot</html>', function(er
   console.log(extractedDatas);
 });
 
+GoogleHtmlParser.parse(options, '<html>Your Google snapshot</html>')
+.then(parsedDatas => {
+  console.log(parsedDatas);
+});
+
 ```
 
