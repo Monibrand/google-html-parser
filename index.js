@@ -81,7 +81,9 @@ function parse(options, body, callback){
     });
   });
 
-  return Promise.resolve({ ads : ads, adsCount: adsCount, shoppingAds: shoppingAds, results: results }).asCallback(callback);
+  var location = $('#swml_addr').text() || undefined;
+
+  return Promise.resolve({ ads : ads, adsCount: adsCount, shoppingAds: shoppingAds, results: results, location: location }).asCallback(callback);
 }
 
 module.exports.parse = parse;
