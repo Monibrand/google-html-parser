@@ -62,10 +62,10 @@ function parse(options, body, callback){
 
     var shoppingAd = {
       title: title.join('\n') || plaNode.find('.pla-unit-title, h4').text(),
-      price: plaNode.find('._pvi, ._XJg').text(),
-      advertiser: plaNode.find('._mC, ._FLg').text(),
-      targetUrl: plaNode.find('.pla-unit-title-link').attr('href') || plaNode.attr('href'),
-      image: plaNode.find('.pla-unit-img-container img, .pla-img img').attr('src'),
+      price: plaNode.find('._pvi, ._XJg, ._EPg').text(),
+      advertiser: plaNode.find('._mC, ._FLg, cite').text(),
+      targetUrl: plaNode.find('.pla-unit-title-link, > a').attr('href') || plaNode.attr('href'),
+      image: plaNode.find('img').attr('src'),
       discountText: plaNode.find('._zHp, ._gti').text() || undefined
     };
 
