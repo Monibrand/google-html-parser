@@ -14,7 +14,7 @@ function parse(options, body, callback){
     var ad = {
       title: adNode.find('h3').first().text(),
       displayUrl: adNode.find('.ads-visurl cite').text(),
-      targetUrl: adNode.find('h3 a, .ad_cclk > a').next('a').attr('href')
+      targetUrl: adNode.find('h3 a, .ad_cclk > a').next('a').attr('href') || adNode.find('> a').attr('href')
     };
 
     var content = [];
