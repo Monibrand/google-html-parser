@@ -1,0 +1,362 @@
+{
+  "ads": [
+    {
+      "title": "Crédit à 1,30% Taeg fixe | Taux parmi les + bas du marché‎",
+      "displayUrl": "carrefour-banque.fr/Prêt-Personnel/Tous-projets",
+      "targetUrl": "https://www.carrefour-banque.fr/credit/pret-personnel/simulation-pret",
+      "content": "Simulez votre Crédit et réalisez vos projets. 10 000 à 20 000€ sur 24 mois !",
+      "position": 1,
+      "realPosition": 1,
+      "area": "top"
+    },
+    {
+      "title": "Crédit Franfinance | 1% TAEG Fixe | franfinance.fr‎",
+      "displayUrl": "www.franfinance.fr/Crédit",
+      "targetUrl": "https://www.franfinance.fr/solutions-credits/credit-personnel/",
+      "content": "De 5001€ à 21500€ sur 12 mois avec Franfinance Groupe Société Générale. Sans frais de dossier. Offres Personnalisées. Simulation Gratuite.",
+      "position": 2,
+      "realPosition": 2,
+      "area": "top"
+    },
+    {
+      "title": "Top 10 Meilleurs Credits Perso | Comparer les Meilleurs Offres‎",
+      "displayUrl": "10meilleurssitesdecredit.fr/Credit-Perso/Meilleur-Taux",
+      "targetUrl": "https://m.10meilleurssitesdecredit.fr/",
+      "content": "Simulation Gratuite et Sans Engagement en 5 mn. Taux les Plus Bas du Marché 2018",
+      "position": 3,
+      "realPosition": 3,
+      "area": "top"
+    },
+    {
+      "title": "Prêt Perso : 2,90% sur 12 mois | Donnez vie à vos projets‎",
+      "displayUrl": "www.csf.fr/prêt-personnel/fonctionnaire",
+      "targetUrl": "https://www.csf.fr/jcms/mle_830/le-pret-personnel",
+      "content": "Obtenez un taux fixe de 2,90% TAEG, de 1 500 € à 21 500 € sur 12 mois !\nPARIS · 9 rue du Faubourg Poissonnière",
+      "position": 4,
+      "realPosition": 15
+    },
+    {
+      "title": "Cetelem - Crédit en ligne‎",
+      "displayUrl": "www.cetelem.fr/",
+      "targetUrl": "https://www.cetelem.fr/fr/accueil",
+      "content": "Besoin d'un Crédit ? Cetelem vous accompagne dans vos projets.",
+      "position": 5,
+      "realPosition": 16
+    },
+    {
+      "title": "De 500 à 40.000€ en 4 minutes | Votre Crédit sans Justificatif‎",
+      "displayUrl": "www.allo-credit.com/Promotions-Taux",
+      "targetUrl": "https://www.allo-credit.com/lpm-promo-google.php",
+      "content": "Simulation 100% Gratuite et Sans engagement. Promotions aux Meilleurs Taux ! Simulez sans engagement.",
+      "position": 6,
+      "realPosition": 17
+    },
+    {
+      "title": "Crédit à 1,30% Taeg fixe | Taux parmi les + bas du marché‎",
+      "displayUrl": "carrefour-banque.fr/Prêt-Personnel/Tous-projets",
+      "targetUrl": "https://www.carrefour-banque.fr/credit/pret-personnel/simulation-pret",
+      "content": "Simulez votre Crédit et réalisez vos projets. 10 000 à 20 000€ sur 24 mois !",
+      "position": 7,
+      "realPosition": 28
+    },
+    {
+      "title": "Boursorama Banque Crédit Immo | Crédits Faciles et Sécurisés‎",
+      "displayUrl": "boursorama-banque.com/Crédit-Immo/Crédit",
+      "targetUrl": "https://www.boursorama-banque.com/credits/",
+      "content": "Découvrez l'offre de crédit immobilier 100% en ligne Boursorama Banque. Site optimisé mobile. Simulateur en ligne. Réponse immédiate.\nAfficher 4 prix à partir de 0,00 €\nSimulation de crédit\n0,00 €\nRéponse immédiate\nFrais de dossier immo\n0,00 €\nDemande 100% en ligne\nAucune indemnité\n0,00 €\nde remboursement anticipé\nChangez de banque\n0,00 €\nAvec le service Easymove",
+      "position": 8,
+      "realPosition": 29
+    },
+    {
+      "title": "Le Crédit Conso par Yelloan | Le Crédit Autrement‎",
+      "displayUrl": "www.yelloan.com/Crédit/Consommation",
+      "targetUrl": "https://www.yelloan.com/credit/conso",
+      "content": "Besoin d'un Crédit? Essayez Yelloan, le Nouvel Accès au Crédit à la Consommation",
+      "position": 9,
+      "realPosition": 30
+    },
+    {
+      "title": "Financez vos projets | Spécialiste du crédit en ligne‎",
+      "displayUrl": "www.financementpourtous.tk/",
+      "targetUrl": "/aclk?sa=l&ai=DChcSEwifvL-s-MPaAhXDnxsKHaHqCdAYABAAGgJ3bA&sig=AOD64_1IfWy6DHREGVoqy6piZ8Wf_Daatw&adurl=&q=",
+      "content": "Obtenez votre crédit en 72 h, Une Réponse de principe en quelques minutes.",
+      "position": 10,
+      "realPosition": 51
+    },
+    {
+      "title": "Finance Mutuel | Crédit Rapide En Ligne‎",
+      "displayUrl": "www.financemutuel.com/",
+      "targetUrl": "https://financemutuel.com/formulaire-de-demande-de-pret/",
+      "content": "Faites votre demande de crédit 100% en ligne. Décision de financement en 24h !",
+      "position": 11,
+      "realPosition": 52
+    },
+    {
+      "title": "Credit Personnel Finnaco | De 3 000 € à 75 000€‎",
+      "displayUrl": "www.finnaco.fr/",
+      "targetUrl": "https://www.finnaco.fr/credit-personnel/",
+      "content": "Obtenez votre crédit avec taux fixe et remboursez sur une durée de 12 à 120 mois",
+      "position": 12,
+      "realPosition": 53
+    }
+  ],
+  "adsCount": 12,
+  "shoppingAds": [],
+  "results": [
+    {
+      "title": "Crédit consommation pas cher - Crédit pas cher - Cnasea.fr",
+      "targetUrl": "https://www.cnasea.fr/credit-consommation/pas-cher",
+      "description": ""
+    },
+    {
+      "title": "Credit sans justificatif, rapide, pas cher, facile et en ligne",
+      "targetUrl": "https://www.moncredit.org/",
+      "description": "COMPAREZ les offres de credit consommation, credit immobilier, rachat de credit , credit sans justificatif et pret personnel - Prets en ligne (Moins de 3 minutes). Réponse immédiate sur moncredit.org."
+    },
+    {
+      "title": "Comparatif crédit consommation par Meilleurtaux.com",
+      "targetUrl": "https://www.meilleurtaux.com/demande-simulation/credit-consommation/?CAMPAIGN=CC2",
+      "description": "Une seule demande de prêt pour comparer les propositions de financement de 70 banques ! Retrouvez un guide du crédit immobilier, des simulations pour votre emprunt, vos mensualités."
+    },
+    {
+      "title": "Crédit conso - Simulation credit gratuite sans engagement ...",
+      "targetUrl": "https://www.lesfurets.com/credit-conso",
+      "description": "Pourquoi choisir LesFurets.com pour votre crédit à la consommation ? Simulation gratuite et sans engagement. Vous n'obtiendrez pas moins cher en direct. Vos données ne sont pas revendues. LesFurets.com · Crédit conso ..."
+    },
+    {
+      "title": "Crédit consommation pas cher - Crédit pas cher - Cnasea.fr",
+      "targetUrl": "https://www.cnasea.fr/credit-consommation/pas-cher",
+      "description": "Vous cherchez à faire des économies sur le cout d'un crédit conso? Cnasea vous propose en quelques minutes, de comparer les taux de dizaines d'organismes de crédit pas cher, et de découvrir lequel vous fera la proposition la moins ..."
+    },
+    {
+      "title": "Credit conso pas cher par Discountis - Credit consommation",
+      "targetUrl": "http://www.discountis.com/credit-consommation.php",
+      "description": "Besoin d'un credit conso pas cher ? Trouvez le meilleur taux pour votre credit à la consommation avec notre simulateur gratuit - Discountis spécialiste du crédit conso."
+    },
+    {
+      "title": "Crédit et prêt personnel au meilleur taux | Carrefour Banque",
+      "targetUrl": "https://www.carrefour-banque.fr/credit/pret-personnel",
+      "description": "Financez tous vos projets à un taux attractif avec le Prêt Personnel Carrefour Banque ! ... Vous pouvez réaliser votre demande de Prêt Perso en ligne si vous préférez ne pas vous déplacer en agence, votre dossier est étudié plus rapidement !"
+    },
+    {
+      "title": "Crédit pas cher : le meilleur de tous les taux du web",
+      "targetUrl": "https://www.capitaine-credit.com/credit-pas-cher/",
+      "description": "Pour trouver un crédit pas cher, il faut pouvoir comparer facilement en toute transparence. Le deuxième point essentiel pour obtenir un prêt pas cher, c'est… de l'obtenir. En effet, savoir qui propose le taux le moins cher est une chose mais  ..."
+    },
+    {
+      "title": "Comparateur de crédit pas cher par Mon credit moins cher .com",
+      "targetUrl": "http://www.moncreditmoinscher.com/",
+      "description": "Du crédit auto pas cher au prêt travaux ou prêt consommation optez pour le meilleur taux actuel avec le comparateur de crédit moins cher."
+    },
+    {
+      "title": "Crédit consommation pas cher, Crédit pas cher : comparateur de ...",
+      "targetUrl": "https://www.boursedescredits.com/guide-credit-consommation-credit-comparateur-credit-pret-personnel-meilleur-taux-1164.php",
+      "description": "Facilement accessible, le prêt à la consommation fait l'objet d'une concurrence accrue entre établissements de crédit. Cette situation arrange les emprunteurs, qui bénéficient de coût de financement moins élevé. Comment profiter de cette ..."
+    },
+    {
+      "title": "Credit pas cher, comparer les credits pour obtenir le meilleur taux ...",
+      "targetUrl": "http://www.credit-pas-cher.eu/",
+      "description": "Crédit pas cher, tout le crédit à la consommation. Besoin d'un crédit auto pas cher, d'un crédit travaux ou d'un prêt personnel ? Profitez du meilleur taux."
+    },
+    {
+      "title": "Crédit consommation - Prêt conso Rapide et en Ligne | Younited ...",
+      "targetUrl": "https://www.younited-credit.com/projets/credit-consommation",
+      "description": "Younited est un établissement de crédits à la consommation mais qui ne fonctionne pas comme une banque ; la plateforme se positionne comme un intermédiaire entre des emprunteurs et des investisseurs professionnels. En d' autres termes, ..."
+    },
+    {
+      "title": "Credit pas cher : Simulateur de petit credit rapide sans justificatif",
+      "targetUrl": "http://www.creditdiscount.net/",
+      "description": "Découvrez les offres de crédit les moins cher grâce à notre comparateur de credit gratuit et sans engagement."
+    },
+    {
+      "title": "Trouver un crédit conso pas cher - LeLynx.fr",
+      "targetUrl": "http://finance.lelynx.fr/credit-conso/liens-utiles/trouver-credit-conso-cher/",
+      "description": "Trouver un crédit conso pas cher, parfaitement adapté à des projets modestes à moyens. Comparer en ligne les offres de prêts en suivant nos conseils."
+    },
+    {
+      "title": "Simulation crédit auto pas cher, pret auto au meilleur taux (A partir ...",
+      "targetUrl": "https://credit-auto.info/",
+      "description": "Simulation crédit auto pas cher - ❤ - Comparez les différentes offres en ligne et en moins de 2 minutes. C'est sur credit-auto.info."
+    },
+    {
+      "title": "Crédit personnel : quel est le meilleur taux ? | Choisir.com ®",
+      "targetUrl": "https://credit.choisir.com/credit-personnel",
+      "description": "Le crédit personnel est un prêt non affecté, ce qui veut dire que vous n'êtes pas tenu d'expliquer à votre banque l'objet de votre crédit. Vous utilisez la somme prêtée comme bon vous semble, quel que soit votre besoin. Vous pouvez l' utiliser ..."
+    },
+    {
+      "title": "Où dégotter les crédits à la consommation les moins chers - Capital.fr",
+      "targetUrl": "https://www.capital.fr/votre-argent/ou-degotter-les-credits-a-la-consommation-les-moins-chers-923680?amp",
+      "description": "8 avr. 2014 · Les taux d'intérêt étant toujours au plus bas, il peut être tentant de souscrire un crédit à la consommation pour réaliser des travaux de rénovation ou financer une dépense imprévue. Le plus simple consiste."
+    },
+    {
+      "title": "Crédit pas cher - Credit On Line",
+      "targetUrl": "http://www.credit-on-line.com/lexique/credit-pas-cher.html",
+      "description": "Obtenir un crédit pas cher. Appellation du crédit pas cher : - Crédit au meilleur Taux. - Crédit à taux faible. - Crédit à bas taux. En effet le coût d'un crédit dépend de sont TAEG moins le taux d'intérêt est élevé plus le coût de votre crédit sera ..."
+    },
+    {
+      "title": "Rachat de credits le moins cher - GC Finance",
+      "targetUrl": "https://www.gcfinance.fr/rachat-de-credits-le-moins-cher.html",
+      "description": "Un rachat de crédit comporte un coût au même titre qu'un crédit immobilier ou à la consommation. Voici quelques conseils pour obtenir le rachat de crédits le moins cher."
+    },
+    {
+      "title": "5 conseils pour trouver une assurance de prêt pas chère",
+      "targetUrl": "https://reassurez-moi.fr/guide/5-conseils-trouver-assurance-pret-pas-chere/amp",
+      "description": "Nos conseils pour trouver une assurance de prêt immobilier pas chère et réduire ainsi le coût total de votre crédit immobilier."
+    },
+    {
+      "title": "Quel est le credit à la consommation le moins cher ? comparatif ...",
+      "targetUrl": "http://forum.sports-sante.com/credit-a-la-consommation-le-moins-cher-t3794.html",
+      "description": "il y a 2 jours · 17 posts · 17 auteursLe crédit à la conso le moins cher que pouvait m'accorder la société de prêts était prévu aux alentours de 3% si je remboursais très rapidement en quelques mois, mais impossible pour moi de prendre une crédit si ..."
+    },
+    {
+      "title": "Comparateur Credit Auto pas Cher : Meilleur taux - Mon-Auto ...",
+      "targetUrl": "https://mon-auto-assure.com/credit-auto-pas-cher",
+      "description": "COMPARATEUR et SIMULATEUR de CREDIT AUTO pas cher. Trouver les Meilleurs taux ! SERVICES 100% Gratuit & Sans Engagements."
+    },
+    {
+      "title": "Où souscrire à un prêt travaux pas cher ? - Radins.com",
+      "targetUrl": "https://www.radins.com/amp/dossiers/credit-epargne/ou-souscrire-a-un-pret-travaux-pas-cher,4426.html",
+      "description": "12 avr. 2016 · Il existe une offre très importante de prêts travaux. Que ce soit le prêt travaux des organismes de crédit ou des banques, le crédit travaux proposé par les grandes surfaces de bricolage, l'éco prêt à taux 0% éco-PTZ ..."
+    },
+    {
+      "title": "Credit auto - Pret auto | Empruntis",
+      "targetUrl": "https://www.empruntis.com/credits-auto/",
+      "description": "Pour effectuer la comparaison des offres de prêt automobile, il suffit de remplir quelques champs sur notre comparateur de crédit auto pas cher. Pour cela, indiquez dans un premier temps, le type de véhicule que vous souhaitez acheter  ..."
+    },
+    {
+      "title": "Rachat de credit pas cher - My Money Bank",
+      "targetUrl": "https://www.mymoneybank.fr/rdc/rachat-de-credit-pas-cher.html",
+      "description": "Certains sites vantent leur capacité à vous trouver une offre de rachat de crédit pas cher. Cependant, vous devez privilégier une solution adaptée à votre situation financière, votre besoin et vos projets. Miser également sur l'expertise et  ..."
+    },
+    {
+      "title": "Votre Assurance de pret pas cher en comparant les offres en ligne !",
+      "targetUrl": "http://www.adppc.fr/",
+      "description": "Découvrez les conseils infaillibles du courtier Adppc.fr pour négocier la meilleure assurance de pret pas cher et imposer son choix de garantie auprès de son banquier."
+    },
+    {
+      "title": "Assurance de prêt pas chère - Meilleures garanties - Solutis",
+      "targetUrl": "https://www.solutis.fr/assurance-pret-pas-chere.html",
+      "description": "L'assurance emprunteur permet de couvrir le titulaire d'un crédit en cas d' incapacité temporaire, permanente ou de décès. Il est possible de souscrire, par le biais de quelques astuces, une couverture moins chère mais avec des garanties ..."
+    },
+    {
+      "title": "Rachat crédit personnel : taux le moins cher | Aqueltaux.com ...",
+      "targetUrl": "https://www.aqueltaux.com/rachat-de-credit-taux-le-moins-cher/",
+      "description": "En direct, face à un banquier un dossier difficile ne tient pas 10 minutes ! Nous sommes courtier depuis 32 ans et nous avons l'habitude de négocier. 4 heures après la saisie de notre formulaire vous avez une réponse."
+    },
+    {
+      "title": "Assurance credit pas chère - AcommeAssure",
+      "targetUrl": "https://www.acommeassure.com/assurance-credit-pas-cher/amp/",
+      "description": "Vous êtes en train de solliciter un crédit immobilier et votre banque vous demande de souscrire une assurance crédit. En fonction du montant à emprunter et de votre profil, cette assurance peut peser lourd dans votre budget. C'est pourquoi, il ..."
+    },
+    {
+      "title": "Immobilier locatif : conseils pour décrocher un crédit pas cher | Le ...",
+      "targetUrl": "http://www.lerevenu.com/immobilier/pret-immobilier/immobilier-locatif-conseils-pour-decrocher-un-credit-pas-cher",
+      "description": "12 juin 2017 · Passez par un «courtier», négociez l'assurance décès-invalidité ainsi que l' absence de pénalités en cas de remboursement anticipé. Telles sont les recommandations de Stéphane Desquartiers, fondateur de «La maison de ..."
+    },
+    {
+      "title": "Crédit auto - Trouver un financement pas cher pour votre voiture",
+      "targetUrl": "http://www.topcreditauto.com/",
+      "description": "2 minutes pour trouver le meilleur crédit auto - Meilleur taux - Meilleures conditions."
+    },
+    {
+      "title": "Credit et prêt personnel rapide et sans justificatif de revenu",
+      "targetUrl": "http://www.pret-personnel-sans-justificatif.com/",
+      "description": "Utilisez notre comparateur en ligne, il vous aidera à trouver l'offre la plus avantageuse, car bien entendu, vous êtes à la recherche d'un crédit pas cher ! D' un seul clic vous allez pouvoir comparer plusieurs offres de crédit conso. En effet, afin ..."
+    },
+    {
+      "title": "Assurance prêt immobilier pas cher, assurance de prêt habitation",
+      "targetUrl": "http://www.assurance-pret-pas-cher.com/",
+      "description": "Comparez les meilleures offres d'assurance pret immobilier du marché avec celle de la banque et réduisez le coût global de votre credit immobilier !"
+    },
+    {
+      "title": "Le crédit pas cher soutient l'immobilier - Le Figaro",
+      "targetUrl": "http://www.lefigaro.fr/conjoncture/2016/04/11/20002-20160411ARTFIG00306-le-credit-pas-cher-soutient-l-immobilier.php",
+      "description": "11 avr. 2016 · INFOGRAPHIE - En mars, les taux des crédits immobiliers toutes durées confondues sont tombés à 1,97 % en moyenne, selon l'Observatoire crédit logement. De mémoire d'emprunteur, on n'a jamais connu d'aussi bonnes ..."
+    },
+    {
+      "title": "Crédits Vacances pas cher : Simulation, Avis et Conseils",
+      "targetUrl": "http://www.avis-credits.com/credit-vacances-pas-cher/",
+      "description": "24 nov. 2014 · Crédit Vacances pas cher. simulation-crédit. Partir en vacances…Certaines familles ne peuvent pas se le permettre chaque année, nous allons voir qu'il existe cependant des solutions. Dans l'optique de partir en vacances ..."
+    },
+    {
+      "title": "Allo-Credit: Crédit en ligne rapide et facile à obtenir",
+      "targetUrl": "https://www.allo-credit.com/",
+      "description": "Crédit en ligne rapide et pas cher, un crédit facile à obtenir grâce à Allo-credit. Faites votre demande de crédit en ligne sans justificatifs - crédit auto, crédit immobilier, prêt personnel."
+    },
+    {
+      "title": "Credit auto pas cher",
+      "targetUrl": "http://www.credit-pas-cher.info/",
+      "description": "Trouvez un pret au meilleur taux avec Credit pas cher.info, de nombreux simulateurs, calculatrice et conseils pour obtenir le meilleur credit du moment ..."
+    },
+    {
+      "title": "Rachat crédit consommation pas cher - Le Petit Poucet du Crédit",
+      "targetUrl": "http://www.lepetitpoucetducredit.com/rachat-de-credit-particulier/meilleur-taux/rachat-credit-consommation-pas-cher-95684.html",
+      "description": "Comment j'ai trouvé un rachat de crédit consommation qui réduit mes mensualités, sans changer de banque et qui m'a permis d'obtenir le financement de ma nouvelle voiture ?"
+    },
+    {
+      "title": "Crédit : la Banque centrale maintient l'argent pas cher - 27/10/2017 ...",
+      "targetUrl": "https://www.ladepeche.fr/article-amp/2017/10/27/2673746-credit-la-banque-centrale-maintient-l-argent-pas-cher.html",
+      "description": "27 oct. 2017 · La Banque centrale européenne a décidé hier de réduire l'intensité de son imposant programme anti-crise, conséquence de son optimisme grandissant sur l'économie en zone euro. Mario Draghi, président de la BCE, ..."
+    },
+    {
+      "title": "Pret voiture, solution pour un projet credit auto - Sofinco",
+      "targetUrl": "https://www.sofinco.fr/projet-credit/pret-voiture.htm",
+      "description": "Pas vraiment écologique... avec à la clé une essence plus chère à la pompe. Pesez le pour et le contre... voiture1.jpg Véhicules GPL. Les véhicules équipés de GPL (gaz de pétrole liquéfié) sont moins polluants avec un prix de carburant ..."
+    },
+    {
+      "title": "Credit pas cher - Credit neto",
+      "targetUrl": "http://www.creditneto.net/credit-pas-cher.html",
+      "description": "Credit pas cher sur Creditneto - Demande et simulation de Credit pas cher, Demandez votre Credit pas cher en ligne,"
+    },
+    {
+      "title": "Comparez les crédits - Trouvez l'offre de prêt la moins chère grace à ...",
+      "targetUrl": "https://www.espacecredit.com/html/credit/comparer/comparatif-des-credits.php",
+      "description": "Pour un crédit de 5000 euros, vous remboursez 12 mensualités de 425.34 € ( hors assurance), pour un coût total de 104.08 €. Pas de frais de dossier. TAEG à partir de 3.89 %. Faites votre propre propre simulation en ligne sur Cetelem."
+    },
+    {
+      "title": "Crédit auto, prêt immobilier : empruntez moins cher sans les banques",
+      "targetUrl": "https://radinmalinblog.com/credit-auto-pret-immobilier-empruntez-moins-cher-sans-les-banques",
+      "description": "9 janv. 2017 · Comme j'en parlais il y a un an (déjà) dans cet article, l'idée du prêt sans passer par les banques est fabuleuse car c'est à la fois un excellent placement pour les prêteurs et un crédit pas cher du tout pour les emprunteurs."
+    },
+    {
+      "title": "Credit - Achat / Vente pas cher - - Cdiscount.com",
+      "targetUrl": "https://www.cdiscount.com/informatique/r-credit.html",
+      "description": "jeudi 5 avril 2018 : vite, découvrez nos réductions sur l'offre Credit sur Cdiscount ! Livraison rapide et économies garanties."
+    },
+    {
+      "title": "Credit auto : Le meilleur du pret auto moins cher",
+      "targetUrl": "http://www.financementautomobile.fr/credit-auto",
+      "description": "Généralement, ce genre de prêt vous est proposé sur le lieu de la vente. Toutefois, ce n'est pas une obligation d'accepter de prendre le crédit auto pas cher auprès du concessionnaire. Vous pouvez faire appel à un organisme spécialisé sur ..."
+    },
+    {
+      "title": "Prêt personnel Carrefour Banque : Prêt personnel à 1,30% sur 2 ans",
+      "targetUrl": "https://www.cbanque.com/epargne/carrefour-banque/pret-perso",
+      "description": "Contrairement à d'autres organismes de crédit, Carrefour Banque ne demande pas systématiquement de justificatifs pour ajuster le montant du crédit. La capacité de remboursement est vérifiée grâce aux derniers bulletins de salaire et /ou ..."
+    },
+    {
+      "title": "Comparateur Assurance crédit prêt emprunt pas cher - Elly Assurance",
+      "targetUrl": "https://www.elly-assurance.fr/assurance-credit/",
+      "description": "Assurance crédit, prêt immobilier, souscription prêt certificat d'adhésion assurance emprunteur, sécurité optimale taux au plus bas."
+    },
+    {
+      "title": "Durée crédit auto : prêt le moins cher sur 36, 48, 60, 72 mois",
+      "targetUrl": "https://www.autosphere.fr/nos-services/financement/credit-auto/duree-pret-voiture.html",
+      "description": "Quelle est la durée d'un crédit auto ? Cela peut être variable, nous vous donnons donc des informations très utiles pour bien choisir la durée de votre crédit."
+    },
+    {
+      "title": "Credit sans justificatif, Prêt personnel rapide",
+      "targetUrl": "https://www.creditperso.fr/",
+      "description": "Étant un crédit pas cher et avec le meilleur taux, la plupart des personnes sont souvent attirées par le prêt sans justificatif. Le client est tenu au courant du taux Annuel Global Effectif et de la mensualité imposée. C'est un crédit renouvelable à ..."
+    },
+    {
+      "title": "Mentions Légales du courtier assurance credit pas cher",
+      "targetUrl": "http://www.assurance-credit-pas-cher.fr/qui-sommes-nous",
+      "description": "assurance credit : le courtier en assurance de credit immobilier propose des taux exceptionnels pour assurance de crédit individuelle."
+    },
+    {
+      "title": "Comment faire pour obtenir un rachat de crédit pas cher ? - Excellia ...",
+      "targetUrl": "https://www.excellia-finance.fr/actu/2015/09/19/rachat-de-credit-pas-cher/amp/",
+      "description": "19 sept. 2015 · Lorsque la gestion budgétaire et financière des comptes bancaires devient difficile à maîtriser, et surtout, si le motif de cette situation perturbatrice découle d' un trop plein de prêt d'argent souscrit chez les organismes de ..."
+    }
+  ]
+}

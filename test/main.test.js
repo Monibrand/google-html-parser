@@ -17,12 +17,14 @@ describe('GoogleHtmlParser', function() {
       it('Counting ads', function(){
         assert.strictEqual(extractedDatas.ads.length, mock.data.ads.length, 'Ads length doesn\'t match.');
         assert.strictEqual(extractedDatas.adsCount, mock.data.adsCount, 'Ads alternative count doesn\'t match.');
+        assert.strictEqual(extractedDatas.adsCount, mock.data.ads.length, 'Ads alternative count doesn\'t match with ads length.');
         assert.strictEqual(extractedDatas.location, mock.data.location, 'Location is wrong');
       });
 
       mock.data.ads.forEach((adMock, i) => {
         it('Verify datas for ad ' + adMock.title + ' (' + i + ')', function(){
           assert.strictEqual(extractedDatas.ads[i].position, adMock.position);
+          assert.strictEqual(extractedDatas.ads[i].realPosition, adMock.realPosition);
           assert.strictEqual(extractedDatas.ads[i].area, adMock.area);
           assert.strictEqual(extractedDatas.ads[i].title, adMock.title);
           assert.strictEqual(extractedDatas.ads[i].content, adMock.content);
@@ -45,6 +47,10 @@ describe('GoogleHtmlParser', function() {
           assert.strictEqual(extractedDatas.shoppingAds[i].price, shoppingAdMock.price);
           assert.strictEqual(extractedDatas.shoppingAds[i].discountText, shoppingAdMock.discountText);
         });
+      });
+
+      it('Counting results', function(){
+        assert.strictEqual(extractedDatas.results.length, mock.data.results.length, 'Results length doesn\'t match.');
       });
 
       mock.data.results.forEach((result, i) => {
