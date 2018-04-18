@@ -6,6 +6,7 @@
       "targetUrl": "https://www.cofidis.fr/fr/credit_en_ligne/simulateur-credits.html",
       "content": "Crédit Renouvelable, Crédit ou Rachat de Crédit. Des Crédits pour Chaque Besoins\nService Client de l'Année · Chat en ligne\nAppeler le 03 28 09 21 18",
       "position": 1,
+      "realPosition": 1,
       "area": "top"
     },
     {
@@ -14,6 +15,7 @@
       "targetUrl": "http://invests-sarl-credit.com/",
       "content": "pret entre particulier taeg fixe rapide disponible en 48h .",
       "position": 2,
+      "realPosition": 2,
       "area": "top"
     },
     {
@@ -22,6 +24,7 @@
       "targetUrl": "http://www.credit-public.org/",
       "content": "Crédit rapide pour financer votre projet. Pas de frais de dossier !\nCatégories: Travaux, Auto, Trésorerie…",
       "position": 3,
+      "realPosition": 3,
       "area": "top"
     }
   ],

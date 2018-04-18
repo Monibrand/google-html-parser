@@ -9,7 +9,8 @@
         "http://send.com/"
       ],
       "position": 1,
-      "area": "bottom"
+      "area": "bottom",
+      "realPosition": 10
     },
     {
       "title": "70% Off Hennessy Xo - Best Price On Hennessy Xo‎",
@@ -20,6 +21,7 @@
         "http://www.blackfridaydeals2016.co/"
       ],
       "position": 2,
+      "realPosition": 11,
       "area": "bottom"
     },
     {
@@ -31,6 +33,7 @@
         "http://stuccu.com/"
       ],
       "position": 3,
+      "realPosition": 12,
       "area": "bottom"
     }
   ],

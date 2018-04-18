@@ -9,6 +9,7 @@
         "http://www.lacoste.com/"
       ],
       "position": 1,
+      "realPosition": 1,
       "area": "top"
     },
     {
@@ -21,6 +22,7 @@
         "http://pixel.everesttech.net/"
       ],
       "position": 2,
+      "realPosition": 2,
       "area": "top"
     },
     {
@@ -32,6 +34,7 @@
         "https://www.contrefacon.fr/"
       ],
       "position": 3,
+      "realPosition": 3,
       "area": "top"
     },
     {
@@ -44,6 +47,7 @@
         "http://k.brandalley.be/"
       ],
       "position": 4,
+      "realPosition": 14,
       "area": "bottom"
     },
     {
@@ -52,6 +56,7 @@
       "targetUrl": "https://www.modz.fr/marques/lacoste/",
       "content": "Modz : Livraison Rapide",
       "position": 5,
+      "realPosition": 15,
       "area": "bottom"
     },
     {
@@ -63,6 +68,7 @@
         "http://listupp.fr/"
       ],
       "position": 6,
+      "realPosition": 16,
       "area": "bottom"
     }
   ],

@@ -10,6 +10,7 @@
         "https://ad.atdmt.com/"
       ],
       "position": 1,
+      "realPosition":1,
       "area": "top"
     },
     {
@@ -21,6 +22,7 @@
         "https://www.monshowroom.com/"
       ],
       "position": 2,
+      "realPosition":11,
       "area": "bottom"
     }
   ],

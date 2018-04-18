@@ -55,8 +55,6 @@ function parse(options, body, callback){
     }
   });
 
-  console.log(results);
-
   var detectRule = _.chain(options.detectText).map(function(text){
     return _.template('span:contains("<%= text %>")')({text: text});
   }).join(', ').value();
