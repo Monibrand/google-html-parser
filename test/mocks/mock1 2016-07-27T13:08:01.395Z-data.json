@@ -165,5 +165,7 @@
       "realPosition": 13
     }
   ],
-  "location": "Paris"
+  "location": {
+    "region": "Paris"
+  }
 }

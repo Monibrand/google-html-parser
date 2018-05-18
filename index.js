@@ -89,9 +89,18 @@ function parse(options, body, callback){
     shoppingAds.push(shoppingAd);
   });
 
-  var location = $('#swml_addr').text() || undefined;
+  var location = {
+    country: $('.Q8LRLc').text() || undefined,
+    region: $('#swml_addr, #swml-loc').text() || undefined,
+  };
 
-  return Promise.resolve({ ads : ads, adsCount: adsCount, shoppingAds: shoppingAds, results: results, location: location }).asCallback(callback);
+  return Promise.resolve({
+    ads : ads,
+    adsCount: adsCount,
+    shoppingAds: shoppingAds,
+    results: results,
+    location: (location.country || location.region) ? location : undefined,
+  }).asCallback(callback);
 }
 
 module.exports.parse = parse;

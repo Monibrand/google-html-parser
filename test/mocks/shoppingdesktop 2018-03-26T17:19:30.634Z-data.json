@@ -261,5 +261,9 @@
       "description": "Lacoste Pantalons de Survêtement - Homme – Achète en ligne Lacoste Pantalons de Survêtement - Homme avec JD Sports, le leader du Sport Fashion et Streetwear en Angleterre.",
       "realPosition": 9
     }
-  ]
+  ],
+  "location": {
+    "country": "France",
+    "region": "75010, Paris"
+  }
 }

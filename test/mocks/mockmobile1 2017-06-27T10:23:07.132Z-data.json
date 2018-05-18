@@ -92,5 +92,7 @@
       "realPosition": 13
     }
   ],
-  "location": "75003, Paris"
+  "location": {
+    "region": "75003, Paris"
+  }
 }

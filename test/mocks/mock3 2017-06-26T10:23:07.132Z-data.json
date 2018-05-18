@@ -60,5 +60,7 @@
       "realPosition": 8
     }
   ],
-  "location": "Île-de-France"
+  "location": {
+    "region": "Île-de-France"
+  }
 }

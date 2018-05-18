@@ -93,5 +93,9 @@
       "description": "",
       "realPosition": 9
     }
-  ]
+  ],
+  "location": {
+    "country": "France",
+    "region": "75010, Paris"
+  }
 }
