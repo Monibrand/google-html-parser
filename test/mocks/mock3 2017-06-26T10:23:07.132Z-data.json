@@ -10,8 +10,8 @@
         "http://cofidis2.solution.weborama.fr/"
       ],
       "position": 1,
-      "realPosition": 1,
-      "area": "top"
+      "area": "top",
+      "realPosition": 1
     }
   ],
   "adsCount": 1,
@@ -20,37 +20,44 @@
     {
       "title": "Crédit Cofidis | Consommation, rachat de crédit, prêt personnel",
       "targetUrl": "https://www.cofidis.fr/",
-      "description": "Financez vos projets personnels avec Cofidis, le spécialiste du crédit en ligne !Espace client Cofidis : prêts en cours, demande de virement ...Le rachat de crédit Cofidis est un prêt personnel de 3 000€ à 80 ...Financez vos projets avec le prêt personnel de Cofidis. Simulez ...Simulation prêt personnel. Précisez le montant de votre ...Concrétisez vos projets avec un crédit à la consommation ...Simulez votre crédit besoin d'argent ... De quel montant avez ..."
+      "description": "Financez vos projets personnels avec Cofidis, le spécialiste du crédit en ligne !Espace client Cofidis : prêts en cours, demande de virement ...Le rachat de crédit Cofidis est un prêt personnel de 3 000€ à 80 ...Financez vos projets avec le prêt personnel de Cofidis. Simulez ...Simulation prêt personnel. Précisez le montant de votre ...Concrétisez vos projets avec un crédit à la consommation ...Simulez votre crédit besoin d'argent ... De quel montant avez ...",
+      "realPosition": 2
     },
     {
       "title": "Prêt sur mesure Cofidis : Crédit conso à 3,80% sur 4 ans - cBanque",
       "targetUrl": "http://www.cbanque.com/epargne/cofidis/pret-personnel",
-      "description": "Le prêt sur mesure de Cofidis est un prêt personnel à taux fixe entre 500 euros et 35.000 euros à rembourser sur une durée comprise entre 6 mois et 84 mois."
+      "description": "Le prêt sur mesure de Cofidis est un prêt personnel à taux fixe entre 500 euros et 35.000 euros à rembourser sur une durée comprise entre 6 mois et 84 mois.",
+      "realPosition": 3
     },
     {
       "title": "Cofidis - Simulation crédit conso - LesFurets.com",
       "targetUrl": "https://www.lesfurets.com/credit-conso/partenaires/cofidis",
-      "description": "Simulation de prêt personnel et crédit renouvelable avec Cofidis. Financez vos projets au meilleur taux avec ou sans apport avec Cofidis."
+      "description": "Simulation de prêt personnel et crédit renouvelable avec Cofidis. Financez vos projets au meilleur taux avec ou sans apport avec Cofidis.",
+      "realPosition": 4
     },
     {
       "title": "Equipe cycliste Cofidis: Cofidis Pro Cycling Team",
       "targetUrl": "http://www.equipe-cofidis.com/",
-      "description": "Retrouvez toute l'actualité de l'équipe Cofidis directement sur son site officiel : infos, actus, évènements, photos et vidéos."
+      "description": "Retrouvez toute l'actualité de l'équipe Cofidis directement sur son site officiel : infos, actus, évènements, photos et vidéos.",
+      "realPosition": 5
     },
     {
       "title": "Amedy Coulibaly avait emprunté 6000 € en décembre auprès de Cofidis",
       "targetUrl": "http://www.sudouest.fr/2015/01/13/amedy-coulibaly-avait-emprunte-6000-eur-en-decembre-aupres-de-cofidis-1795673-6092.php",
-      "description": "13 janv. 2015 - Le terroriste responsable de la mort de cinq personnes s'était endetté sur soixante mois Pour solliciter un prêt auprès d'un organisme de crédit ..."
+      "description": "13 janv. 2015 - Le terroriste responsable de la mort de cinq personnes s'était endetté sur soixante mois Pour solliciter un prêt auprès d'un organisme de crédit ...",
+      "realPosition": 6
     },
     {
       "title": "Cofidis — Wikipédia",
       "targetUrl": "https://fr.wikipedia.org/wiki/Cofidis",
-      "description": "Cofidis pour \"COmpagnie FInancière de DIStribution\" est une société du groupe Cofidis Participations spécialisée dans le crédit vendu et géré à distance, dont ..."
+      "description": "Cofidis pour \"COmpagnie FInancière de DIStribution\" est une société du groupe Cofidis Participations spécialisée dans le crédit vendu et géré à distance, dont ...",
+      "realPosition": 7
     },
     {
       "title": "Cofidis simulation et offres de crédit en ligne - Credit On Line",
       "targetUrl": "http://www.credit-on-line.com/cofidis/",
-      "description": "Découvrez les offres de crédit Cofidis, crée en 1982 il est l'un des acteur majeur du crédit à la consommation en France."
+      "description": "Découvrez les offres de crédit Cofidis, crée en 1982 il est l'un des acteur majeur du crédit à la consommation en France.",
+      "realPosition": 8
     }
   ],
   "location": "Île-de-France"

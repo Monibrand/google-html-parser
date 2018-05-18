@@ -6,8 +6,8 @@
       "targetUrl": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiLxNTEmeDUAhXute0KHUNhCawYABAAGgJkZw&ohost=www.google.fr&cid=CAASE-Ro_spams2LI5QnZIBjgmWJL14&sig=AOD64_0J_hCua33f5xS55aVOwq-CYW-SxQ&adurl=&q=",
       "content": "Commandez vite en ligne toute la la Collection Lacoste® 2017 ! Commandez\nTypes: Polos, Chaussures, Robes, Pullover, Sacs, Accessoires, Pantalons\nPolos Lacoste\nDès 70,00 €\nClassic, Regular ou Slim\nChaussures Lacoste\nDès 65,00 €\nHomme, Femme et Enfants\nPantalon Lacoste\nDès 110,00 €\nHomme, Femme et Enfants",
       "position": 1,
-      "realPosition":1,
-      "area": "top"
+      "area": "top",
+      "realPosition": 1
     }
   ],
   "adsCount": 1,
@@ -208,47 +208,56 @@
     {
       "title": "Polo homme, polos Lacoste manches longues et courtes | LACOSTE",
       "targetUrl": "http://www.lacoste.com/fr/lacoste/homme/vetements/polos/",
-      "description": "Découvrez les différents modèles de polo Lacoste. Retrouvez les collections de polos homme manches courtes et manches longues en ligne."
+      "description": "Découvrez les différents modèles de polo Lacoste. Retrouvez les collections de polos homme manches courtes et manches longues en ligne.",
+      "realPosition": 2
     },
     {
       "title": "Tous les polos | Collection Polo | LACOSTE",
       "targetUrl": "http://www.lacoste.com/fr/les-polos/tous-les-polos/",
-      "description": "La collection de polos Lacoste à découvrir dès maintenant sur notre boutique en ligne. Choisissez un polo Lacoste à manches courtes ou à ..."
+      "description": "La collection de polos Lacoste à découvrir dès maintenant sur notre boutique en ligne. Choisissez un polo Lacoste à manches courtes ou à ...",
+      "realPosition": 3
     },
     {
       "title": "T-shirt & polos homme Lacoste à commander | Livraison gratuite sur Zalando",
       "targetUrl": "https://m.zalando.fr/t-shirts-polos-homme/lacoste/",
-      "description": "Achetez des t-shirt & polos homme Lacoste au meilleur prix sur la boutique Zalando ✓ Satisfait ou remboursé ✓ Nouvelles collections parmi de  ..."
+      "description": "Achetez des t-shirt & polos homme Lacoste au meilleur prix sur la boutique Zalando ✓ Satisfait ou remboursé ✓ Nouvelles collections parmi de  ...",
+      "realPosition": 4
     },
     {
       "title": "Polo Lacoste homme - Cdiscount.com",
       "targetUrl": "http://www.cdiscount.com/pret-a-porter/vetements-homme/polos/lf-2139_6-lacoste.html",
-      "description": "Vite ! Découvrez nos promos et ventes flash Polo Lacoste Homme sur Cdiscount. Livraison rapide et économies garanties !"
+      "description": "Vite ! Découvrez nos promos et ventes flash Polo Lacoste Homme sur Cdiscount. Livraison rapide et économies garanties !",
+      "realPosition": 5
     },
     {
       "title": "Polos Lacoste pour homme - Galeries Lafayette",
       "targetUrl": "https://www.galerieslafayette.com/c/homme-pret-a-porter-t-shirts+et+polos/f/polos/fm/lacoste",
-      "description": "Polos Lacoste : profitez des dernières offres polos de la marque Lacoste et découvrez les nouvelles collections printemps-été sur ..."
+      "description": "Polos Lacoste : profitez des dernières offres polos de la marque Lacoste et découvrez les nouvelles collections printemps-été sur ...",
+      "realPosition": 6
     },
     {
       "title": "Amazon.fr : Polo Lacoste",
       "targetUrl": "https://www.amazon.fr/Polo-Lacoste/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3APolo%20Lacoste",
-      "description": "Descriptions du produit ... Créateur du premier polo en 1933, Lacoste s'est imposé comme l ... Lacoste Dh2071, Polo Homme. de Lacoste."
+      "description": "Descriptions du produit ... Créateur du premier polo en 1933, Lacoste s'est imposé comme l ... Lacoste Dh2071, Polo Homme. de Lacoste.",
+      "realPosition": 7
     },
     {
       "title": "Polo Lacoste Homme - Achetez en ligne pas cher sur ShopAlike.fr",
       "targetUrl": "http://m.shopalike.fr/mode/homme-lacoste-polo/",
-      "description": "Comparez et achetez des Polos de la marque Lacoste Hommes pas cher avec ShopAlike.fr. ✓ Large choix ✓ Nombreuses promos ✓ Dernières  ..."
+      "description": "Comparez et achetez des Polos de la marque Lacoste Hommes pas cher avec ShopAlike.fr. ✓ Large choix ✓ Nombreuses promos ✓ Dernières  ...",
+      "realPosition": 8
     },
     {
       "title": "Lacoste | Découvrez les polos, baskets et pulls Lacoste | ASOS",
       "targetUrl": "http://www.asos.fr/homme/a-to-z-of-brands/lacoste/cat/?cid=7368",
-      "description": "Découvrez Lacoste chez Asos. Découvrez la dernière collection de polos, baskets et pulls Lacoste."
+      "description": "Découvrez Lacoste chez Asos. Découvrez la dernière collection de polos, baskets et pulls Lacoste.",
+      "realPosition": 9
     },
     {
       "title": "Polos Lacoste® : Achetez jusqu'à −45% | Stylight",
       "targetUrl": "https://www.stylight.fr/Lacoste/Polos/",
-      "description": "Polos Lacoste® sur Stylight : Best-sellers jusqu' à −45% ✓ 916 produits en stock ✓ Nombreux styles & couleurs » Dès maintenant !"
+      "description": "Polos Lacoste® sur Stylight : Best-sellers jusqu' à −45% ✓ 916 produits en stock ✓ Nombreux styles & couleurs » Dès maintenant !",
+      "realPosition": 10
     }
   ],
   "location": "75003, Paris"

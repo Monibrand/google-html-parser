@@ -9,8 +9,8 @@
         "http://www.lacoste.com/"
       ],
       "position": 1,
-      "realPosition": 1,
-      "area": "top"
+      "area": "top",
+      "realPosition": 1
     },
     {
       "title": "-70% sur Top Marque - Zalando.fr‎",
@@ -22,8 +22,8 @@
         "http://pixel.everesttech.net/"
       ],
       "position": 2,
-      "realPosition": 2,
-      "area": "top"
+      "area": "top",
+      "realPosition": 2
     },
     {
       "title": "Alertes Contrefaçon - Nombreux sites de contrefaçon‎",
@@ -34,8 +34,8 @@
         "https://www.contrefacon.fr/"
       ],
       "position": 3,
-      "realPosition": 3,
-      "area": "top"
+      "area": "top",
+      "realPosition": 3
     },
     {
       "title": "Vente privée -90%‎",
@@ -47,8 +47,8 @@
         "http://k.brandalley.be/"
       ],
       "position": 4,
-      "realPosition": 14,
-      "area": "bottom"
+      "area": "bottom",
+      "realPosition": 14
     },
     {
       "title": "Soldes pas cher - Collection à -50% - Foncez‎",
@@ -56,8 +56,8 @@
       "targetUrl": "https://www.modz.fr/marques/lacoste/",
       "content": "Modz : Livraison Rapide",
       "position": 5,
-      "realPosition": 15,
-      "area": "bottom"
+      "area": "bottom",
+      "realPosition": 15
     },
     {
       "title": "Lacoste en ligne à -40%.‎",
@@ -68,8 +68,8 @@
         "http://listupp.fr/"
       ],
       "position": 6,
-      "realPosition": 16,
-      "area": "bottom"
+      "area": "bottom",
+      "realPosition": 16
     }
   ],
   "adsCount": 6,
@@ -107,52 +107,62 @@
     {
       "title": "Soldes d'été 2016 Lacoste | Zalando",
       "targetUrl": "https://www.zalando.fr/soldes-lacoste/",
-      "description": "Dernière démarque des soldes Lacoste , jusqu'à -70% chez Zalando du 22 juin ... Pour vous qui êtes mince et de taille moyenne, ne vous cachez pas derrière ..."
+      "description": "Dernière démarque des soldes Lacoste , jusqu'à -70% chez Zalando du 22 juin ... Pour vous qui êtes mince et de taille moyenne, ne vous cachez pas derrière ...",
+      "realPosition": 4
     },
     {
       "title": "Polo Lacoste homme - Achat / Vente Polo Lacoste Homme pas cher ...",
       "targetUrl": "http://www.cdiscount.com/pret-a-porter/vetements-homme/polos/lf-2139_6-lacoste.html",
-      "description": "SOLDES* été 2016 ! Vite ! Découvrez nos promos et ventes flash Polo Lacoste Homme sur Cdiscount. Livraison rapide et économies garanties !"
+      "description": "SOLDES* été 2016 ! Vite ! Découvrez nos promos et ventes flash Polo Lacoste Homme sur Cdiscount. Livraison rapide et économies garanties !",
+      "realPosition": 5
     },
     {
       "title": "Lacoste boutique en ligne - Achetez des produits Lacoste pas chers",
       "targetUrl": "http://www.shopalike.fr/lacoste/",
-      "description": "Comparez et commandez en ligne des produits de la marque Lacoste. Vous trouverez de nombreux produits Lacoste sur ShopAlike.fr."
+      "description": "Comparez et commandez en ligne des produits de la marque Lacoste. Vous trouverez de nombreux produits Lacoste sur ShopAlike.fr.",
+      "realPosition": 6
     },
     {
       "title": "Lacoste Pas Cher, Polo Lacoste Pas Cher, Lacoste Soldes",
       "targetUrl": "http://www.arts4business.org/",
-      "description": "Lacoste pas cher, Lacoste Femme Pas Cher, Lacoste Homme Pas Cher, Polo Lacoste Pas Cher, Survetement Lacoste Pas Cher, Doudoune Lacoste Pas Cher, ..."
+      "description": "Lacoste pas cher, Lacoste Femme Pas Cher, Lacoste Homme Pas Cher, Polo Lacoste Pas Cher, Survetement Lacoste Pas Cher, Doudoune Lacoste Pas Cher, ...",
+      "realPosition": 7
     },
     {
       "title": "Lacoste Pas Cher!",
       "targetUrl": "http://www.sertoi.fr/",
-      "description": "Lacoste Pas Cher Soldes en france! Lacoste Femme Pas Cher, Lacoste Homme Pas Cher, Polo Lacoste Pas Cher, Pull Lacoste Pas Cher, Survetement Lacoste ..."
+      "description": "Lacoste Pas Cher Soldes en france! Lacoste Femme Pas Cher, Lacoste Homme Pas Cher, Polo Lacoste Pas Cher, Pull Lacoste Pas Cher, Survetement Lacoste ...",
+      "realPosition": 8
     },
     {
       "title": "Soldes lacoste, derniers jours ! - Achat / Vente lacoste pas cher ...",
       "targetUrl": "http://www.rueducommerce.fr/~lacoste",
-      "description": "Derniers jours des Soldes lacoste, avec des offres pas chers et aux meilleurs prix chez RueDuCommerce avec du choix, le service et la livraison."
+      "description": "Derniers jours des Soldes lacoste, avec des offres pas chers et aux meilleurs prix chez RueDuCommerce avec du choix, le service et la livraison.",
+      "realPosition": 9
     },
     {
       "title": "LACOSTE - Chaussures, Sacs, Vetements, Montres, Accessoires ...",
       "targetUrl": "http://www.spartoo.com/Lacoste-b90.php",
-      "description": "Découvrez la collection de LACOSTE sur Spartoo ▻ Distributeur Officiel ▻ Vaste choix ... Lacoste discount | Lacoste enfant | Lacoste france | Lacoste pas cher ..."
+      "description": "Découvrez la collection de LACOSTE sur Spartoo ▻ Distributeur Officiel ▻ Vaste choix ... Lacoste discount | Lacoste enfant | Lacoste france | Lacoste pas cher ...",
+      "realPosition": 10
     },
     {
       "title": "Polos, chaussures et maroquinerie - LACOSTE",
       "targetUrl": "http://www.lacoste.com/fr/",
-      "description": "Life as a beautiful sport. Visitez la boutique en ligne LACOSTE et découvrez nos collections, inspirées des tendances du sport et par notre célèbre polo, pour ..."
+      "description": "Life as a beautiful sport. Visitez la boutique en ligne LACOSTE et découvrez nos collections, inspirées des tendances du sport et par notre célèbre polo, pour ...",
+      "realPosition": 11
     },
     {
       "title": "Bon plan lacoste pas cher... ? - Aufeminin.com",
       "targetUrl": "http://beaute.aufeminin.com/forum/bon-plan-lacoste-pas-cher-fd3585201",
-      "description": "24 oct. 2013 - Si vous avez un site qui vend des polos lacoste pas cher, des pulls lacoste et autres, n'hésitez pas à me faire tourner vos bons plans.. Pour les ..."
+      "description": "24 oct. 2013 - Si vous avez un site qui vend des polos lacoste pas cher, des pulls lacoste et autres, n'hésitez pas à me faire tourner vos bons plans.. Pour les ...",
+      "realPosition": 12
     },
     {
       "title": "Acheter Polo Lacoste pas cher ou d'occasion sur PriceMinister",
       "targetUrl": "http://www.priceminister.com/s/polo+lacoste",
-      "description": "Venez découvrir notre sélection de produits polo lacoste au meilleur prix sur PriceMinister et profitez de l'achat-vente garanti."
+      "description": "Venez découvrir notre sélection de produits polo lacoste au meilleur prix sur PriceMinister et profitez de l'achat-vente garanti.",
+      "realPosition": 13
     }
   ],
   "location": "Paris"
