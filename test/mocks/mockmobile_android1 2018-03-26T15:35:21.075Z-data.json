@@ -54,5 +54,8 @@
       "description": "TOUT SAVOIR en quelques minutes sur le pret personnel Cofidis : Empruntis \nvous propose ses fiches pratiques GRATUITES pour votre pret personnel.",
       "realPosition": 8
     }
-  ]
+  ],
+  "location": {
+    "htmlLang": "fr"
+  }
 }

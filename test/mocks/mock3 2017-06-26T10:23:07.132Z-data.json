@@ -61,6 +61,7 @@
     }
   ],
   "location": {
-    "region": "Île-de-France"
+    "region": "Île-de-France",
+    "htmlLang": "fr"
   }
 }

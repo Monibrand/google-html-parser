@@ -92,6 +92,7 @@ function parse(options, body, callback){
   var location = {
     country: $('.Q8LRLc').text() || undefined,
     region: $('#swml_addr, #swml-loc').text() || undefined,
+    htmlLang: $('html').attr('lang') || undefined
   };
 
   return Promise.resolve({
@@ -99,7 +100,7 @@ function parse(options, body, callback){
     adsCount: adsCount,
     shoppingAds: shoppingAds,
     results: results,
-    location: (location.country || location.region) ? location : undefined,
+    location: (location.country || location.region || location.htmlLang) ? location : undefined,
   }).asCallback(callback);
 }
 

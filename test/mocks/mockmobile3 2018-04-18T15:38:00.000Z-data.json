@@ -412,6 +412,7 @@
   ],
   "location": {
     "country": "France",
-    "region": "3e Arrondissement, Paris"
+    "region": "3e Arrondissement, Paris",
+    "htmlLang": "fr"
   }
 }

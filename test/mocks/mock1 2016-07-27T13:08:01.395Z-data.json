@@ -166,6 +166,7 @@
     }
   ],
   "location": {
-    "region": "Paris"
+    "region": "Paris",
+    "htmlLang": "fr"
   }
 }
