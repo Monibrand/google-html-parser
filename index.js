@@ -12,18 +12,18 @@ function parse(options, body, callback){
   var results = [];
   var realPosition = 1;
 
-  $('.ads-ad, #ires .g, .ZINbbc.xpd').each(function(){
+  $('.ads-ad, #ires .g, .ZINbbc.xpd, .O9g5cc.xpd').each(function(){
     var adNode = $(this);
-    if(adNode.hasClass('ads-ad')){
+    if(adNode.hasClass('ads-ad') || adNode.parents('[class^=\'ads-\'],[class*=\' ads-\']').length > 0){
       var ad = {
-        title: adNode.find('h3').first().text(),
-        displayUrl: adNode.find('.ads-visurl cite').text(),
-        targetUrl: adNode.find('h3 a, .ad_cclk > a').next('a').attr('href') || adNode.find('> a').attr('href') || adNode.find('h3 a').attr('href')
+        title: adNode.find('h3, .cfxYMc').first().text(),
+        displayUrl: adNode.find('.ads-visurl cite, .qzEoUe').text(),
+        targetUrl: adNode.find('h3 a, .ad_cclk > a').next('a').attr('href') || adNode.find('> a').attr('href') || adNode.find('h3 a, > div > a').attr('href')
       };
 
       var content = [];
       adNode.find('.ellip .g-bblc').remove();
-      adNode.find('div.ads-creative, div.ellip').each(function(){
+      adNode.find('div.ads-creative, div.ellip, div:nth-child(3) .lEBKkf').each(function(){
         content.push($(this).text());
       });
 
@@ -45,7 +45,7 @@ function parse(options, body, callback){
       var result = {
         title: $(this).find('a div').first().text() || $(this).find('a').first().text(),
         targetUrl: $(this).find('a').attr('href'),
-        description: $(this).find('.st').text() || $(this).find('div.JTuIPc > .pIpgAc').text(),
+        description: $(this).find('.st').text() || $(this).find('div.JTuIPc > .pIpgAc, [jsname="ao5mud"] .BmP5tf > .MUxGbd , hr + .BmP5tf > .MUxGbd').text(),
         realPosition: realPosition
       };
       if(result.title && !/\/search\?/.test(result.targetUrl)){
@@ -90,10 +90,17 @@ function parse(options, body, callback){
   });
 
   var location = {
-    country: $('.Q8LRLc').text() || undefined,
-    region: $('#swml_addr, #swml-loc').text() || undefined,
-    htmlLang: $('html').attr('lang') || undefined
   };
+
+  if($('.Q8LRLc').text()){
+    location.country = $('.Q8LRLc').text();
+  }
+  if($('html').attr('lang')){
+    location.htmlLang = $('html').attr('lang');
+  }
+  if($('#swml_addr, #swml-loc').text()){
+    location.region = $('#swml_addr, #swml-loc').text();
+  }
 
   return Promise.resolve({
     ads : ads,

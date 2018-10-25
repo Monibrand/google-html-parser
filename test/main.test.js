@@ -18,7 +18,7 @@ describe('GoogleHtmlParser', function() {
         assert.strictEqual(extractedDatas.ads.length, mock.data.ads.length, 'Ads length doesn\'t match.');
         assert.strictEqual(extractedDatas.adsCount, mock.data.adsCount, 'Ads alternative count doesn\'t match.');
         assert.strictEqual(extractedDatas.adsCount, mock.data.ads.length, 'Ads alternative count doesn\'t match with ads length.');
-        assert.strictEqual(extractedDatas.location, mock.data.location, 'Location is wrong');
+        assert.deepStrictEqual(extractedDatas.location, mock.data.location, 'Location is wrong');
       });
 
       mock.data.ads.forEach((adMock, i) => {
