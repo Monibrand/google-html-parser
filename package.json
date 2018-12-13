@@ -1,6 +1,6 @@
 {
   "name": "google-html-parser",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "Parse Google Search Engine HTML results to retrieve Google Adwords and other stuff",
   "main": "index.js",
   "scripts": {
@@ -29,13 +29,13 @@
     "README.md"
   ],
   "devDependencies": {
-    "google-search-scraper": "git+https://github.com/majewan/node-google-search-scraper.git",
+    "google-search-scraper": "git+https://github.com/majewan/node-google-search-scraper.git#78793c2",
     "minimist": "^1.2.0"
   },
   "dependencies": {
-    "cheerio": "~0.20.0",
     "bluebird": "^3.5.0",
-    "lodash": "~4.13.1"
+    "cheerio": "^1.0.0-rc.2",
+    "lodash": "^4.17.11"
   },
   "engines": {
     "node": ">=6"
