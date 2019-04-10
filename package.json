@@ -30,7 +30,8 @@
   ],
   "devDependencies": {
     "google-search-scraper": "git+https://github.com/majewan/node-google-search-scraper.git#78793c2",
-    "minimist": "^1.2.0"
+    "minimist": "^1.2.0",
+    "mocha": "^6.0.2"
   },
   "dependencies": {
     "bluebird": "^3.5.0",
