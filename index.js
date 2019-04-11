@@ -20,7 +20,7 @@ function parse(options, body, callback){
   var position = 1;
   var results = [];
   var realPosition = 1;
-  const parser = getParser(options.searchEngine || 'bing', $);
+  const parser = getParser(options.searchEngine || 'google', $);
 
   parser.getNodeList().each(function(){
     parser.setCurrentNode(this);
