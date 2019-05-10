@@ -26,7 +26,8 @@
   },
   "files": [
     "index.js",
-    "README.md"
+    "README.md",
+    "modules/"
   ],
   "devDependencies": {
     "google-search-scraper": "git+https://github.com/majewan/node-google-search-scraper.git#78793c2",
