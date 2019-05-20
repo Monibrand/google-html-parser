@@ -1,6 +1,15 @@
 const cheerio = require('cheerio');
 const _ = require('lodash');
 const Promise = require('bluebird');
+const google = require('./modules/google.js');
+const bing = require('./modules/bing.js')
+
+function getParser (searchEngine, dom) {
+  return new {
+    google: google.GoogleParser,
+    bing: bing.BingParser,
+  }[searchEngine](dom);
+}
 
 function parse(options, body, callback){
   options = _.defaultsDeep(options, {
@@ -11,46 +20,50 @@ function parse(options, body, callback){
   var position = 1;
   var results = [];
   var realPosition = 1;
+  const parser = getParser(options.searchEngine || 'google', $);
 
-  $('.ads-ad, #ires .g, .ZINbbc.xpd, .O9g5cc.xpd').each(function(){
-    var adNode = $(this);
-    if(adNode.hasClass('ads-ad') || adNode.parents('[class^=\'ads-\'],[class*=\' ads-\']').length > 0){
+  parser.getNodeList().each(function(){
+    parser.setCurrentNode(this);
+
+    if (parser.isAdNode()) {
       var ad = {
-        title: adNode.find('h3, .cfxYMc').first().text(),
-        displayUrl: adNode.find('.ads-visurl cite, .qzEoUe').text(),
-        targetUrl: adNode.find('h3 a, .ad_cclk > a').next('a').attr('href') || adNode.find('> a').attr('href') || adNode.find('h3 a, > div > a').attr('href')
+        title: parser.getAdTitle(),
+        displayUrl: parser.getAdDisplayUrl(),
+        targetUrl: parser.getAdTargetUrl(),
       };
 
       var content = [];
-      adNode.find('.ellip .g-bblc').remove();
-      adNode.find('div.ads-creative, div.ellip, div:nth-child(3) .lEBKkf').each(function(){
+      if (parser.findAdEllipsisChild()) {
+        parser.findAdEllipsisChild().remove();
+      }
+      parser.getAdEllipsis().each(function(){
         content.push($(this).text());
       });
 
       ad.content = content.join('\n');
 
-      if(adNode.find('h3 a, .ad_cclk > a').next('a').attr('data-preconnect-urls')){
-        ad.preconnectUrls = adNode.find('h3 a, .ad_cclk > a').next('a').attr('data-preconnect-urls').split(',');
+      if (parser.getAdPreconnectUrl()) {
+        ad.preconnectUrls = parser.getAdPreconnectUrl().split(',');
       }
       ad.position = position++;
-      if(adNode.parents('#taw').length > 0){
+      if (parser.isAdOnTop()) {
         ad.area = 'top';
       }
-      if(adNode.parents('#bottomads').length > 0){
+      if (parser.isAdOnBottom()) {
         ad.area = 'bottom';
       }
       ad.realPosition = realPosition++;
       ads.push(ad);
-    }else{
+    } else {
       var result = {
-        title: $(this).find('a div').first().text() || $(this).find('a').first().text(),
-        targetUrl: $(this).find('a').attr('href'),
-        description: $(this).find('.st').text() || $(this).find('div.JTuIPc > .pIpgAc, [jsname="ao5mud"] .BmP5tf > .MUxGbd , hr + .BmP5tf > .MUxGbd').text(),
+        title: parser.getResultTitle(),
+        targetUrl: parser.getResultTargetUrl(),
+        description: parser.getResultDescription(),
         realPosition: realPosition
       };
-      if(result.title && !/\/search\?/.test(result.targetUrl)){
-        realPosition++;
+      if (result.title && !/\/search\?/.test(result.targetUrl)) {
         results.push(result);
+        realPosition++;
       }
     }
   });
@@ -66,24 +79,24 @@ function parse(options, body, callback){
   });
 
   var shoppingAds = [];
-  $('.pla-unit:has(img)').each(function(){
-    var plaNode = $(this);
+  parser.getShopAdList().each(function(){
+    parser.setCurrentNode(this);
 
     // This is parse old 2016 multilines shopping ads
     var title = [];
-    plaNode.find('.pla-unit-title span').each(function(){
+    parser.getShopAdTitles().each(function(){
       if($(this).text()){
         title.push($(this).text());
       }
     });
 
     var shoppingAd = {
-      title: title.join('\n') || plaNode.find('.pla-unit-title, h4').text(),
-      price: plaNode.find('._pvi, ._XJg, ._EPg, .e10twf.T4OwTb').text(),
-      advertiser: plaNode.find('._mC, ._FLg, cite,.VZqTOd').text(),
-      targetUrl: plaNode.find('.pla-unit-title-link, > a').attr('href') || plaNode.attr('href'),
-      image: plaNode.find('img').attr('src'),
-      discountText: plaNode.find('._zHp, ._gti').text() || undefined
+      title: title.join('\n') || parser.getShopAdTitle(),
+      price: parser.getShopAdPrice(),
+      advertiser: parser.getShopAdAdvertiser(),
+      targetUrl: parser.getShopAdTargetUrl(),
+      image: parser.getShopAdImage(),
+      discountText: parser.getShopAdDiscountText() || undefined
     };
 
     shoppingAds.push(shoppingAd);
@@ -92,14 +105,14 @@ function parse(options, body, callback){
   var location = {
   };
 
-  if($('.Q8LRLc').text()){
-    location.country = $('.Q8LRLc').text();
+  if (parser.getLocationCountry()) {
+    location.country = parser.getLocationCountry();
   }
-  if($('html').attr('lang')){
-    location.htmlLang = $('html').attr('lang');
+  if (parser.getLocationLanguage()) {
+    location.htmlLang = parser.getLocationLanguage();
   }
-  if($('#swml_addr, #swml-loc').text()){
-    location.region = $('#swml_addr, #swml-loc').text();
+  if(parser.getLocationRegion()){
+    location.region = parser.getLocationRegion();
   }
 
   return Promise.resolve({
