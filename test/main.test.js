@@ -9,7 +9,12 @@ describe('GoogleHtmlParser', function() {
     describe('Extract and compare test for ' + mock.name, function(){
       let extractedDatas;
       before(function(){
-        return GoogleHtmlParser.parse({}, mock.html).then(parsedDatas => {
+        if(mock.name.match(/bing/g) != null){
+          var searchEngine = 'bing';
+        }else{
+          var searchEngine = 'google';
+        }
+        return GoogleHtmlParser.parse({'searchEngine': searchEngine}, mock.html).then(parsedDatas => {
           extractedDatas = parsedDatas;
         });
       });
