@@ -104,6 +104,14 @@ class GoogleParser {
     getLocationRegion() {
         return this.$('#swml_addr, #swml-loc').text();
     }
+
+    getComparatorUrl(){
+        return this.adNode.find('.FfKHB').attr('href');
+    }
+
+    getComparatorName(){
+        return this.adNode.find('.KbpByd').first().text();
+    }
 }
 
 module.exports = {

@@ -51,6 +51,8 @@ describe('GoogleHtmlParser', function() {
           assert.strictEqual(extractedDatas.shoppingAds[i].image, shoppingAdMock.image);
           assert.strictEqual(extractedDatas.shoppingAds[i].price, shoppingAdMock.price);
           assert.strictEqual(extractedDatas.shoppingAds[i].discountText, shoppingAdMock.discountText);
+          assert.strictEqual(extractedDatas.shoppingAds[i].comparatorUrl, shoppingAdMock.comparatorUrl);
+          assert.strictEqual(extractedDatas.shoppingAds[i].comparatorName, shoppingAdMock.comparatorName);
         });
       });
 
