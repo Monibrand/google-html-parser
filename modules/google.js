@@ -86,7 +86,7 @@ class GoogleParser {
     }
 
     getShopAdImage() {
-        return this.adNode.find('img').attr('src');
+        return this.adNode.find('.Gor6zc > img').attr('src');
     }
 
     getShopAdDiscountText() {
