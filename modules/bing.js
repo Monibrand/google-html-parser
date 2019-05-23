@@ -109,7 +109,15 @@ class BingParser {
     }
 
     getLocationRegion() {
-        return false;;
+        return false;
+    }
+
+    getComparatorUrl(){
+        return null;
+    }
+
+    getComparatorName(){
+        return null;
     }
 }
 

@@ -86,7 +86,7 @@ class GoogleParser {
     }
 
     getShopAdImage() {
-        return this.adNode.find('img').attr('src');
+        return this.adNode.find('.Gor6zc > img').attr('src');
     }
 
     getShopAdDiscountText() {
@@ -103,6 +103,14 @@ class GoogleParser {
 
     getLocationRegion() {
         return this.$('#swml_addr, #swml-loc').text();
+    }
+
+    getComparatorUrl(){
+        return this.adNode.find('.FfKHB').attr('href');
+    }
+
+    getComparatorName(){
+        return this.adNode.find('.KbpByd').first().text();
     }
 }
 

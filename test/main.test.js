@@ -9,7 +9,12 @@ describe('GoogleHtmlParser', function() {
     describe('Extract and compare test for ' + mock.name, function(){
       let extractedDatas;
       before(function(){
-        return GoogleHtmlParser.parse({}, mock.html).then(parsedDatas => {
+        if(mock.name.match(/bing/g) != null){
+          var searchEngine = 'bing';
+        }else{
+          var searchEngine = 'google';
+        }
+        return GoogleHtmlParser.parse({'searchEngine': searchEngine}, mock.html).then(parsedDatas => {
           extractedDatas = parsedDatas;
         });
       });
@@ -46,6 +51,8 @@ describe('GoogleHtmlParser', function() {
           assert.strictEqual(extractedDatas.shoppingAds[i].image, shoppingAdMock.image);
           assert.strictEqual(extractedDatas.shoppingAds[i].price, shoppingAdMock.price);
           assert.strictEqual(extractedDatas.shoppingAds[i].discountText, shoppingAdMock.discountText);
+          assert.strictEqual(extractedDatas.shoppingAds[i].comparatorUrl, shoppingAdMock.comparatorUrl);
+          assert.strictEqual(extractedDatas.shoppingAds[i].comparatorName, shoppingAdMock.comparatorName);
         });
       });
 

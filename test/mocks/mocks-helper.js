@@ -28,7 +28,12 @@ if(argv['pregeneratedata']){
     return selectRegExp.test(mocksName);
   }).sort();
   Promise.map(mocksToPreGenerate, filename => {
-    return GoogleHtmlParser.parse({}, fs.readFileSync(__dirname + '/' + filename))
+    if(filename.match(/bing/g) != null){
+      var searchEngine = 'bing';
+    }else{
+      var searchEngine = 'google';
+    }
+    return GoogleHtmlParser.parse({'searchEngine' : searchEngine}, fs.readFileSync(__dirname + '/' + filename))
     .then(extractedDatas => {
       var extractName = /(.*)\.html$/.exec(filename);
       fs.writeFileSync( __dirname + '/' + extractName[1] + '-data.json', JSON.stringify(extractedDatas,null,2));

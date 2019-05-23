@@ -96,7 +96,9 @@ function parse(options, body, callback){
       advertiser: parser.getShopAdAdvertiser(),
       targetUrl: parser.getShopAdTargetUrl(),
       image: parser.getShopAdImage(),
-      discountText: parser.getShopAdDiscountText() || undefined
+      discountText: parser.getShopAdDiscountText() || undefined,
+      comparatorUrl: parser.getComparatorUrl() || undefined,
+      comparatorName: parser.getComparatorName() || undefined,
     };
 
     shoppingAds.push(shoppingAd);
