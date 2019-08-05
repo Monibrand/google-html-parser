@@ -4,7 +4,8 @@
   "description": "Parse Google Search Engine HTML results to retrieve Google Adwords and other stuff",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "generate-mock-data": "node ./test/mocks/generate-mock-data.js"
   },
   "repository": {
     "type": "git",
