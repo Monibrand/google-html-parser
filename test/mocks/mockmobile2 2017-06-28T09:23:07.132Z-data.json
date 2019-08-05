@@ -261,7 +261,7 @@
     }
   ],
   "location": {
-    "region": "75003, Paris",
-    "htmlLang": "fr"
+    "htmlLang": "fr",
+    "region": "75003, Paris"
   }
 }

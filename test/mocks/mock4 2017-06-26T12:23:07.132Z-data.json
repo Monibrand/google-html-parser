@@ -257,7 +257,7 @@
     }
   ],
   "location": {
-    "region": "Paris",
-    "htmlLang": "fr"
+    "htmlLang": "fr",
+    "region": "Paris"
   }
 }

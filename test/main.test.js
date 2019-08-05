@@ -45,14 +45,14 @@ describe('GoogleHtmlParser', function() {
 
       mock.data.shoppingAds.forEach((shoppingAdMock, i) => {
         it('Verify datas for shopping ad ' + shoppingAdMock.title + ' (' + i + ')', function(){
-          assert.strictEqual(extractedDatas.shoppingAds[i].title, shoppingAdMock.title, 'Shopping title doesn\'t match');
-          assert.strictEqual(extractedDatas.shoppingAds[i].advertiser, shoppingAdMock.advertiser, 'Shopping advertiser doesn\'t match');
-          assert.strictEqual(extractedDatas.shoppingAds[i].targetUrl, shoppingAdMock.targetUrl, 'Shopping targetUrl doesn\'t match');
-          assert.strictEqual(extractedDatas.shoppingAds[i].image, shoppingAdMock.image, 'Shopping image doesn\'t match');
-          assert.strictEqual(extractedDatas.shoppingAds[i].price, shoppingAdMock.price, 'Shopping price doesn\'t match');
-          assert.strictEqual(extractedDatas.shoppingAds[i].discountText, shoppingAdMock.discountText, 'Shopping discountText doesn\'t match');
-          assert.strictEqual(extractedDatas.shoppingAds[i].comparatorUrl, shoppingAdMock.comparatorUrl, 'Shopping comparatorUrl doesn\'t match');
-          assert.strictEqual(extractedDatas.shoppingAds[i].comparatorName, shoppingAdMock.comparatorName, 'Shopping comparatorName doesn\'t match');
+          assert.strictEqual(extractedDatas.shoppingAds[i].title, shoppingAdMock.title);
+          assert.strictEqual(extractedDatas.shoppingAds[i].advertiser, shoppingAdMock.advertiser);
+          assert.strictEqual(extractedDatas.shoppingAds[i].targetUrl, shoppingAdMock.targetUrl);
+          assert.strictEqual(extractedDatas.shoppingAds[i].image, shoppingAdMock.image);
+          assert.strictEqual(extractedDatas.shoppingAds[i].price, shoppingAdMock.price);
+          assert.strictEqual(extractedDatas.shoppingAds[i].discountText, shoppingAdMock.discountText);
+          assert.strictEqual(extractedDatas.shoppingAds[i].comparatorUrl, shoppingAdMock.comparatorUrl);
+          assert.strictEqual(extractedDatas.shoppingAds[i].comparatorName, shoppingAdMock.comparatorName);
         });
       });
 

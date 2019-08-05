@@ -26,7 +26,7 @@ class GoogleParser {
     }
 
     getAdEllipsis() {
-        return this.adNode.find('div.ads-creative, div.ellip, div:nth-child(3) .lEBKkf');
+        return this.adNode.find('div.ads-creative, div.ellip, div:nth-child(3) .lEBKkf, .yDYNvb.lEBKkf, hr + .BmP5tf > .MUxGbd');
     }
 
     getAdPreconnectUrl() {
@@ -58,11 +58,12 @@ class GoogleParser {
     }
 
     getResultDescription() {
-        return this.adNode.find('.st').text() || this.adNode.find('div.JTuIPc > .pIpgAc, [jsname="ao5mud"] .BmP5tf > .MUxGbd , hr + .BmP5tf > .MUxGbd').text()
+        return this.adNode.find('.st').text() ||
+            this.adNode.find('div.JTuIPc > .pIpgAc, [jsname="ao5mud"] .BmP5tf > .MUxGbd , hr + .BmP5tf > .MUxGbd, .yDYNvb').text()
     }
 
     getShopAdList() {
-        return this.$('.pla-unit:has(img)');
+        return this.$('.pla-unit-container:has(img)');
     }
 
     getShopAdTitles() {
@@ -75,15 +76,16 @@ class GoogleParser {
     }
 
     getShopAdPrice() {
-        return this.adNode.find('._pvi, ._XJg, ._EPg, .e10twf.T4OwTb').text();
+        return this.adNode.find('._pvi, ._XJg, ._EPg, .e10twf.T4OwTb').text() ||
+            this.adNode.find('.dOp6Sc').contents().first().text();
     }
 
     getShopAdAdvertiser() {
-        return this.adNode.find('._mC, ._FLg, cite, .VZqTOd, .LbUacb .rhsg4').text();
+        return this.adNode.find('._mC, ._FLg, cite, .VZqTOd, .LbUacb .rhsg4, .hBvPxd').text();
     }
 
     getShopAdTargetUrl() {
-        return this.adNode.find('.pla-unit-title-link, > a').attr('href') || this.adNode.attr('href');
+        return this.adNode.find('.pla-unit-title-link, > a').attr('href') || this.adNode.find('.pla-unit').attr('href');
     }
 
     getShopAdImage() {
