@@ -91,7 +91,7 @@ function parse(options, body, callback){
     });
 
     var shoppingAd = {
-      title: title.join('\n') || parser.getShopAdTitle(),
+      title: parser.getShopAdTitle() || title.join('\n'),
       price: parser.getShopAdPrice(),
       advertiser: parser.getShopAdAdvertiser(),
       targetUrl: parser.getShopAdTargetUrl(),

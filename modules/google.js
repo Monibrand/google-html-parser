@@ -70,7 +70,8 @@ class GoogleParser {
     }
 
     getShopAdTitle() {
-        return this.adNode.find('.pla-unit-title, h4').text();
+        return this.adNode.find('.pla-unit-title .rhsg4').text() ||
+            this.adNode.find('h4, .pla-unit-title-link').text();
     }
 
     getShopAdPrice() {
@@ -78,7 +79,7 @@ class GoogleParser {
     }
 
     getShopAdAdvertiser() {
-        return this.adNode.find('._mC, ._FLg, cite,.VZqTOd').text();
+        return this.adNode.find('._mC, ._FLg, cite, .VZqTOd, .LbUacb .rhsg4').text();
     }
 
     getShopAdTargetUrl() {
