@@ -93,6 +93,7 @@ function parse(options, body, callback){
     var shoppingAd = {
       title: parser.getShopAdTitle() || title.join('\n'),
       price: parser.getShopAdPrice(),
+      originalPrice: parser.getShopAdOriginalPrice(),
       advertiser: parser.getShopAdAdvertiser(),
       targetUrl: parser.getShopAdTargetUrl(),
       image: parser.getShopAdImage(),

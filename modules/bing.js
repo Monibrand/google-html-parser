@@ -79,6 +79,10 @@ class BingParser {
         return this.adNode.find('.pa_price').text();
     }
 
+    getShopAdOriginalPrice() {
+        return null;
+    }
+
     getShopAdAdvertiser() {
         return this.adNode.find('cite').text();
     }

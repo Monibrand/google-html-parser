@@ -80,6 +80,10 @@ class GoogleParser {
             this.adNode.find('.dOp6Sc').contents().first().text();
     }
 
+    getShopAdOriginalPrice() {
+        return this.adNode.find('.w8RUcd').contents().first().text();
+    }
+
     getShopAdAdvertiser() {
         return this.adNode.find('._mC, ._FLg, cite, .VZqTOd, .LbUacb .rhsg4, .hBvPxd').text();
     }
