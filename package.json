@@ -1,6 +1,6 @@
 {
   "name": "google-html-parser",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "description": "Parse Google Search Engine HTML results to retrieve Google Adwords and other stuff",
   "main": "index.js",
   "scripts": {
