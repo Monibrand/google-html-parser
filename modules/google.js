@@ -18,7 +18,7 @@ class GoogleParser {
     }
 
     getAdDisplayUrl() {
-        return this.adNode.find('.ads-visurl cite, .qzEoUe').text();
+        return this.adNode.find('.ads-visurl cite, .qzEoUe, .dTe0Ie.LrP0oe').text();
     }
 
     getAdTargetUrl() {
@@ -26,7 +26,7 @@ class GoogleParser {
     }
 
     getAdEllipsis() {
-        return this.adNode.find('div.ads-creative, div.ellip, div:nth-child(3) .lEBKkf, .yDYNvb.lEBKkf, hr + .BmP5tf > .MUxGbd');
+        return this.adNode.find('div.ads-creative, div.ellip, div:nth-child(3) .lEBKkf, .yDYNvb.lEBKkf, hr + .BmP5tf > .MUxGbd, .HLLkSb.G99wIc.rLshyf');
     }
 
     getAdPreconnectUrl() {
