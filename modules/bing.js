@@ -64,7 +64,7 @@ class BingParser {
     }
 
     getShopAdList() {
-        return this.$('.b_slidebar .slide:has(img), .b_ad .pa_item');
+        return this.$('.b_ad .pa_item');
     }
 
     getShopAdTitles() {
@@ -94,7 +94,7 @@ class BingParser {
     getShopAdImage() {
         let rawUrl =  this.adNode.find('img').attr('src');
         let trueUrl = null;
-        if (rawUrl.match(/\/th\?/)) {
+        if (rawUrl && rawUrl.match(/\/th\?/)) {
             trueUrl = `https://www.bing.com${rawUrl}`;
         }
         return trueUrl || rawUrl;

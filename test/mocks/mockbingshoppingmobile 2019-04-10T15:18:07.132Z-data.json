@@ -33,13 +33,7 @@
     {
       "title": "Lacoste L1212 Concept, …",
       "price": "95,00 €",
-      "advertiser": "Amazon FR",
-      "targetUrl": "https://www.bing.com/aclick?ld=e39AyHJe_NYvVuOf2ctTIt8DVUCUyRbGp9v6i80QV9_SgeR3A9Q62UiBf5UUUGy98r6KpH03HDkdodPomM9l582b1C6gcrL_ZTZ6T2L8EnZOjz__4V76ZTJEtYk7OCiE_njVJibUttAlXQi6DTZjhSayP8-8A&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmZyJTJmTGFjb3N0ZS1ORjIyODVQTy1Db25jZXB0LVBvcnRlZmV1aWxsZXMtTWFycm9uJTJmZHAlMmZCMDczQ1BTR1JGJTJmcmVmJTNkYXNjX2RmX0IwNzNDUFNHUkYlMmYlM2Z0YWclM2RiaW5nc2hvcHBpbjBmLTIxJTI2bGlua0NvZGUlM2RkZjAlMjZodmFkaWQlM2QlN2JjcmVhdGl2ZSU3ZCUyNmh2cG9zJTNkJTdiYWRwb3NpdGlvbiU3ZCUyNmh2bmV0dyUzZG8lMjZodnJhbmQlM2QlN2JyYW5kb20lN2QlMjZodnBvbmUlM2QlMjZodnB0d28lM2QlMjZodnFtdCUzZGUlMjZodmRldiUzZG0lMjZodmR2Y21kbCUzZCU3YmRldmljZW1vZGVsJTdkJTI2aHZsb2NpbnQlM2QlMjZodmxvY3BoeSUzZCUyNmh2dGFyZ2lkJTNkcGxhLTQ1ODM3OTUyNjEwMTEyMzIlMjZwc2MlM2Qx&rlid=d5ed4fed33161fbe52fa134338c3ded3",
-      "image": "https://www.bing.com/th?id=OPE.HwtlySrHkoXCEg300C300&w=122&h=122&o=2&dpr=2&pid=21.1"
-    },
-    {
-      "title": "Lacoste L1212 Concept, …",
-      "price": "95,00 €",
+      "originalPrice": null,
       "advertiser": "Amazon FR",
       "targetUrl": "https://www.bing.com/aclick?ld=e39AyHJe_NYvVuOf2ctTIt8DVUCUyRbGp9v6i80QV9_SgeR3A9Q62UiBf5UUUGy98r6KpH03HDkdodPomM9l582b1C6gcrL_ZTZ6T2L8EnZOjz__4V76ZTJEtYk7OCiE_njVJibUttAlXQi6DTZjhSayP8-8A&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmZyJTJmTGFjb3N0ZS1ORjIyODVQTy1Db25jZXB0LVBvcnRlZmV1aWxsZXMtTWFycm9uJTJmZHAlMmZCMDczQ1BTR1JGJTJmcmVmJTNkYXNjX2RmX0IwNzNDUFNHUkYlMmYlM2Z0YWclM2RiaW5nc2hvcHBpbjBmLTIxJTI2bGlua0NvZGUlM2RkZjAlMjZodmFkaWQlM2QlN2JjcmVhdGl2ZSU3ZCUyNmh2cG9zJTNkJTdiYWRwb3NpdGlvbiU3ZCUyNmh2bmV0dyUzZG8lMjZodnJhbmQlM2QlN2JyYW5kb20lN2QlMjZodnBvbmUlM2QlMjZodnB0d28lM2QlMjZodnFtdCUzZGUlMjZodmRldiUzZG0lMjZodmR2Y21kbCUzZCU3YmRldmljZW1vZGVsJTdkJTI2aHZsb2NpbnQlM2QlMjZodmxvY3BoeSUzZCUyNmh2dGFyZ2lkJTNkcGxhLTQ1ODM3OTUyNjEwMTEyMzIlMjZwc2MlM2Qx&rlid=d5ed4fed33161fbe52fa134338c3ded3",
       "image": "https://www.bing.com/th?id=OPE.HwtlySrHkoXCEg300C300&w=122&h=122&o=2&dpr=2&pid=21.1"
@@ -47,13 +41,7 @@
     {
       "title": "Lacoste L1212 L",
       "price": "75,95 €",
-      "advertiser": "Dressinn",
-      "targetUrl": "https://www.bing.com/aclick?ld=e3QsL8pqyt9xSbYDjO7ltgeTVUCUwvGylWRKvFi45uWuOedvv54yTEJGaBKgKo234SkzMaoZG3AG3nRtX4YvG2QxSeKa8AWzbg9YdBfbV0EjGaK-g4ITNFmMpvo56vcs7g1ftSBoI0YF7fPAHClirfU7xmLSY&u=aHR0cCUzYSUyZiUyZmNsaWNrc2VydmUuZGFydHNlYXJjaC5uZXQlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q5MjcwMDAxOTM2MjI4OTM0MSUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwMTk5NzQ3OTYzOSUyNmRzX2VfYWRpZCUzZDc3NzIxNzU4NzI3OTg5JTI2ZHNfc19pbnZlbnRvcnlfZmVlZF9pZCUzZDk3NzAwMDAwMDAxNDc4OTU2JTI2ZHNfZV9wcm9kdWN0X2dyb3VwX2lkJTNkNDU4MTMyMTM1NjAxOTI4OCUyNmRzX2VfcHJvZHVjdF9pZCUzZEZSLTgyNTY3MzclMjZkc19lX3Byb2R1Y3RfY291bnRyeSUzZEZSJTI2ZHNfZV9wcm9kdWN0X2xhbmd1YWdlJTNkRlIlMjZkc19lX3Byb2R1Y3RfY2hhbm5lbCUzZG9ubGluZSUyNmRzX3VybF92JTNkMiUyNmRzX2Rlc3RfdXJsJTNkaHR0cHMlM2ElMmYlMmZ3d3cuZHJlc3Npbm4uY29tJTJmbW9kZSUyZmxhY29zdGUtbDEyMTIlMmYxMzcwODAxMjklMmZwJTNmdXRtX3NvdXJjZSUzZGdvb2dsZV9wcm9kdWN0cyUyNnV0bV9tZWRpdW0lM2RtZXJjaGFudCUyNmlkX3Byb2R1Y3RlJTNkODI1NjczNyUyNmNvdW50cnklM2Rmcg&rlid=e1eb5241ab511d58454a0eefa084a9eb",
-      "image": "https://www.bing.com/th?id=OPE.3EtKWgG4bUN03A300C300&w=122&h=122&o=2&dpr=2&pid=21.1"
-    },
-    {
-      "title": "Lacoste L1212 L",
-      "price": "75,95 €",
+      "originalPrice": null,
       "advertiser": "Dressinn",
       "targetUrl": "https://www.bing.com/aclick?ld=e3QsL8pqyt9xSbYDjO7ltgeTVUCUwvGylWRKvFi45uWuOedvv54yTEJGaBKgKo234SkzMaoZG3AG3nRtX4YvG2QxSeKa8AWzbg9YdBfbV0EjGaK-g4ITNFmMpvo56vcs7g1ftSBoI0YF7fPAHClirfU7xmLSY&u=aHR0cCUzYSUyZiUyZmNsaWNrc2VydmUuZGFydHNlYXJjaC5uZXQlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q5MjcwMDAxOTM2MjI4OTM0MSUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwMTk5NzQ3OTYzOSUyNmRzX2VfYWRpZCUzZDc3NzIxNzU4NzI3OTg5JTI2ZHNfc19pbnZlbnRvcnlfZmVlZF9pZCUzZDk3NzAwMDAwMDAxNDc4OTU2JTI2ZHNfZV9wcm9kdWN0X2dyb3VwX2lkJTNkNDU4MTMyMTM1NjAxOTI4OCUyNmRzX2VfcHJvZHVjdF9pZCUzZEZSLTgyNTY3MzclMjZkc19lX3Byb2R1Y3RfY291bnRyeSUzZEZSJTI2ZHNfZV9wcm9kdWN0X2xhbmd1YWdlJTNkRlIlMjZkc19lX3Byb2R1Y3RfY2hhbm5lbCUzZG9ubGluZSUyNmRzX3VybF92JTNkMiUyNmRzX2Rlc3RfdXJsJTNkaHR0cHMlM2ElMmYlMmZ3d3cuZHJlc3Npbm4uY29tJTJmbW9kZSUyZmxhY29zdGUtbDEyMTIlMmYxMzcwODAxMjklMmZwJTNmdXRtX3NvdXJjZSUzZGdvb2dsZV9wcm9kdWN0cyUyNnV0bV9tZWRpdW0lM2RtZXJjaGFudCUyNmlkX3Byb2R1Y3RlJTNkODI1NjczNyUyNmNvdW50cnklM2Rmcg&rlid=e1eb5241ab511d58454a0eefa084a9eb",
       "image": "https://www.bing.com/th?id=OPE.3EtKWgG4bUN03A300C300&w=122&h=122&o=2&dpr=2&pid=21.1"
@@ -61,13 +49,7 @@
     {
       "title": "Lacoste L1212 XXXL",
       "price": "85,95 €",
-      "advertiser": "Dressinn",
-      "targetUrl": "https://www.bing.com/aclick?ld=e3YAMs5ti00vDLvNbXzolJgzVUCUzKl54eVl2tv2g-rlPTEo_itofi77_xW8FW0sSggX792TKrZc5K3LCtDUh9OaiP_mqhamkKFSsMcICrG9z0Bd7fWr3yvwKaR-x0hHFP3RJTo5pqCZNKyHOxPexuyDiQU8s&u=aHR0cCUzYSUyZiUyZmNsaWNrc2VydmUuZGFydHNlYXJjaC5uZXQlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q5MjcwMDAxOTM2MjI4OTM0MSUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwMTk5NzQ3OTYzOSUyNmRzX2VfYWRpZCUzZDc3NzIxNzU4NzI3OTg5JTI2ZHNfc19pbnZlbnRvcnlfZmVlZF9pZCUzZDk3NzAwMDAwMDAxNDc4OTU2JTI2ZHNfZV9wcm9kdWN0X2dyb3VwX2lkJTNkNDU4MTMyMTM1NjAxOTI4OCUyNmRzX2VfcHJvZHVjdF9pZCUzZEZSLTgzNzE0MTklMjZkc19lX3Byb2R1Y3RfY291bnRyeSUzZEZSJTI2ZHNfZV9wcm9kdWN0X2xhbmd1YWdlJTNkRlIlMjZkc19lX3Byb2R1Y3RfY2hhbm5lbCUzZG9ubGluZSUyNmRzX3VybF92JTNkMiUyNmRzX2Rlc3RfdXJsJTNkaHR0cHMlM2ElMmYlMmZ3d3cuZHJlc3Npbm4uY29tJTJmbW9kZSUyZmxhY29zdGUtbDEyMTIlMmYxMzcxMDczNDglMmZwJTNmdXRtX3NvdXJjZSUzZGdvb2dsZV9wcm9kdWN0cyUyNnV0bV9tZWRpdW0lM2RtZXJjaGFudCUyNmlkX3Byb2R1Y3RlJTNkODM3MTQxOSUyNmNvdW50cnklM2Rmcg&rlid=04f35118291917d383370db622cc41c4",
-      "image": "https://www.bing.com/th?id=OPE.jsJ3wvSPzYMA%2fQ300C300&w=122&h=122&o=2&dpr=2&pid=21.1"
-    },
-    {
-      "title": "Lacoste L1212 XXXL",
-      "price": "85,95 €",
+      "originalPrice": null,
       "advertiser": "Dressinn",
       "targetUrl": "https://www.bing.com/aclick?ld=e3YAMs5ti00vDLvNbXzolJgzVUCUzKl54eVl2tv2g-rlPTEo_itofi77_xW8FW0sSggX792TKrZc5K3LCtDUh9OaiP_mqhamkKFSsMcICrG9z0Bd7fWr3yvwKaR-x0hHFP3RJTo5pqCZNKyHOxPexuyDiQU8s&u=aHR0cCUzYSUyZiUyZmNsaWNrc2VydmUuZGFydHNlYXJjaC5uZXQlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q5MjcwMDAxOTM2MjI4OTM0MSUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwMTk5NzQ3OTYzOSUyNmRzX2VfYWRpZCUzZDc3NzIxNzU4NzI3OTg5JTI2ZHNfc19pbnZlbnRvcnlfZmVlZF9pZCUzZDk3NzAwMDAwMDAxNDc4OTU2JTI2ZHNfZV9wcm9kdWN0X2dyb3VwX2lkJTNkNDU4MTMyMTM1NjAxOTI4OCUyNmRzX2VfcHJvZHVjdF9pZCUzZEZSLTgzNzE0MTklMjZkc19lX3Byb2R1Y3RfY291bnRyeSUzZEZSJTI2ZHNfZV9wcm9kdWN0X2xhbmd1YWdlJTNkRlIlMjZkc19lX3Byb2R1Y3RfY2hhbm5lbCUzZG9ubGluZSUyNmRzX3VybF92JTNkMiUyNmRzX2Rlc3RfdXJsJTNkaHR0cHMlM2ElMmYlMmZ3d3cuZHJlc3Npbm4uY29tJTJmbW9kZSUyZmxhY29zdGUtbDEyMTIlMmYxMzcxMDczNDglMmZwJTNmdXRtX3NvdXJjZSUzZGdvb2dsZV9wcm9kdWN0cyUyNnV0bV9tZWRpdW0lM2RtZXJjaGFudCUyNmlkX3Byb2R1Y3RlJTNkODM3MTQxOSUyNmNvdW50cnklM2Rmcg&rlid=04f35118291917d383370db622cc41c4",
       "image": "https://www.bing.com/th?id=OPE.jsJ3wvSPzYMA%2fQ300C300&w=122&h=122&o=2&dpr=2&pid=21.1"
@@ -75,13 +57,7 @@
     {
       "title": "Lacoste L1212 Concept, Sacs …",
       "price": "49,00 €",
-      "advertiser": "Amazon FR",
-      "targetUrl": "https://www.bing.com/aclick?ld=e3a4Z0xWJCGo5qu3WgM0tuHDVUCUxpzAxwqC4NpbvDY4qP7TeX2LnT-0RTr1GmucDpnenYq_Wv5a5LRAyCLDKtuhfaC5N_O-InBNpPPkS2ndchpT3OfrVJ60ocP8hQNoNkoKl77i_gzXXHvXQ_ZYDA-tTfXyc&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmZyJTJmTGFjb3N0ZS1OSDIyMTZQTy1ob21tZS1Db25jZXB0LXBvcnRlcyUyZmRwJTJmQjA3NEc0WE1TQyUyZnJlZiUzZGFzY19kZl9CMDc0RzRYTVNDJTJmJTNmdGFnJTNkYmluZ3Nob3BwaW4wZi0yMSUyNmxpbmtDb2RlJTNkZGYwJTI2aHZhZGlkJTNkJTdiY3JlYXRpdmUlN2QlMjZodnBvcyUzZCU3YmFkcG9zaXRpb24lN2QlMjZodm5ldHclM2RvJTI2aHZyYW5kJTNkJTdicmFuZG9tJTdkJTI2aHZwb25lJTNkJTI2aHZwdHdvJTNkJTI2aHZxbXQlM2RlJTI2aHZkZXYlM2RtJTI2aHZkdmNtZGwlM2QlN2JkZXZpY2Vtb2RlbCU3ZCUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2QlMjZodnRhcmdpZCUzZHBsYS00NTgzNTIwMzgzMDIxOTQ3JTI2cHNjJTNkMQ&rlid=79b0af1b11e81388c19ef3b51a3d8161",
-      "image": "https://www.bing.com/th?id=OPE.dw0%2fLeRhlNC1nA300C300:OPE.iMFPRQLMZ2cilA300C300:OPE.dO2ToG2Ql8ppug300C300:OPE.g%2bb8EEwkmqzlfQ300C300:OPE.7pp%2fESH9ykifxQ300C300&w=122&h=122&o=2&dpr=2&pid=21.1&bw=3&bc=ffffff"
-    },
-    {
-      "title": "Lacoste L1212 Concept, Sacs …",
-      "price": "49,00 €",
+      "originalPrice": null,
       "advertiser": "Amazon FR",
       "targetUrl": "https://www.bing.com/aclick?ld=e3a4Z0xWJCGo5qu3WgM0tuHDVUCUxpzAxwqC4NpbvDY4qP7TeX2LnT-0RTr1GmucDpnenYq_Wv5a5LRAyCLDKtuhfaC5N_O-InBNpPPkS2ndchpT3OfrVJ60ocP8hQNoNkoKl77i_gzXXHvXQ_ZYDA-tTfXyc&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmZyJTJmTGFjb3N0ZS1OSDIyMTZQTy1ob21tZS1Db25jZXB0LXBvcnRlcyUyZmRwJTJmQjA3NEc0WE1TQyUyZnJlZiUzZGFzY19kZl9CMDc0RzRYTVNDJTJmJTNmdGFnJTNkYmluZ3Nob3BwaW4wZi0yMSUyNmxpbmtDb2RlJTNkZGYwJTI2aHZhZGlkJTNkJTdiY3JlYXRpdmUlN2QlMjZodnBvcyUzZCU3YmFkcG9zaXRpb24lN2QlMjZodm5ldHclM2RvJTI2aHZyYW5kJTNkJTdicmFuZG9tJTdkJTI2aHZwb25lJTNkJTI2aHZwdHdvJTNkJTI2aHZxbXQlM2RlJTI2aHZkZXYlM2RtJTI2aHZkdmNtZGwlM2QlN2JkZXZpY2Vtb2RlbCU3ZCUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2QlMjZodnRhcmdpZCUzZHBsYS00NTgzNTIwMzgzMDIxOTQ3JTI2cHNjJTNkMQ&rlid=79b0af1b11e81388c19ef3b51a3d8161",
       "image": "https://www.bing.com/th?id=OPE.dw0%2fLeRhlNC1nA300C300:OPE.iMFPRQLMZ2cilA300C300:OPE.dO2ToG2Ql8ppug300C300:OPE.g%2bb8EEwkmqzlfQ300C300:OPE.7pp%2fESH9ykifxQ300C300&w=122&h=122&o=2&dpr=2&pid=21.1&bw=3&bc=ffffff"
@@ -89,13 +65,7 @@
     {
       "title": "Lacoste Hommes L1212 White",
       "price": "129,00 €",
-      "advertiser": "Cdiscount Marketplace",
-      "targetUrl": "https://www.bing.com/aclick?ld=e3ioAYJPRXaZVU9wPT17ppwTVUCUw04_TypdSjjVnJPyJIzx78Cy9KfOFjDVWJuGcYDH4bwptolN_Hhe5mCVSkLZbs9WCcDsKeaWl7C7lE1Z-ClHzwEa8tqgpa6bCe21VBv_zh4HdTnbG1_MDZg5yJF2gsIh8&u=aHR0cHMlM2ElMmYlMmZ3d3cuY2Rpc2NvdW50LmNvbSUyZmJpam91dGVyaWUlMmZtb250cmVzJTJmbGFjb3N0ZS1ob21tZXMtbDEyMTItd2hpdGUtc2lsaWNvbmUtc3RyYXAtbW9udHIlMmZmLTEyNjA0LUxBQzIwMDk5NDg0MTQ0MjcuaHRtbCUzZmNpZCUzZHNlYXJjaF9wbGElMjZjbV9tbWMlM2RQTEEhQ09SIUFDQyFNUCEyODc0OTgxODIhYmluZyUyNm1zY2xraWQlM2RjMTJkZWNiMzY4ZTUxNDU4NTFjOGIwMWQ2MzMwNTNiNA&rlid=c12decb368e5145851c8b01d633053b4",
-      "image": "https://www.bing.com/th?id=OPE.dw0%2fLeRhlNC1nA300C300:OPE.iMFPRQLMZ2cilA300C300:OPE.dO2ToG2Ql8ppug300C300:OPE.g%2bb8EEwkmqzlfQ300C300:OPE.7pp%2fESH9ykifxQ300C300&w=122&h=122&o=2&dpr=2&pid=21.1&bw=3&bc=ffffff"
-    },
-    {
-      "title": "Lacoste Hommes L1212 White",
-      "price": "129,00 €",
+      "originalPrice": null,
       "advertiser": "Cdiscount Marketplace",
       "targetUrl": "https://www.bing.com/aclick?ld=e3ioAYJPRXaZVU9wPT17ppwTVUCUw04_TypdSjjVnJPyJIzx78Cy9KfOFjDVWJuGcYDH4bwptolN_Hhe5mCVSkLZbs9WCcDsKeaWl7C7lE1Z-ClHzwEa8tqgpa6bCe21VBv_zh4HdTnbG1_MDZg5yJF2gsIh8&u=aHR0cHMlM2ElMmYlMmZ3d3cuY2Rpc2NvdW50LmNvbSUyZmJpam91dGVyaWUlMmZtb250cmVzJTJmbGFjb3N0ZS1ob21tZXMtbDEyMTItd2hpdGUtc2lsaWNvbmUtc3RyYXAtbW9udHIlMmZmLTEyNjA0LUxBQzIwMDk5NDg0MTQ0MjcuaHRtbCUzZmNpZCUzZHNlYXJjaF9wbGElMjZjbV9tbWMlM2RQTEEhQ09SIUFDQyFNUCEyODc0OTgxODIhYmluZyUyNm1zY2xraWQlM2RjMTJkZWNiMzY4ZTUxNDU4NTFjOGIwMWQ2MzMwNTNiNA&rlid=c12decb368e5145851c8b01d633053b4",
       "image": "https://www.bing.com/th?id=OPE.dw0%2fLeRhlNC1nA300C300:OPE.iMFPRQLMZ2cilA300C300:OPE.dO2ToG2Ql8ppug300C300:OPE.g%2bb8EEwkmqzlfQ300C300:OPE.7pp%2fESH9ykifxQ300C300&w=122&h=122&o=2&dpr=2&pid=21.1&bw=3&bc=ffffff"
@@ -103,13 +73,7 @@
     {
       "title": "Lacoste l1212 Polo",
       "price": "94,90 €",
-      "advertiser": "SPARTOO",
-      "targetUrl": "https://www.bing.com/aclick?ld=e3s7zixtDZzxgh0-Hk-9zqsDVUCUz_P-o_2kaXoIxo-pcIAR_oiAWS80fQGHexSyMpoimOYZZciIJ2WqBjZhoMkpShsVtX03BNa-i6GK1lhQtFCdkES4-YekB9nfONr6Uv8yhZNvfwYQmpiDZJay876XfOvqM&u=aHR0cCUzYSUyZiUyZmNsaWNrc2VydmUuZGFydHNlYXJjaC5uZXQlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q5MjcwMDAyMDM0MDQ5OTk5NiUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwMjM4ODgyMTkzMSUyNmRzX3NfaW52ZW50b3J5X2ZlZWRfaWQlM2Q5NzcwMDAwMDAwMjMyNzcwMiUyNiUyNmRzX2VfYWRpZCUzZDc4NDA4OTQxODE0NDQyJTI2ZHNfZV9wcm9kdWN0X2dyb3VwX2lkJTNkNDU4MjAwODU1MDkxMTI5OSUyNmRzX2VfcHJvZHVjdF9pZCUzZDM2OTA5MTIlMjZkc19lX3Byb2R1Y3RfY291bnRyeSUzZEZSJTI2ZHNfZV9wcm9kdWN0X2xhbmd1YWdlJTNkRlIlMjZkc19lX3Byb2R1Y3RfY2hhbm5lbCUzZG9ubGluZSUyNmRzX3VybF92JTNkMiUyNmRzX2Rlc3RfdXJsJTNkaHR0cHMlM2ElMmYlMmZ3d3cuc3BhcnRvby5jb20lMmZMYWNvc3RlLWwxMjEyLXgzNjkwOTEyLnBocCUzZnRyYWNrX2lkJTNkYmluZ19zaHAlMjZzeCUzZEglMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2Rjb21wYXJhdGV1cnMlMjZ1dG1fY29udGVudCUzZDM2OTA5MTIlMjZ1dG1fY2FtcGFpZ24lM2RiaW5nX3NocA&rlid=022f7b7fd6e3144097d727d1dd364e49",
-      "image": "https://www.bing.com/th?id=OPE.dw0%2fLeRhlNC1nA300C300:OPE.iMFPRQLMZ2cilA300C300:OPE.dO2ToG2Ql8ppug300C300:OPE.g%2bb8EEwkmqzlfQ300C300:OPE.7pp%2fESH9ykifxQ300C300&w=122&h=122&o=2&dpr=2&pid=21.1&bw=3&bc=ffffff"
-    },
-    {
-      "title": "Lacoste l1212 Polo",
-      "price": "94,90 €",
+      "originalPrice": null,
       "advertiser": "SPARTOO",
       "targetUrl": "https://www.bing.com/aclick?ld=e3s7zixtDZzxgh0-Hk-9zqsDVUCUz_P-o_2kaXoIxo-pcIAR_oiAWS80fQGHexSyMpoimOYZZciIJ2WqBjZhoMkpShsVtX03BNa-i6GK1lhQtFCdkES4-YekB9nfONr6Uv8yhZNvfwYQmpiDZJay876XfOvqM&u=aHR0cCUzYSUyZiUyZmNsaWNrc2VydmUuZGFydHNlYXJjaC5uZXQlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q5MjcwMDAyMDM0MDQ5OTk5NiUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwMjM4ODgyMTkzMSUyNmRzX3NfaW52ZW50b3J5X2ZlZWRfaWQlM2Q5NzcwMDAwMDAwMjMyNzcwMiUyNiUyNmRzX2VfYWRpZCUzZDc4NDA4OTQxODE0NDQyJTI2ZHNfZV9wcm9kdWN0X2dyb3VwX2lkJTNkNDU4MjAwODU1MDkxMTI5OSUyNmRzX2VfcHJvZHVjdF9pZCUzZDM2OTA5MTIlMjZkc19lX3Byb2R1Y3RfY291bnRyeSUzZEZSJTI2ZHNfZV9wcm9kdWN0X2xhbmd1YWdlJTNkRlIlMjZkc19lX3Byb2R1Y3RfY2hhbm5lbCUzZG9ubGluZSUyNmRzX3VybF92JTNkMiUyNmRzX2Rlc3RfdXJsJTNkaHR0cHMlM2ElMmYlMmZ3d3cuc3BhcnRvby5jb20lMmZMYWNvc3RlLWwxMjEyLXgzNjkwOTEyLnBocCUzZnRyYWNrX2lkJTNkYmluZ19zaHAlMjZzeCUzZEglMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2Rjb21wYXJhdGV1cnMlMjZ1dG1fY29udGVudCUzZDM2OTA5MTIlMjZ1dG1fY2FtcGFpZ24lM2RiaW5nX3NocA&rlid=022f7b7fd6e3144097d727d1dd364e49",
       "image": "https://www.bing.com/th?id=OPE.dw0%2fLeRhlNC1nA300C300:OPE.iMFPRQLMZ2cilA300C300:OPE.dO2ToG2Ql8ppug300C300:OPE.g%2bb8EEwkmqzlfQ300C300:OPE.7pp%2fESH9ykifxQ300C300&w=122&h=122&o=2&dpr=2&pid=21.1&bw=3&bc=ffffff"
@@ -117,13 +81,7 @@
     {
       "title": "Lacoste Hommes L1212 Black",
       "price": "129,00 €",
-      "advertiser": "Cdiscount Marketplace",
-      "targetUrl": "https://www.bing.com/aclick?ld=e3CNIOY5plmCKT1-plKuClVTVUCUz_oHkiPehtI-9BgL70Gbmy1oDRldVYcpVuQdqKG-CiP6ZSmUkeDEJoPeFvT46qVQNF7iuP8tMsb4mpKNVj4VjrHKbZ-W1YQHjgZL4MVP9h9163rWy3XbyJ2QrteJ3nC28&u=aHR0cHMlM2ElMmYlMmZ3d3cuY2Rpc2NvdW50LmNvbSUyZmJpam91dGVyaWUlMmZtb250cmVzJTJmbGFjb3N0ZS1ob21tZXMtbDEyMTItYmxhY2stc2lsaWNvbmUtc3RyYXAtbW9udHIlMmZmLTEyNjA0LUxBQzIwMDk5NDg0MjIxNzAuaHRtbCUzZmNpZCUzZHNlYXJjaF9wbGElMjZjbV9tbWMlM2RQTEEhQ09SIUFDQyFNUCEyODc0OTgxODIhYmluZyUyNm1zY2xraWQlM2Q1N2MwOGZiODI0OGExNjJmZGI0M2QzMTYyZjVmZDIyMQ&rlid=57c08fb8248a162fdb43d3162f5fd221",
-      "image": "https://www.bing.com/th?id=OPE.dw0%2fLeRhlNC1nA300C300:OPE.iMFPRQLMZ2cilA300C300:OPE.dO2ToG2Ql8ppug300C300:OPE.g%2bb8EEwkmqzlfQ300C300:OPE.7pp%2fESH9ykifxQ300C300&w=122&h=122&o=2&dpr=2&pid=21.1&bw=3&bc=ffffff"
-    },
-    {
-      "title": "Lacoste Hommes L1212 Black",
-      "price": "129,00 €",
+      "originalPrice": null,
       "advertiser": "Cdiscount Marketplace",
       "targetUrl": "https://www.bing.com/aclick?ld=e3CNIOY5plmCKT1-plKuClVTVUCUz_oHkiPehtI-9BgL70Gbmy1oDRldVYcpVuQdqKG-CiP6ZSmUkeDEJoPeFvT46qVQNF7iuP8tMsb4mpKNVj4VjrHKbZ-W1YQHjgZL4MVP9h9163rWy3XbyJ2QrteJ3nC28&u=aHR0cHMlM2ElMmYlMmZ3d3cuY2Rpc2NvdW50LmNvbSUyZmJpam91dGVyaWUlMmZtb250cmVzJTJmbGFjb3N0ZS1ob21tZXMtbDEyMTItYmxhY2stc2lsaWNvbmUtc3RyYXAtbW9udHIlMmZmLTEyNjA0LUxBQzIwMDk5NDg0MjIxNzAuaHRtbCUzZmNpZCUzZHNlYXJjaF9wbGElMjZjbV9tbWMlM2RQTEEhQ09SIUFDQyFNUCEyODc0OTgxODIhYmluZyUyNm1zY2xraWQlM2Q1N2MwOGZiODI0OGExNjJmZGI0M2QzMTYyZjVmZDIyMQ&rlid=57c08fb8248a162fdb43d3162f5fd221",
       "image": "https://www.bing.com/th?id=OPE.dw0%2fLeRhlNC1nA300C300:OPE.iMFPRQLMZ2cilA300C300:OPE.dO2ToG2Ql8ppug300C300:OPE.g%2bb8EEwkmqzlfQ300C300:OPE.7pp%2fESH9ykifxQ300C300&w=122&h=122&o=2&dpr=2&pid=21.1&bw=3&bc=ffffff"
@@ -131,13 +89,7 @@
     {
       "title": "Blanc Polo Lacoste L1212",
       "price": "104,00 €",
-      "advertiser": "www.fruugo.fr",
-      "targetUrl": "https://www.bing.com/aclick?ld=e3-JXK1bZ1h7IXyYQyzGirozVUCUzPufMDGKej9Soq4qPcpLrlQXrsLb2VM3_NYzQBQDM2s73PPKl2plbhXLUPv2uzUKZ71abr7LEtWoSTq0LTh01RzVOtLn3xg6sK5DqLe3T2bIKHCCEloSv78Cy8IECtxyY&u=aHR0cHMlM2ElMmYlMmZ3d3cuZnJ1dWdvLmZyJTJmYmxhbmMtcG9sby1sYWNvc3RlLWwxMjEyJTJmcC02OTY5NTg5LTUzMjk2MzE3JTNmYWMlM2RiaW5nJTI2bGFuZ3VhZ2UlM2RmciUyNm1zY2xraWQlM2Q0ODUxZjFhNGU5ZGIxYjk0ZGRjMmFkMGFlMjBlZTIzOCUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZEZSJTI1MjAtJTI1MjBNb2JpbGUlMjUyMC0lMjUyMCgxMDAtNTAwJTI1NUQlMjZ1dG1fdGVybSUzZDQ1NzUxMzY2MDQ1NjA1MTAlMjZ1dG1fY29udGVudCUzZEZSJTI1MjAtJTI1MjBNb2JpbGUlMjUyMC0lMjUyMCgxMDAtNTAwJTI1NUQ&rlid=4851f1a4e9db1b94ddc2ad0ae20ee238",
-      "image": "https://www.bing.com/th?id=OPE.dw0%2fLeRhlNC1nA300C300:OPE.iMFPRQLMZ2cilA300C300:OPE.dO2ToG2Ql8ppug300C300:OPE.g%2bb8EEwkmqzlfQ300C300:OPE.7pp%2fESH9ykifxQ300C300&w=122&h=122&o=2&dpr=2&pid=21.1&bw=3&bc=ffffff"
-    },
-    {
-      "title": "Blanc Polo Lacoste L1212",
-      "price": "104,00 €",
+      "originalPrice": null,
       "advertiser": "www.fruugo.fr",
       "targetUrl": "https://www.bing.com/aclick?ld=e3-JXK1bZ1h7IXyYQyzGirozVUCUzPufMDGKej9Soq4qPcpLrlQXrsLb2VM3_NYzQBQDM2s73PPKl2plbhXLUPv2uzUKZ71abr7LEtWoSTq0LTh01RzVOtLn3xg6sK5DqLe3T2bIKHCCEloSv78Cy8IECtxyY&u=aHR0cHMlM2ElMmYlMmZ3d3cuZnJ1dWdvLmZyJTJmYmxhbmMtcG9sby1sYWNvc3RlLWwxMjEyJTJmcC02OTY5NTg5LTUzMjk2MzE3JTNmYWMlM2RiaW5nJTI2bGFuZ3VhZ2UlM2RmciUyNm1zY2xraWQlM2Q0ODUxZjFhNGU5ZGIxYjk0ZGRjMmFkMGFlMjBlZTIzOCUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZEZSJTI1MjAtJTI1MjBNb2JpbGUlMjUyMC0lMjUyMCgxMDAtNTAwJTI1NUQlMjZ1dG1fdGVybSUzZDQ1NzUxMzY2MDQ1NjA1MTAlMjZ1dG1fY29udGVudCUzZEZSJTI1MjAtJTI1MjBNb2JpbGUlMjUyMC0lMjUyMCgxMDAtNTAwJTI1NUQ&rlid=4851f1a4e9db1b94ddc2ad0ae20ee238",
       "image": "https://www.bing.com/th?id=OPE.dw0%2fLeRhlNC1nA300C300:OPE.iMFPRQLMZ2cilA300C300:OPE.dO2ToG2Ql8ppug300C300:OPE.g%2bb8EEwkmqzlfQ300C300:OPE.7pp%2fESH9ykifxQ300C300&w=122&h=122&o=2&dpr=2&pid=21.1&bw=3&bc=ffffff"
