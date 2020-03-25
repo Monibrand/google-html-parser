@@ -105,11 +105,11 @@ class BingParser {
     }
 
     getLocationCountry() {
-        return false;
+        return this.$('#ftrD_Pays > a').text();
     }
 
     getLocationLanguage() {
-        return false;
+        return this.$('html').attr('lang');
     }
 
     getLocationRegion() {
