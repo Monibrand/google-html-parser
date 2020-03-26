@@ -1,3 +1,4 @@
+const _ = require('lodash')
 class BingParser {
 
     constructor(dom) {
@@ -122,6 +123,20 @@ class BingParser {
 
     getComparatorName(){
         return null;
+    }
+
+    getAdsCountTemplate(options){
+        const self = this;
+        var detectRule = _.chain(options.detectText).map(function(text){
+            return _.template('#b_results span:contains("<%= text %>")')({text: text});
+          }).join(', ').value();
+          var adsCount = 0, test = self.$(detectRule);
+          test.each(function(){
+            if(options.detectText.indexOf(self.$(this).text()) >= 0 ){
+              adsCount++;
+            }
+          });
+          return adsCount;
     }
 }
 

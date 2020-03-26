@@ -1,3 +1,5 @@
+const _ = require('lodash')
+
 class GoogleParser {
 
     constructor(dom) {
@@ -118,6 +120,20 @@ class GoogleParser {
 
     getComparatorName(){
         return this.adNode.find('.KbpByd').first().text();
+    }
+
+    getAdsCountTemplate(options){
+        const self = this;
+        var detectRule = _.chain(options.detectText).map(function(text){
+            return _.template('span:contains("<%= text %>")')({text: text});
+          }).join(', ').value();
+          var adsCount = 0, test = self.$(detectRule);
+          test.each(function(){
+            if(options.detectText.indexOf(self.$(this).text()) >= 0 ){
+              adsCount++;
+            }
+          });
+          return adsCount;
     }
 }
 

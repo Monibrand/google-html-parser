@@ -141,5 +141,8 @@
       "description": "Economisez sur Catalogue Vetements Bermudes Lacoste avec Shopping.com, le leader mondial de la comparaison de prix. Toutes les plus grandes marques sont disponibles et les bonnes affaires sont au rendez-vous ! Comparez les prix afin de trouver la meilleure référence au meilleur prix sur Shopping…",
       "realPosition": 11
     }
-  ]
+  ],
+  "location": {
+    "htmlLang": "fr"
+  }
 }
