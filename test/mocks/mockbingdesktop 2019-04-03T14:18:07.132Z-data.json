@@ -55,7 +55,7 @@
       "realPosition": 15
     }
   ],
-  "adsCount": 8,
+  "adsCount": 6,
   "shoppingAds": [
     {
       "title": "Lacoste Polo L1212 Original Camellia Homme Rose",
@@ -120,5 +120,9 @@
       "description": "René Lacoste voulait une ligne de vêtements dans lesquels il se sentirait bien pour jouer, tout en restant sobres à l’image du gentleman-tennisman. De la mode aux parfums, la maison LACOSTE est restée fidèle à cette vision, celle d’une élégance naturelle et d’une …",
       "realPosition": 12
     }
-  ]
+  ],
+  "location": {
+    "country": "France uniquement",
+    "htmlLang": "fr"
+  }
 }

@@ -161,5 +161,9 @@
       "description": "Vous allez adorer les sacs cabas Lacoste Chantaco, une ligne mythique qui est ornée du fameux logo tout en discrétion. Craquez aussi pour toutes les nouveautés sacs porté épaule et sac bandoulière Lacoste en cuir de très haute qualité, et ce, à un prix abordable. Très bon shopping !",
       "realPosition": 10
     }
-  ]
+  ],
+  "location": {
+    "country": "France uniquement",
+    "htmlLang": "fr"
+  }
 }

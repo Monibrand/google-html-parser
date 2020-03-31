@@ -139,5 +139,9 @@
       "description": "Lacoste rise to fame was inspired by a famous French tennis player, Rene Lacoste, who became renown for winning multiple grand slam titles and was nicknamed the \"alligator\" as a result of his conquests. Rene Lacoste chose to showcase his nickname by embroidering the famous Lacoste crocodile on his tennis clothing which",
       "realPosition": 8
     }
-  ]
+  ],
+  "location": {
+    "country": "France uniquement",
+    "htmlLang": "fr"
+  }
 }

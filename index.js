@@ -68,16 +68,6 @@ function parse(options, body, callback){
     }
   });
 
-  var detectRule = _.chain(options.detectText).map(function(text){
-    return _.template('span:contains("<%= text %>")')({text: text});
-  }).join(', ').value();
-  var adsCount = 0, test = $(detectRule);
-  test.each(function(){
-    if(options.detectText.indexOf($(this).text()) >= 0 ){
-      adsCount++;
-    }
-  });
-
   var shoppingAds = [];
   parser.getShopAdList().each(function(){
     parser.setCurrentNode(this);
@@ -120,7 +110,7 @@ function parse(options, body, callback){
 
   return Promise.resolve({
     ads : ads,
-    adsCount: adsCount,
+    adsCount: parser.getAdsCountTemplate(options),
     shoppingAds: shoppingAds,
     results: results,
     location: (location.country || location.region || location.htmlLang) ? location : undefined,
