@@ -20,7 +20,7 @@ class GoogleParser {
     }
 
     getAdDisplayUrl() {
-        return this.adNode.find('.ads-visurl cite, .qzEoUe, .dTe0Ie.LrP0oe').text();
+        return this.adNode.find('.ads-visurl cite').first().text() || this.adNode.find('.qzEoUe, .dTe0Ie.LrP0oe').text();
     }
 
     getAdTargetUrl() {
@@ -127,7 +127,7 @@ class GoogleParser {
         var detectRule = _.chain(options.detectText).map(function(text){
             return _.template('span:contains("<%= text %>")')({text: text});
           }).join(', ').value();
-          var adsCount = 0, test = self.$(detectRule);
+          var adsCount = 0, test = self.$(detectRule).not('.evvN5c');
           test.each(function(){
             if(options.detectText.indexOf(self.$(this).text()) >= 0 ){
               adsCount++;
