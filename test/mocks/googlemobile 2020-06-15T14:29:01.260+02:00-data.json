@@ -1,0 +1,93 @@
+{
+  "ads": [
+    {
+      "title": "CCMO Mutuelle - Étudiants et jeunes actifs - ccmo.fr",
+      "displayUrl": "offresante.ccmo.fr/",
+      "targetUrl": "https://offresante.ccmo.fr/mutuelle-sante-jeunes",
+      "content": "Des remboursements (lunettes, soins dentaires) au meilleur prix : à partir de 18,28€/mois. Trouvez l'offre qui vous correspond et découvrez votre tarif en ligne en 2 min top chrono. Tarif en 2mn chrono. Vraie mutuelle.\nMutuelle Santé Seniors\nMutuelle Santé Famille",
+      "position": 1,
+      "area": "top",
+      "realPosition": 1
+    },
+    {
+      "title": "Assurance logement SMERRA - Devis Etudiant en 2 min",
+      "displayUrl": "www.smerra.fr/",
+      "targetUrl": "https://smerra.fr/4-assurances/7-assurance-logement",
+      "content": "Dépannage et assistance 24h/24 et 7j/7. Formules personnalisées. Assurez-vous avec la SMERRA: l'assureur des étudiants depuis 40 ans. C'est simple & rapide. SMERRA.",
+      "position": 2,
+      "area": "top",
+      "realPosition": 2
+    },
+    {
+      "title": "Assurances Macif - Devis gratuit en ligne - Toute l'offre Macif en ligne",
+      "displayUrl": "www.macif.fr/",
+      "targetUrl": "https://www.macif.fr/assurance/particuliers",
+      "content": "Obtenez immédiatement votre devis en ligne pour assurance auto, moto, santé… Profitez...",
+      "position": 3,
+      "area": "top",
+      "realPosition": 3
+    }
+  ],
+  "adsCount": 3,
+  "shoppingAds": [],
+  "results": [
+    {
+      "title": "https://www.macif.fr › assurance › a...",
+      "targetUrl": "https://www.macif.fr/assurance/espace-moins-de-30ans/assurance-logement-etudiant",
+      "description": "Avec Prem's, l'assurance habitation étudiant de la Macif, profite d'une assurance habitation pas chère à 60 €/an ...Souscription Assurance ...Assurance responsabilité ...",
+      "realPosition": 4
+    },
+    {
+      "title": "https://faq.macif.fr › mon-contrat",
+      "targetUrl": "https://faq.macif.fr/reponse/mon-habitation/mon-contrat/comment-assurer-un-logement-pour-un-etudiant/",
+      "description": "Destiné aux étudiants, saisonniers et apprentis, le contrat d'assurance logement étudiant Prem's convient aux ...",
+      "realPosition": 5
+    },
+    {
+      "title": "https://www.macif.fr › je-suis-etudiant",
+      "targetUrl": "https://www.macif.fr/assurance/espace-moins-de-30ans/je-suis-etudiant",
+      "description": "Assure ton logement. Etudiant, saisonnier ou apprenti, jeune en service civique, Prem's te permet d'assurer ton logement ...",
+      "realPosition": 6
+    },
+    {
+      "title": "https://www.macif.fr › dipaPDF",
+      "targetUrl": "https://www.macif.fr/files/live/sites/maciffr/files/dipa/DIPA_habitation_prems.pdf",
+      "description": "Produit : Contrat PREM'S - Assurance logement - Assurance personnelle. Ce document d'information présente un ...",
+      "realPosition": 7
+    },
+    {
+      "title": "https://www.macif.fr › particuliers",
+      "targetUrl": "https://www.macif.fr/assurance/particuliers/assurance-habitation-et-vie-quotidienne",
+      "description": "Toutes les assurances Macif pour la maison et la vie quotidienne : assurance habitation, assurance emprunteur, ...",
+      "realPosition": 8
+    },
+    {
+      "title": "https://www.macif.fr › assurance",
+      "targetUrl": "https://www.macif.fr/assurance/espace-moins-de-30ans/responsabilite-civile-etudiante.produits-amp.html",
+      "description": "Sans logement à assurer : Assurance personnelle. Pour couvrir : les dommages causés aux autres (garantie RC); ses ...",
+      "realPosition": 9
+    },
+    {
+      "title": "https://www.macif.fr › particuliers",
+      "targetUrl": "https://www.macif.fr/assurance/particuliers/assurance-habitation-et-vie-quotidienne/residence-principale",
+      "description": "Trouvez votre assurance multirisque habitation Macif pas chère pour votre résidence principale : 2 formules et ... L'assurance logement étudiant (assurance responsabilité civile locative) est obligatoire.",
+      "realPosition": 10
+    },
+    {
+      "title": "https://www.macif.fr › filesPDF",
+      "targetUrl": "https://www.macif.fr/files/live/sites/maciffr/files/conditions_generales_habitation/CG_Prems.pdf",
+      "description": "ASSURANCE DU LOGEMENT l Responsabilité de locataire (ou d'occupant) l Dommages aux biens assurés à la suite :.",
+      "realPosition": 11
+    },
+    {
+      "title": "https://www.macif.fr › conseils",
+      "targetUrl": "https://www.macif.fr/assurance/particuliers/conseils/vie-pratique/colocation-les-regles-a-savoir.actualite-conseil-amp.html",
+      "description": "Pour une protection optimale, il est d'ailleurs possible de souscrire une assurance multirisque habitation étudiant ou ...",
+      "realPosition": 12
+    }
+  ],
+  "location": {
+    "country": "France",
+    "htmlLang": "fr"
+  }
+}

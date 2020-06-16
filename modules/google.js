@@ -12,7 +12,7 @@ class GoogleParser {
     }
 
     getNodeList() {
-        return this.$('.ads-ad, #ires .g, .ZINbbc.xpd, .O9g5cc.xpd');
+        return this.$('.ads-ad, .mnr-c.O9g5cc.uUPGi, #ires .g, .ZINbbc.xpd, .O9g5cc.xpd');
     }
 
     getAdTitle() {
