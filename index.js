@@ -61,7 +61,7 @@ function parse(options, body, callback){
         description: parser.getResultDescription(),
         realPosition: realPosition
       };
-      if (result.title && !/\/search\?/.test(result.targetUrl)) {
+      if (result.title && result.description && !/\/search\?/.test(result.targetUrl)) {
         results.push(result);
         realPosition++;
       }
