@@ -52,16 +52,19 @@ class GoogleParser {
     }
 
     getResultTitle() {
-        return this.adNode.find('a div').first().text() || this.adNode.find('a').first().text();
+        return this.adNode.find('a div').first().text() || this.adNode.find('a').first().text() || this.adNode.find('a').eq(1).text();
     }
 
     getResultTargetUrl() {
-        return this.adNode.find('a').attr('href');
+        return this.adNode.find('a[href!="javascript:;"]').attr('href');
     }
 
     getResultDescription() {
+        const self = this;
         return this.adNode.find('.st').text() ||
-            this.adNode.find('div.JTuIPc > .pIpgAc, [jsname="ao5mud"] .BmP5tf > .MUxGbd , hr + .BmP5tf > .MUxGbd, .yDYNvb').text()
+            this.adNode.find('div.JTuIPc > .pIpgAc, [jsname="ao5mud"] .BmP5tf > .MUxGbd , hr + .BmP5tf > .MUxGbd, .yDYNvb').text() ||
+            this.adNode.find('.LZ8hH').text() ||
+            this.adNode.find('.q2WXyd .rLMeW, .q2WXyd tr').map(function(i, el){return self.$(this).text();}).get().join('\n');
     }
 
     getShopAdList() {
