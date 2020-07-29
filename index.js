@@ -13,7 +13,7 @@ function getParser (searchEngine, dom) {
 
 function parse(options, body, callback){
   options = _.defaultsDeep(options, {
-    detectText: ['Annonce', 'Ad', 'Annonce·']
+    detectText: ['Annonce', 'Ad', 'Annonce·', 'Ad·']
   });
   var $ = cheerio.load(body);
   var ads = [];
