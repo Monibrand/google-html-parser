@@ -1,0 +1,90 @@
+{
+  "ads": [
+    {
+      "title": "Capital One® Auto Finance - Build Your Car Loan Online‎",
+      "displayUrl": "www.capitalone.com/",
+      "targetUrl": "/aclk?sa=l&ai=DChcSEwj8svH53eLqAhUT1sAKHVwdA_EYABABGgJpbQ&sig=AOD64_0gPT3sQTmGe-fHyG0xhoe6JJlc7A&adurl=&q=",
+      "content": "Pre-Qualify, Access Personalized Financing Options & Build Your Deal–All Online. Pre-Qualify In Minutes. Dealer Reviews. 3+ Million Cars. Auto Reviews. 12,000+ Dealerships. Payment Calculator. Cars Added Daily. Services: New Car Financing, Used Car Financing.",
+      "preconnectUrls": [
+        "https://www.capitalone.com/",
+        "http://clickserve.dartsearch.net/"
+      ],
+      "position": 1,
+      "area": "top",
+      "realPosition": 1
+    },
+    {
+      "title": "10 Best Car Loans 2020 - Apply Online Get approved Fast‎",
+      "displayUrl": "www.top10bestcarloans.com/",
+      "targetUrl": "https://www.top10bestcarloans.com/",
+      "content": "Read Experts Review & Compare Your Car Loan Options. Apply Today For Low Rates! Need Money But Don’t Want to Leave the House? Click Now & Apply Online From Your Own Home! Auto Loans for Your Needs. Bad Credit OK. Credit Scores Range. No Hidden Fees.",
+      "preconnectUrls": [
+        "https://www.top10bestcarloans.com/"
+      ],
+      "position": 2,
+      "area": "top",
+      "realPosition": 2
+    }
+  ],
+  "adsCount": 2,
+  "shoppingAds": [],
+  "results": [
+    {
+      "title": "www.bankofamerica.com › auto-loans",
+      "targetUrl": "https://www.bankofamerica.com/auto-loans/",
+      "description": "Then use our online tools to finalize your loan quickly. New & used car loans. Lock into a low rate, estimate a monthly payment – ...",
+      "realPosition": 3
+    },
+    {
+      "title": "www.bankofamerica.com › ... › Auto Loan Calculator",
+      "targetUrl": "https://www.bankofamerica.com/auto-loans/auto-loan-calculator/",
+      "description": "Use Bank of America's auto loan calculator to determine your estimated monthly payments and your approximate rate for a new or used car loan.",
+      "realPosition": 4
+    },
+    {
+      "title": "autofinance.chase.com › auto-finance",
+      "targetUrl": "https://autofinance.chase.com/auto-finance/home",
+      "description": "Chase Auto Finance enjoy flexible car buying and auto loan options for new and used cars. Or see if refinancing is right for you.",
+      "realPosition": 5
+    },
+    {
+      "title": "www.capitalone.com › auto-financing",
+      "targetUrl": "https://www.capitalone.com/auto-financing/",
+      "description": "Apply online for a new or used Car Loan from Capital One Auto Finance. Get approved for a financing based on your needs and within your budget, with ...",
+      "realPosition": 6
+    },
+    {
+      "title": "www.nerdwallet.com › best › auto-loans-for-good-fair-...",
+      "targetUrl": "https://www.nerdwallet.com/best/loans/auto-loans/auto-loans-for-good-fair-and-bad-credit",
+      "description": "Jun 24, 2020 - Compare car loans from multiple lenders to find your best rate and learn what you need to know before you apply.",
+      "realPosition": 7
+    },
+    {
+      "title": "www.usaa.com › inet › bank-loan-auto-main",
+      "targetUrl": "https://www.usaa.com/inet/wc/bank-loan-auto-main",
+      "description": "Auto Loan Calculator. Get your estimated APR and monthly payment. Calculate. USAA Car Buying Service. Get ...",
+      "realPosition": 8
+    },
+    {
+      "title": "www.bankrate.com › loans › auto-loans › rates",
+      "targetUrl": "https://www.bankrate.com/loans/auto-loans/rates/",
+      "description": "Compare auto loan rates. See rates for new and used car loans, and find auto loan refinance rates from lenders.",
+      "realPosition": 9
+    },
+    {
+      "title": "www.bankrate.com › calculators › auto-loan-calculator",
+      "targetUrl": "https://www.bankrate.com/calculators/auto/auto-loan-calculator.aspx",
+      "description": "Use our auto loan calculator to estimate monthly car payments and find the lowest rates available. Then you can shop for the vehicle that fits your budget and ...",
+      "realPosition": 10
+    },
+    {
+      "title": "www.lendingtree.com › auto",
+      "targetUrl": "https://www.lendingtree.com/auto/",
+      "description": "It's easy to shop for auto loans and compare lenders with a click. Compare rates and use our auto loan calculator to budget your payments.",
+      "realPosition": 11
+    }
+  ],
+  "location": {
+    "htmlLang": "en"
+  }
+}

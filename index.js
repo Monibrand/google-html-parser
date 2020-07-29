@@ -13,7 +13,7 @@ function getParser (searchEngine, dom) {
 
 function parse(options, body, callback){
   options = _.defaultsDeep(options, {
-    detectText: ['Annonce', 'Ad', 'Annonce·']
+    detectText: ['Annonce', 'Ad', 'Annonce·', 'Ad·']
   });
   var $ = cheerio.load(body);
   var ads = [];
@@ -61,7 +61,7 @@ function parse(options, body, callback){
         description: parser.getResultDescription(),
         realPosition: realPosition
       };
-      if (result.title && !/\/search\?/.test(result.targetUrl)) {
+      if (result.title && result.description && !/\/search\?/.test(result.targetUrl)) {
         results.push(result);
         realPosition++;
       }
