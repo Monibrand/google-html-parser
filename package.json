@@ -1,7 +1,7 @@
 {
   "name": "google-html-parser",
   "version": "0.2.1",
-  "description": "Parse search engine HTML results to retrieve organic results, ads and more",
+  "description": "Parse Search Engine Results Pages to retrieve organic results, ads, shopping and more",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/majewan/google-html-parser"
+    "url": "https://github.com/monibrand/google-html-parser"
   },
   "keywords": [
     "parser",
@@ -19,12 +19,13 @@
     "ads",
     "search",
     "engine",
-    "adwords"
+    "adwords",
+    "serp"
   ],
   "author": "Majewan Interactive",
   "license": "GPL-v3",
   "bugs": {
-    "url": "https://github.com/majewan/google-html-parser/issues"
+    "url": "https://github.com/monibrand/google-html-parser/issues"
   },
   "files": [
     "index.js",
