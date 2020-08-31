@@ -12,7 +12,7 @@ class GoogleParser {
     }
 
     getNodeList() {
-        return this.$('.ads-ad, .mnr-c.O9g5cc.uUPGi, #ires .g,  #res .g, .ZINbbc.xpd, .O9g5cc.xpd');
+        return this.$('.ads-ad, #ires .g,  #res .g, .ZINbbc.xpd, .O9g5cc');
     }
 
     getAdTitle() {
@@ -20,15 +20,17 @@ class GoogleParser {
     }
 
     getAdDisplayUrl() {
-        return this.adNode.find('.ads-visurl cite').first().text() || this.adNode.find('.qzEoUe, .dTe0Ie.LrP0oe').text();
+        return this.adNode.find('.ads-visurl cite').first().text() || this.adNode.find('.qzEoUe, .dTe0Ie.LrP0oe').first().text();
     }
 
     getAdTargetUrl() {
-        return this.adNode.find('h3 a, .ad_cclk > a').next('a').attr('href') || this.adNode.find('> a').attr('href') || this.adNode.find('h3 a, > div > a').attr('href');
+        const self = this;
+        const possibleTargetUrls = this.adNode.find('a').map(function(i, el){return self.$(this).attr('href');}).get();
+        return _.find(possibleTargetUrls, (e) => !/^https:\/\/www\.(google|googleadservices)\.|^\/aclk|^javascript:/.test(e)) || possibleTargetUrls[0];
     }
 
     getAdEllipsis() {
-        return this.adNode.find('div.ads-creative, div.ellip, div:nth-child(3) .lEBKkf, .yDYNvb.lEBKkf, hr + .BmP5tf > .MUxGbd, .HLLkSb.G99wIc.rLshyf');
+        return this.adNode.find('div.ads-creative, div.ellip, div:nth-child(3) .lEBKkf, .yDYNvb.lEBKkf, hr + .BmP5tf > .MUxGbd, .HLLkSb.G99wIc.rLshyf, .MUxGbd.yDYNvb');
     }
 
     getAdPreconnectUrl() {
@@ -40,7 +42,7 @@ class GoogleParser {
     }
 
     isAdNode() {
-        return this.adNode.hasClass('ads-ad') || this.adNode.parents('[class^=\'ads-\'],[class*=\' ads-\']').length > 0;
+        return this.adNode.hasClass('ads-ad') || this.adNode.hasClass('ads-fr') || this.adNode.parents('[class^=\'ads-\'],[class*=\' ads-\']').length > 0;
     }
 
     isAdOnTop() {
@@ -130,7 +132,7 @@ class GoogleParser {
         var detectRule = _.chain(options.detectText).map(function(text){
             return _.template('span:contains("<%= text %>")')({text: text});
           }).join(', ').value();
-          var adsCount = 0, test = self.$(detectRule).not('.evvN5c');
+          var adsCount = 0, test = self.$(detectRule).not('.evvN5c').not('.dc3Trd');
           test.each(function(){
             if(options.detectText.indexOf(self.$(this).text()) >= 0 ){
               adsCount++;
