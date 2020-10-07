@@ -33,6 +33,7 @@
       "targetUrl": "https://www.csf.fr/jcms/mle_830/le-pret-personnel",
       "content": "Obtenez un taux fixe de 2,90% TAEG, de 1 500 € à 21 500 € sur 12 mois !\nPARIS · 9 rue du Faubourg Poissonnière",
       "position": 4,
+      "area": "bottom",
       "realPosition": 15
     },
     {
@@ -41,6 +42,7 @@
       "targetUrl": "https://www.cetelem.fr/fr/accueil",
       "content": "Besoin d'un Crédit ? Cetelem vous accompagne dans vos projets.",
       "position": 5,
+      "area": "bottom",
       "realPosition": 16
     },
     {
@@ -49,6 +51,7 @@
       "targetUrl": "https://www.allo-credit.com/lpm-promo-google.php",
       "content": "Simulation 100% Gratuite et Sans engagement. Promotions aux Meilleurs Taux ! Simulez sans engagement.",
       "position": 6,
+      "area": "bottom",
       "realPosition": 17
     },
     {
@@ -57,6 +60,7 @@
       "targetUrl": "https://www.carrefour-banque.fr/credit/pret-personnel/simulation-pret",
       "content": "Simulez votre Crédit et réalisez vos projets. 10 000 à 20 000€ sur 24 mois !",
       "position": 7,
+      "area": "bottom",
       "realPosition": 28
     },
     {
@@ -65,6 +69,7 @@
       "targetUrl": "https://www.boursorama-banque.com/credits/",
       "content": "Découvrez l'offre de crédit immobilier 100% en ligne Boursorama Banque. Site optimisé mobile. Simulateur en ligne. Réponse immédiate.\nAfficher 4 prix à partir de 0,00 €\nSimulation de crédit\n0,00 €\nRéponse immédiate\nFrais de dossier immo\n0,00 €\nDemande 100% en ligne\nAucune indemnité\n0,00 €\nde remboursement anticipé\nChangez de banque\n0,00 €\nAvec le service Easymove",
       "position": 8,
+      "area": "bottom",
       "realPosition": 29
     },
     {
@@ -73,6 +78,7 @@
       "targetUrl": "https://www.yelloan.com/credit/conso",
       "content": "Besoin d'un Crédit? Essayez Yelloan, le Nouvel Accès au Crédit à la Consommation",
       "position": 9,
+      "area": "bottom",
       "realPosition": 30
     },
     {
@@ -81,6 +87,7 @@
       "targetUrl": "/aclk?sa=l&ai=DChcSEwifvL-s-MPaAhXDnxsKHaHqCdAYABAAGgJ3bA&sig=AOD64_1IfWy6DHREGVoqy6piZ8Wf_Daatw&q=&ved=2ahUKEwixqLus-MPaAhWSOsAKHfIMBBw4HhDRDHoECAoQHw&adurl=",
       "content": "Obtenez votre crédit en 72 h, Une Réponse de principe en quelques minutes.",
       "position": 10,
+      "area": "bottom",
       "realPosition": 51
     },
     {
@@ -89,6 +96,7 @@
       "targetUrl": "https://financemutuel.com/formulaire-de-demande-de-pret/",
       "content": "Faites votre demande de crédit 100% en ligne. Décision de financement en 24h !",
       "position": 11,
+      "area": "bottom",
       "realPosition": 52
     },
     {
@@ -97,6 +105,7 @@
       "targetUrl": "https://www.finnaco.fr/credit-personnel/",
       "content": "Obtenez votre crédit avec taux fixe et remboursez sur une durée de 12 à 120 mois",
       "position": 12,
+      "area": "bottom",
       "realPosition": 53
     }
   ],

@@ -6,7 +6,7 @@ const fs = require('fs');
 
 describe('GoogleHtmlParser', function() {
   getMocks().forEach(mock => {
-    describe('Extract and compare test for ' + mock.name, function(){
+    describe('File ' + mock.name, function(){
       let extractedDatas;
       before(function(){
         if(mock.name.match(/bing/g) != null){
@@ -27,7 +27,7 @@ describe('GoogleHtmlParser', function() {
       });
 
       mock.data.ads.forEach((adMock, i) => {
-        it('Verify datas for ad ' + adMock.title + ' (' + i + ')', function(){
+        it('Ads ' + adMock.title + ' (' + i + ')', function(){
           assert.strictEqual(extractedDatas.ads[i].position, adMock.position);
           assert.strictEqual(extractedDatas.ads[i].realPosition, adMock.realPosition);
           assert.strictEqual(extractedDatas.ads[i].area, adMock.area);
@@ -44,7 +44,7 @@ describe('GoogleHtmlParser', function() {
       });
 
       mock.data.shoppingAds.forEach((shoppingAdMock, i) => {
-        it('Verify datas for shopping ad ' + shoppingAdMock.title + ' (' + i + ')', function(){
+        it('Shopping ads ' + shoppingAdMock.title + ' (' + i + ')', function(){
           assert.strictEqual(extractedDatas.shoppingAds[i].title, shoppingAdMock.title);
           assert.strictEqual(extractedDatas.shoppingAds[i].advertiser, shoppingAdMock.advertiser);
           assert.strictEqual(extractedDatas.shoppingAds[i].targetUrl, shoppingAdMock.targetUrl);
@@ -61,10 +61,10 @@ describe('GoogleHtmlParser', function() {
       });
 
       mock.data.results.forEach((result, i) => {
-        it('Verify datas for result ' + result.title + ' (' + i + ')', function(){
-          assert.strictEqual(extractedDatas.results[i].title, result.title);
-          assert.strictEqual(extractedDatas.results[i].targetUrl, result.targetUrl);
-          assert.strictEqual(extractedDatas.results[i].description, result.description);
+        it('Organic result ' + result.title + ' (' + i + ')', function(){
+          assert.strictEqual(extractedDatas.results[i].title, result.title, 'title');
+          assert.strictEqual(extractedDatas.results[i].targetUrl, result.targetUrl, 'targetUrl');
+          assert.strictEqual(extractedDatas.results[i].description, result.description, 'description');
         });
       });
     });

@@ -42,19 +42,19 @@ class GoogleParser {
     }
 
     isAdNode() {
-        return this.adNode.hasClass('ads-ad') || this.adNode.hasClass('ads-fr') || this.adNode.parents('[class^=\'ads-\'],[class*=\' ads-\']').length > 0;
+        return this.isAdOnTop() || this.isAdOnBottom();
     }
 
     isAdOnTop() {
-        return this.adNode.parents('#taw').length > 0;
+        return this.adNode.parents('#taw,#KsHht').length > 0;
     }
 
     isAdOnBottom() {
-        return this.adNode.parents('#bottomads').length > 0;
+        return this.adNode.parents('#bottomads,#tadsb').length > 0;
     }
 
     getResultTitle() {
-        return this.adNode.find('a div').first().text() || this.adNode.find('a').first().text() || this.adNode.find('a').eq(1).text();
+        return this.adNode.find('h3').first().text() || this.adNode.find('a div').first().text() || this.adNode.find('a').first().text() || this.adNode.find('a').eq(1).text();
     }
 
     getResultTargetUrl() {
@@ -65,7 +65,7 @@ class GoogleParser {
         const self = this;
         return this.adNode.find('.st').text() ||
             this.adNode.find('div.JTuIPc > .pIpgAc, [jsname="ao5mud"] .BmP5tf > .MUxGbd , hr + .BmP5tf > .MUxGbd, .yDYNvb').text() ||
-            this.adNode.find('.LZ8hH').text() ||
+            this.adNode.find('.LZ8hH, .IsZvec').text() ||
             this.adNode.find('.q2WXyd .rLMeW, .q2WXyd tr').map(function(i, el){return self.$(this).text();}).get().join('\n');
     }
 

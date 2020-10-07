@@ -1,0 +1,75 @@
+{
+  "ads": [
+    {
+      "title": "Effy® - Gardez votre Énergie - Obtenez des Aides Financières",
+      "displayUrl": "www.effy.fr/",
+      "targetUrl": "https://www.effy.fr/",
+      "content": "1er spécialiste de la rénovation énergétique, Effy vous accompagne pour vos Travaux. + de 100 conseillers vous aident à trouver un...\nCalculez vos Aides\nIsolez votre Maison\nChangez de Chaudière\nPrime Chauffage",
+      "position": 1,
+      "area": "top",
+      "realPosition": 1
+    }
+  ],
+  "adsCount": 1,
+  "shoppingAds": [],
+  "results": [
+    {
+      "title": "www.effy.fr › nos-offres › installati...",
+      "targetUrl": "https://www.effy.fr/nos-offres/installation-pompe-a-chaleur",
+      "description": "MaPrimeRenov de l'Anah et la Prime Effy, jusqu'à 90% du coût initial de la PAC peuvent être pris en charge. Les ...",
+      "realPosition": 2
+    },
+    {
+      "title": "www.effy.fr › chauffage › pompe-a...",
+      "targetUrl": "https://www.effy.fr/travaux-energetique/chauffage/pompe-a-chaleur",
+      "description": "Vous pensez à opter pour la pompe à chaleur (PAC) pour votre système de chauffage ? Focus sur la PAC, système ...",
+      "realPosition": 3
+    },
+    {
+      "title": "www.effy.fr › chauffage › pac-air-eau",
+      "targetUrl": "https://www.effy.fr/travaux-energetique/chauffage/pompe-a-chaleur/pac-air-eau",
+      "description": "Marre de votre vieille chaudière ? Optez pour la pompe à chaleur air eau! Issue des énergies renouvelables la PAC air ...",
+      "realPosition": 4
+    },
+    {
+      "title": "www.effy.fr › chauffage › pac-air-air",
+      "targetUrl": "https://www.effy.fr/travaux-energetique/chauffage/pompe-a-chaleur/pac-air-air",
+      "description": "Pompe à chaleur air-air, kézako? Une PAC aérothermique puisse les calories de l'air extérieur pour pouvoir réchauffer ...",
+      "realPosition": 5
+    },
+    {
+      "title": "www.laprimeenergie.fr › pac-a-1-euro",
+      "targetUrl": "https://www.laprimeenergie.fr/les-travaux/la-pompe-a-chaleur/pac-a-1-euro",
+      "description": "Nous vous informons que notre offre PAC à 1 € est provisoirement suspendue en raison d'un changement de ...",
+      "realPosition": 6
+    },
+    {
+      "title": "www.pacte-energie-solidarite.fr › po...",
+      "targetUrl": "https://www.pacte-energie-solidarite.fr/coup-de-pouce/pompe-a-chaleur",
+      "description": "À PROPOS. Qui sommes-nous ? Le groupe Effy · Quelle énergie · Nos Avis clients. LIENS ...",
+      "realPosition": 7
+    },
+    {
+      "title": "www.pacte-energie-solidarite.fr › po...",
+      "targetUrl": "https://www.pacte-energie-solidarite.fr/nos-offres/pompe-a-chaleur",
+      "description": "Assurance décennale Effy. Nos chantiers sont assurés. Nos professionnels sont certifiés RGE Quali'Pac. Nos chantiers ...",
+      "realPosition": 8
+    },
+    {
+      "title": "www.calculeo.fr › Subventions › La...",
+      "targetUrl": "https://www.calculeo.fr/Subventions/Pompe-a-chaleur/La-pompe-a-chaleur-air-eau-a-1-euro",
+      "description": "installation simple : la PAC air/eau est compatible, sans lourds travaux, avec un système existant de chauffage ...",
+      "realPosition": 9
+    },
+    {
+      "title": "www.genieclimatique.fr › PAC-...",
+      "targetUrl": "https://www.genieclimatique.fr/tendances/641/PAC-a-1-euro-:-Effy-lance-un-appel-aux-installateurs?amp",
+      "description": "Après avoir reçu plus de 25 000 demandes en trois semaines, le groupe cherche plus d'artisans partenaires pour ...",
+      "realPosition": 10
+    }
+  ],
+  "location": {
+    "country": "France",
+    "htmlLang": "fr"
+  }
+}
