@@ -135,7 +135,6 @@ class GoogleParser {
           var adsCount = 0, test = self.$(detectRule).not('.evvN5c').not('.dc3Trd').not('.NVWord');
           test.each(function(){
             if(options.detectText.indexOf(self.$(this).text()) >= 0 ){
-              console.log(self.$(this));
               adsCount++;
             }
           });
