@@ -132,9 +132,10 @@ class GoogleParser {
         var detectRule = _.chain(options.detectText).map(function(text){
             return _.template('span:contains("<%= text %>")')({text: text});
           }).join(', ').value();
-          var adsCount = 0, test = self.$(detectRule).not('.evvN5c').not('.dc3Trd');
+          var adsCount = 0, test = self.$(detectRule).not('.evvN5c').not('.dc3Trd').not('.NVWord');
           test.each(function(){
             if(options.detectText.indexOf(self.$(this).text()) >= 0 ){
+              console.log(self.$(this));
               adsCount++;
             }
           });
