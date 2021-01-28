@@ -60,21 +60,25 @@
   "results": [
     {
       "title": "Le rachat de crédit en ligne - Cofidis",
+      "targetUrl": "https://www.cofidis.fr/fr/rachat-de-credit/rachat-de-credit-en-ligne.html",
       "description": "Le rachat de crédit Cofidis est un prêt personnel de 3 000€ à 80 000€ qui vous permet de rassembler vos prêts en un seul et de déterminer une nouvelle mensualité adaptée à votre situation financière. Accueil Rachat de crédit Rachat de crédit en ligne.",
       "realPosition": 5
     },
     {
       "title": "Rachat de crédit & surendettement | Cofidis",
+      "targetUrl": "https://www.cofidis.fr/fr/rachat-de-credit/rachat-de-credit-surendettement.html",
       "description": "Découvrir le rachat de crédit Cofidis Les conditions pour un rachat de crédit Quelle que soit votre profession, le rachat de crédits s’adresse à toute personne souhaitant regrouper des crédits antérieurs.",
       "realPosition": 6
     },
     {
       "title": "Demande de rachat de crédit : documents à fournir | Cofidis",
+      "targetUrl": "https://www.cofidis.fr/fr/rachat-de-credit/dossier-rachat-credit.html",
       "description": "Pour le rachat de credit Cofidis de 3 000€ à 15 000€. La copie lisible recto verso de votre pièce d'identité en cours de validité (carte nationale d'identité, passeport ou carte de séjour) et celle du co-emprunteur. Un relevé d'identité bancaire ou postal. Une copie de justificatif de domicile de moins de 3 mois.",
       "realPosition": 7
     },
     {
       "title": "Exemples de rachat de crédits - Avant / Après - Cofidis",
+      "targetUrl": "https://www.cofidis.fr/fr/rachat-de-credit/exemples-rachat-credit.html",
       "description": "Le rachat de crédit Cofidis est un prêt personnel de 3 000€ à 80 000€ qui vous permet de rassembler vos prêts en un seul, et de déterminer une nouvelle mensualité adaptée à votre situation financière",
       "realPosition": 8
     }

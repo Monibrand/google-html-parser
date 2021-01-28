@@ -57,7 +57,7 @@ class BingParser {
     }
 
     getResultTargetUrl() {
-        return this.adNode.find('h2 a').attr('href');
+        return this.adNode.find('h2 a, .b_algoheader a').attr('href');
     }
 
     getResultDescription() {
