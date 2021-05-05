@@ -57,10 +57,8 @@ function parse(options, body, callback){
       ad.realPosition = realPosition++;
 
       if (parser.isAppStoreAdNode()) {
+        ad.extension = 'app';
         ad.appAdName = parser.getAppAdName();
-        ad.type = 'app-ads';
-      } else {
-        ad.type = 'ads';
       }
 
       ads.push(ad);
