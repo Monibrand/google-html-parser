@@ -41,8 +41,21 @@ class GoogleParser {
         return this.adNode.find('.ellip .g-bblc');
     }
 
+    getAppAdName() {
+        const rawTitle = this.getAdTitle();
+        const titleMatch = /^(?:Installer \| )?(.*) (?:-|\|) .*$/
+        return rawTitle.match(titleMatch)[1] || rawTitle;
+    }
+
     isAdNode() {
         return this.isAdOnTop() || this.isAdOnBottom();
+    }
+
+    isAppStoreAdNode() {
+        return (
+            this.adNode.find('span:contains("App Store")').length > 0 ||
+            this.adNode.find('span:contains("Google Play")').length > 0
+        );
     }
 
     isAdOnTop() {

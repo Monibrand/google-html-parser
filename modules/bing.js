@@ -40,6 +40,14 @@ class BingParser {
         return false;
     }
 
+    getAppAdName() {
+        return null;
+    }
+
+    isAppStoreAdNode() {
+        return false;
+    }
+
     isAdNode() {
         return (this.adNode.hasClass('sb_adTA') || this.adNode.hasClass('ad_sc')) || this.adNode.hasClass('ads-fr');
     }
