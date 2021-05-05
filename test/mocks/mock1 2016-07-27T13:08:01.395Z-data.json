@@ -1,21 +1,19 @@
 {
   "ads": [
     {
-      "title": "Soldes LACOSTE Pas Cher - Soldes Nouvelle Démarque‎",
-      "displayUrl": "www.lacoste.com/Site_Officiel/Soldes",
-      "targetUrl": "http://www.lacoste.com/fr/lacoste/soldes/?utm_campaign=SoldesSS16&utm_medium=display&utm_source=ignitionone&utm_content=inapp",
       "content": "Aujourd'hui La Livraison Offerte. Profitez Vite des Soldes Lacoste ! Commandez\nRetour Facile et Gratuit · Nouvelle Collection · Livraison Offerte dès 80€\nCatégories: Vêtements, Chaussures, Maroquinerie, Accessoires…",
       "preconnectUrls": [
         "http://www.lacoste.com/"
       ],
       "position": 1,
       "area": "top",
-      "realPosition": 1
+      "realPosition": 1,
+      "title": "Soldes LACOSTE Pas Cher - Soldes Nouvelle Démarque‎",
+      "displayUrl": "www.lacoste.com/Site_Officiel/Soldes",
+      "targetUrl": "http://www.lacoste.com/fr/lacoste/soldes/?utm_campaign=SoldesSS16&utm_medium=display&utm_source=ignitionone&utm_content=inapp",
+      "type": "ads"
     },
     {
-      "title": "-70% sur Top Marque - Zalando.fr‎",
-      "displayUrl": "soldes.zalando.fr/Lacoste",
-      "targetUrl": "https://www.zalando.fr/lacoste-online-shop/?",
       "content": "Soldes sur Top Marque Jusqu'à -70% Livraison & Retour Gratuits !\nSoyez Une inspiration · Paiement Sécurisé · Plus de 1500 Marques\nStyles: Décontracté, Classique, Soir, Branché, Luxe, Urbain, Sport",
       "preconnectUrls": [
         "https://www.zalando.fr/",
@@ -23,24 +21,26 @@
       ],
       "position": 2,
       "area": "top",
-      "realPosition": 2
+      "realPosition": 2,
+      "title": "-70% sur Top Marque - Zalando.fr‎",
+      "displayUrl": "soldes.zalando.fr/Lacoste",
+      "targetUrl": "https://www.zalando.fr/lacoste-online-shop/?",
+      "type": "ads"
     },
     {
-      "title": "Alertes Contrefaçon - Nombreux sites de contrefaçon‎",
-      "displayUrl": "www.contrefacon.fr/",
-      "targetUrl": "https://www.contrefacon.fr/recherche/lacoste%20pas%20cher/",
       "content": "Testez le site avant d'acheter\nTémoignages victimes · Réponse en temps réel · Protection gratuite",
       "preconnectUrls": [
         "https://www.contrefacon.fr/"
       ],
       "position": 3,
       "area": "top",
-      "realPosition": 3
+      "realPosition": 3,
+      "title": "Alertes Contrefaçon - Nombreux sites de contrefaçon‎",
+      "displayUrl": "www.contrefacon.fr/",
+      "targetUrl": "https://www.contrefacon.fr/recherche/lacoste%20pas%20cher/",
+      "type": "ads"
     },
     {
-      "title": "Vente privée -90%‎",
-      "displayUrl": "www.brandalley.be/Lacoste",
-      "targetUrl": "http://www.fr.outlet-avenue.brandalley.be/FSMarque/Id-49345-Produit-0-Marqu",
       "content": "Grand choix de produits remisés Jusqu'au27/7/2016. Stocks limités !\nRetours Gratuits · Panier Unique · Livraison Offerte dès 60€",
       "preconnectUrls": [
         "http://www.fr.outlet-avenue.brandalley.be/",
@@ -48,28 +48,34 @@
       ],
       "position": 4,
       "area": "bottom",
-      "realPosition": 14
+      "realPosition": 14,
+      "title": "Vente privée -90%‎",
+      "displayUrl": "www.brandalley.be/Lacoste",
+      "targetUrl": "http://www.fr.outlet-avenue.brandalley.be/FSMarque/Id-49345-Produit-0-Marqu",
+      "type": "ads"
     },
     {
-      "title": "Soldes pas cher - Collection à -50% - Foncez‎",
-      "displayUrl": "www.modz.fr/Lacoste",
-      "targetUrl": "https://www.modz.fr/marques/lacoste/",
       "content": "Modz : Livraison Rapide",
       "position": 5,
       "area": "bottom",
-      "realPosition": 15
+      "realPosition": 15,
+      "title": "Soldes pas cher - Collection à -50% - Foncez‎",
+      "displayUrl": "www.modz.fr/Lacoste",
+      "targetUrl": "https://www.modz.fr/marques/lacoste/",
+      "type": "ads"
     },
     {
-      "title": "Lacoste en ligne à -40%.‎",
-      "displayUrl": "soldes.lacoste.listupp.fr/",
-      "targetUrl": "http://listupp.fr/brand/lacoste/?discount=40&lstSource=google&lstMedium=cpc&lstCampaign=433518129&lstTerm=&adwCampaign=433518129&adwAdGroup=30872642289&adwMatchType=e&adwNetwork=g&adwDevice=c&adwDeviceModel=&adwKeyword=&adwPlacement=&adwAdPosition=none",
       "content": "Découvre Lacoste promotions Lacoste à - 40% livrés en 48h\n+30 Mille marques · Réductions jusqu'à -70% · +150 magasins · Retours gratuits",
       "preconnectUrls": [
         "http://listupp.fr/"
       ],
       "position": 6,
       "area": "bottom",
-      "realPosition": 16
+      "realPosition": 16,
+      "title": "Lacoste en ligne à -40%.‎",
+      "displayUrl": "soldes.lacoste.listupp.fr/",
+      "targetUrl": "http://listupp.fr/brand/lacoste/?discount=40&lstSource=google&lstMedium=cpc&lstCampaign=433518129&lstTerm=&adwCampaign=433518129&adwAdGroup=30872642289&adwMatchType=e&adwNetwork=g&adwDevice=c&adwDeviceModel=&adwKeyword=&adwPlacement=&adwAdPosition=none",
+      "type": "ads"
     }
   ],
   "adsCount": 6,

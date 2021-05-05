@@ -1,40 +1,44 @@
 {
   "ads": [
     {
-      "title": "Lacoste.com - Polos, chaussures et maroquinerie",
-      "displayUrl": "https://www.lacoste.com",
-      "targetUrl": "https://www.bing.com/aclick?ld=e3Z8_Zudg8YgPRLGtZgOXd7DVUCUyQsjv7B-XGQW1KsdIC04fQxKij8JWAJTncph6ff0dmuS6V9k85jflQ0PnuoW4vBqpKbr0TznG0PxZGclbSo3meYQ2Q_QC4ECL4HZPDh1ZiMyBqp_jTfxXkpAzernlpy8ucJLyvPNHeSaL4ZH6gMI7P&u=aHR0cHMlM2ElMmYlMmZ3d3cubGFjb3N0ZS5jb20lMmZmciUyZiUzZnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZCUyNTVCRlIlMjU1RFNSQ19EU0FfUmVtYXJrZXRpbmclMjZ1dG1fdGVybSUzZHd3dy5sYWNvc3RlLmNvbSUyNnV0bV9jb250ZW50JTNkRFNB&rlid=ef2e512631201a9b60040cc71fdadd1b",
       "content": "Découvrez Toute la Collection Lacoste. Livraison Rapide à Domicile !",
       "position": 1,
       "area": "top",
-      "realPosition": 1
-    },
-    {
-      "title": "Chaussure Lacoste Hommes sur Amazon - Chaussure Lacoste Hommes à petits prix",
-      "displayUrl": "https://www.amazon.fr/Mode/Accessoires",
-      "targetUrl": "https://www.bing.com/aclick?ld=e3lme9gVIG3bySysZQrfo5ejVUCUxJqNUZVU9insYRgNuc388kyWdNx00pPX-g8qBpaKdM3EKdYLL5zvi06kj0DKJF5YBmOoWk8aNtn2jrlf0ufbKMcj1Nn8YUG5977BlXgErO9-7Friq7AFtW8M8uEl5NnObJ1JMB-f3vvwYbOLtEKs3w&u=aHR0cCUzYSUyZiUyZnd3dy5hbWF6b24uZnIlMmZzJTJmJTNmaWUlM2RVVEY4JTI2a2V5d29yZHMlM2RjaGF1c3N1cmUlMmJsYWNvc3RlJTJiaG9tbWVzJTI2dGFnJTNkaHlkZnJtc24tMjElMjZpbmRleCUzZGFwcyUyNmh2YWRpZCUzZDgwNTM5MjU4OTQ3NDMzJTI2aHZxbXQlM2RiJTI2aHZibXQlM2RiYiUyNmh2ZGV2JTNkYyUyNnJlZiUzZHBkX3NsXzYzbTExMHY5ejBfYg&rlid=4facf1f5a17815efc20eac148f82eb7e",
-      "content": "Parcourez notre large sélection de chaussures et sacs des plus grandes marques.\nNotes et avis de clients · Achetez via l’application · Promotions tous les jours",
-      "position": 2,
-      "area": "top",
-      "realPosition": 2
-    },
-    {
+      "realPosition": 1,
       "title": "Lacoste.com - Polos, chaussures et maroquinerie",
       "displayUrl": "https://www.lacoste.com",
       "targetUrl": "https://www.bing.com/aclick?ld=e3Z8_Zudg8YgPRLGtZgOXd7DVUCUyQsjv7B-XGQW1KsdIC04fQxKij8JWAJTncph6ff0dmuS6V9k85jflQ0PnuoW4vBqpKbr0TznG0PxZGclbSo3meYQ2Q_QC4ECL4HZPDh1ZiMyBqp_jTfxXkpAzernlpy8ucJLyvPNHeSaL4ZH6gMI7P&u=aHR0cHMlM2ElMmYlMmZ3d3cubGFjb3N0ZS5jb20lMmZmciUyZiUzZnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZCUyNTVCRlIlMjU1RFNSQ19EU0FfUmVtYXJrZXRpbmclMjZ1dG1fdGVybSUzZHd3dy5sYWNvc3RlLmNvbSUyNnV0bV9jb250ZW50JTNkRFNB&rlid=ef2e512631201a9b60040cc71fdadd1b",
-      "content": "Découvrez Toute la Collection Lacoste. Livraison Rapide à Domicile !",
-      "position": 3,
-      "area": "bottom",
-      "realPosition": 9
+      "type": "ads"
     },
     {
+      "content": "Parcourez notre large sélection de chaussures et sacs des plus grandes marques.\nNotes et avis de clients · Achetez via l’application · Promotions tous les jours",
+      "position": 2,
+      "area": "top",
+      "realPosition": 2,
       "title": "Chaussure Lacoste Hommes sur Amazon - Chaussure Lacoste Hommes à petits prix",
       "displayUrl": "https://www.amazon.fr/Mode/Accessoires",
       "targetUrl": "https://www.bing.com/aclick?ld=e3lme9gVIG3bySysZQrfo5ejVUCUxJqNUZVU9insYRgNuc388kyWdNx00pPX-g8qBpaKdM3EKdYLL5zvi06kj0DKJF5YBmOoWk8aNtn2jrlf0ufbKMcj1Nn8YUG5977BlXgErO9-7Friq7AFtW8M8uEl5NnObJ1JMB-f3vvwYbOLtEKs3w&u=aHR0cCUzYSUyZiUyZnd3dy5hbWF6b24uZnIlMmZzJTJmJTNmaWUlM2RVVEY4JTI2a2V5d29yZHMlM2RjaGF1c3N1cmUlMmJsYWNvc3RlJTJiaG9tbWVzJTI2dGFnJTNkaHlkZnJtc24tMjElMjZpbmRleCUzZGFwcyUyNmh2YWRpZCUzZDgwNTM5MjU4OTQ3NDMzJTI2aHZxbXQlM2RiJTI2aHZibXQlM2RiYiUyNmh2ZGV2JTNkYyUyNnJlZiUzZHBkX3NsXzYzbTExMHY5ejBfYg&rlid=4facf1f5a17815efc20eac148f82eb7e",
+      "type": "ads"
+    },
+    {
+      "content": "Découvrez Toute la Collection Lacoste. Livraison Rapide à Domicile !",
+      "position": 3,
+      "area": "bottom",
+      "realPosition": 9,
+      "title": "Lacoste.com - Polos, chaussures et maroquinerie",
+      "displayUrl": "https://www.lacoste.com",
+      "targetUrl": "https://www.bing.com/aclick?ld=e3Z8_Zudg8YgPRLGtZgOXd7DVUCUyQsjv7B-XGQW1KsdIC04fQxKij8JWAJTncph6ff0dmuS6V9k85jflQ0PnuoW4vBqpKbr0TznG0PxZGclbSo3meYQ2Q_QC4ECL4HZPDh1ZiMyBqp_jTfxXkpAzernlpy8ucJLyvPNHeSaL4ZH6gMI7P&u=aHR0cHMlM2ElMmYlMmZ3d3cubGFjb3N0ZS5jb20lMmZmciUyZiUzZnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZCUyNTVCRlIlMjU1RFNSQ19EU0FfUmVtYXJrZXRpbmclMjZ1dG1fdGVybSUzZHd3dy5sYWNvc3RlLmNvbSUyNnV0bV9jb250ZW50JTNkRFNB&rlid=ef2e512631201a9b60040cc71fdadd1b",
+      "type": "ads"
+    },
+    {
       "content": "Parcourez notre large sélection de chaussures et sacs des plus grandes marques.\nNotes et avis de clients · Achetez via l’application · Promotions tous les jours",
       "position": 4,
       "area": "bottom",
-      "realPosition": 10
+      "realPosition": 10,
+      "title": "Chaussure Lacoste Hommes sur Amazon - Chaussure Lacoste Hommes à petits prix",
+      "displayUrl": "https://www.amazon.fr/Mode/Accessoires",
+      "targetUrl": "https://www.bing.com/aclick?ld=e3lme9gVIG3bySysZQrfo5ejVUCUxJqNUZVU9insYRgNuc388kyWdNx00pPX-g8qBpaKdM3EKdYLL5zvi06kj0DKJF5YBmOoWk8aNtn2jrlf0ufbKMcj1Nn8YUG5977BlXgErO9-7Friq7AFtW8M8uEl5NnObJ1JMB-f3vvwYbOLtEKs3w&u=aHR0cCUzYSUyZiUyZnd3dy5hbWF6b24uZnIlMmZzJTJmJTNmaWUlM2RVVEY4JTI2a2V5d29yZHMlM2RjaGF1c3N1cmUlMmJsYWNvc3RlJTJiaG9tbWVzJTI2dGFnJTNkaHlkZnJtc24tMjElMjZpbmRleCUzZGFwcyUyNmh2YWRpZCUzZDgwNTM5MjU4OTQ3NDMzJTI2aHZxbXQlM2RiJTI2aHZibXQlM2RiYiUyNmh2ZGV2JTNkYyUyNnJlZiUzZHBkX3NsXzYzbTExMHY5ejBfYg&rlid=4facf1f5a17815efc20eac148f82eb7e",
+      "type": "ads"
     }
   ],
   "adsCount": 4,

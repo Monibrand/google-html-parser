@@ -1,31 +1,35 @@
 {
   "ads": [
     {
-      "title": "BazarChic, ventes privées mode | Ventes Privées Jusque 70%",
-      "displayUrl": "App Store",
-      "targetUrl": "https://www.google.fr/aclk?sa=L&ai=DChcSEwjSjpLGnMHlAhVMqZoKHQhFBp8YABAAGgJsbQ&sig=AOD64_2iNiboxnjj-vF0XIXAQM0d-3w-6g&q=&ved=2ahUKEwiZj4nGnMHlAhXRUBUIHWH_DBoQ3ooFegQIERAB&adurl=",
       "content": "10€ Offerts 1ère Commande Switch To BazarChic\nTélécharger sur App Store",
       "position": 1,
       "area": "top",
-      "realPosition": 1
+      "realPosition": 1,
+      "title": "BazarChic, ventes privées mode | Ventes Privées Jusque 70%",
+      "displayUrl": "App Store",
+      "targetUrl": "https://www.google.fr/aclk?sa=L&ai=DChcSEwjSjpLGnMHlAhVMqZoKHQhFBp8YABAAGgJsbQ&sig=AOD64_2iNiboxnjj-vF0XIXAQM0d-3w-6g&q=&ved=2ahUKEwiZj4nGnMHlAhXRUBUIHWH_DBoQ3ooFegQIERAB&adurl=",
+      "appAdName": "BazarChic, ventes privées mode",
+      "type": "app-ads"
     },
     {
-      "title": "Nouvelles- vêtement pas cher | Promo: jusqu'à -85%",
-      "displayUrl": "www.shein.com/",
-      "targetUrl": "https://m.shein.com/fr/hotsale/Best-Selling-Clothing-sc-00301507.html?url_from=mfradgs02_mBrand01_20190911",
       "content": "Retour gratuit. Achetez les vêtements femme ultra tendance à petits prix. Arrivages quotidiens. Service de qualité. Qualité garantie à 100%.",
       "position": 2,
       "area": "top",
-      "realPosition": 2
+      "realPosition": 2,
+      "title": "Nouvelles- vêtement pas cher | Promo: jusqu'à -85%",
+      "displayUrl": "www.shein.com/",
+      "targetUrl": "https://m.shein.com/fr/hotsale/Best-Selling-Clothing-sc-00301507.html?url_from=mfradgs02_mBrand01_20190911",
+      "type": "ads"
     },
     {
-      "title": "Nike sur ASOS | Jusqu'à -70% sur ASOS Outlet",
-      "displayUrl": "www.asos.fr/Nike/Outlet",
-      "targetUrl": "https://www.asos.fr/search/?q=nike+outlet",
       "content": "Découvrez la Collection Nike en ligne. Livraison Gratuite: Commandez! Commandez la bonne taille à coup sûr grâce au Guide Personnalisé ASOS. Livraison Premier 24h. Retour Gratuit.",
       "position": 3,
       "area": "bottom",
-      "realPosition": 13
+      "realPosition": 13,
+      "title": "Nike sur ASOS | Jusqu'à -70% sur ASOS Outlet",
+      "displayUrl": "www.asos.fr/Nike/Outlet",
+      "targetUrl": "https://www.asos.fr/search/?q=nike+outlet",
+      "type": "ads"
     }
   ],
   "adsCount": 3,

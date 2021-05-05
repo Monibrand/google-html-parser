@@ -1,9 +1,6 @@
 {
   "ads": [
     {
-      "title": "Assurance Hello bank | Découvrez tous nos produits‎",
-      "displayUrl": "hellobank.fr",
-      "targetUrl": "https://www.hellobank.fr/fr/offre/assurance-prevoyance/assurance-appareils-mobiles/",
       "content": "Optez pour une Protection maximale 24h/24 et 7j/7 avec nos produits d'assurance",
       "preconnectUrls": [
         "https://www.hellobank.fr/",
@@ -11,7 +8,11 @@
       ],
       "position": 1,
       "area": "top",
-      "realPosition": 1
+      "realPosition": 1,
+      "title": "Assurance Hello bank | Découvrez tous nos produits‎",
+      "displayUrl": "hellobank.fr",
+      "targetUrl": "https://www.hellobank.fr/fr/offre/assurance-prevoyance/assurance-appareils-mobiles/",
+      "type": "ads"
     }
   ],
   "adsCount": 1,

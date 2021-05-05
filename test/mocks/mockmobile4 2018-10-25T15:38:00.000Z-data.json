@@ -1,13 +1,14 @@
 {
   "ads": [
     {
-      "title": "Write Off Up To 85% Of Debt | Government Approved Debt Help",
-      "displayUrl": "ukdebtexpert.co.uk/Government/Legislation",
-      "targetUrl": "https://ukdebtexpert.co.uk/get-debt-help/",
       "content": "Government Legislation Could Help Clear Your Loans & Become Debt Free. Apply Now. 70+ Years Experience. Expert Advisors. 10,000+ People Helped.",
       "position": 1,
       "area": "bottom",
-      "realPosition": 11
+      "realPosition": 11,
+      "title": "Write Off Up To 85% Of Debt | Government Approved Debt Help",
+      "displayUrl": "ukdebtexpert.co.uk/Government/Legislation",
+      "targetUrl": "https://ukdebtexpert.co.uk/get-debt-help/",
+      "type": "ads"
     }
   ],
   "adsCount": 1,

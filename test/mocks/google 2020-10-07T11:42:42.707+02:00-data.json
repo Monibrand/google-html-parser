@@ -1,13 +1,14 @@
 {
   "ads": [
     {
-      "title": "Lapeyre.fr - Fenêtres PVC Lapeyre - C'est l'anniversaire Lapeyre",
-      "displayUrl": "www.lapeyre.fr/",
-      "targetUrl": "https://www.lapeyre.fr/pvc-CCN688463",
       "content": "C'est l'anniversaire Lapeyre : jusqu'à -30% sur nos univers pour vous faire plaisir ! Profitez du service Lapeyre en continu. Livraison à domicile & conseils d'experts. Artisan depuis 1931.\nProfitez de 25% de remise sur\nles baies et fenêtres sur mesure\nDécouvrez toutes les Promotions\nLapeyre du moment",
       "position": 1,
       "area": "top",
-      "realPosition": 1
+      "realPosition": 1,
+      "title": "Lapeyre.fr - Fenêtres PVC Lapeyre - C'est l'anniversaire Lapeyre",
+      "displayUrl": "www.lapeyre.fr/",
+      "targetUrl": "https://www.lapeyre.fr/pvc-CCN688463",
+      "type": "ads"
     }
   ],
   "adsCount": 1,

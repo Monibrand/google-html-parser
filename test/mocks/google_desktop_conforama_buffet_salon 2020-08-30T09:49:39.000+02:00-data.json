@@ -1,13 +1,14 @@
 {
   "ads": [
     {
-      "title": "Buffets Conforama - Grand Choix de Marques",
-      "displayUrl": "www.conforama.fr/",
-      "targetUrl": "https://www.conforama.fr/canape-salon-sejour/sejour/buffet-bahut-vaisselier/c/010204",
       "content": "Découvrez nos produits à prix légers et trouvez le style qui vous correspond ! Livraison sans Contact.",
       "position": 1,
       "area": "top",
-      "realPosition": 1
+      "realPosition": 1,
+      "title": "Buffets Conforama - Grand Choix de Marques",
+      "displayUrl": "www.conforama.fr/",
+      "targetUrl": "https://www.conforama.fr/canape-salon-sejour/sejour/buffet-bahut-vaisselier/c/010204",
+      "type": "ads"
     }
   ],
   "adsCount": 1,

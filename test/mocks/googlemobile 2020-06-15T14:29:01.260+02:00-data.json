@@ -1,31 +1,34 @@
 {
   "ads": [
     {
-      "title": "CCMO Mutuelle - Étudiants et jeunes actifs - ccmo.fr",
-      "displayUrl": "offresante.ccmo.fr/",
-      "targetUrl": "https://offresante.ccmo.fr/mutuelle-sante-jeunes",
       "content": "Des remboursements (lunettes, soins dentaires) au meilleur prix : à partir de 18,28€/mois. Trouvez l'offre qui vous correspond et découvrez votre tarif en ligne en 2 min top chrono. Tarif en 2mn chrono. Vraie mutuelle.\nMutuelle Santé Seniors\nMutuelle Santé Famille",
       "position": 1,
       "area": "top",
-      "realPosition": 1
+      "realPosition": 1,
+      "title": "CCMO Mutuelle - Étudiants et jeunes actifs - ccmo.fr",
+      "displayUrl": "offresante.ccmo.fr/",
+      "targetUrl": "https://offresante.ccmo.fr/mutuelle-sante-jeunes",
+      "type": "ads"
     },
     {
-      "title": "Assurance logement SMERRA - Devis Etudiant en 2 min",
-      "displayUrl": "www.smerra.fr/",
-      "targetUrl": "https://smerra.fr/4-assurances/7-assurance-logement",
       "content": "Dépannage et assistance 24h/24 et 7j/7. Formules personnalisées. Assurez-vous avec la SMERRA: l'assureur des étudiants depuis 40 ans. C'est simple & rapide. SMERRA.",
       "position": 2,
       "area": "top",
-      "realPosition": 2
+      "realPosition": 2,
+      "title": "Assurance logement SMERRA - Devis Etudiant en 2 min",
+      "displayUrl": "www.smerra.fr/",
+      "targetUrl": "https://smerra.fr/4-assurances/7-assurance-logement",
+      "type": "ads"
     },
     {
-      "title": "Assurances Macif - Devis gratuit en ligne - Toute l'offre Macif en ligne",
-      "displayUrl": "www.macif.fr/",
-      "targetUrl": "https://www.macif.fr/assurance/particuliers",
       "content": "Obtenez immédiatement votre devis en ligne pour assurance auto, moto, santé… Profitez...",
       "position": 3,
       "area": "top",
-      "realPosition": 3
+      "realPosition": 3,
+      "title": "Assurances Macif - Devis gratuit en ligne - Toute l'offre Macif en ligne",
+      "displayUrl": "www.macif.fr/",
+      "targetUrl": "https://www.macif.fr/assurance/particuliers",
+      "type": "ads"
     }
   ],
   "adsCount": 3,

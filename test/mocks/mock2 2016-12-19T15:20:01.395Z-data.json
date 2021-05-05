@@ -1,40 +1,43 @@
 {
   "ads": [
     {
-      "title": "Buy Hennessy XO Cognac - We Deliver Hennessy Worldwide‎",
-      "displayUrl": "www.send.com/HennessyCognacXO",
-      "targetUrl": "https://send.com/liquor/cat.php?list=285&utm_source=google&utm_medium=ppc&utm_term=HennessyCognac&utm_campaign=HennessyCognac",
       "content": "Bottles & Baskets. Quick Delivery!\nIn business since 2001 · Schedule Future Delivery · Overnight Delivery\nTypes: Scotch, Bourbon, Whiskey, Tequila, Vodka, Cognac, Champagne, Wine, Gin, Beer",
       "preconnectUrls": [
         "http://send.com/"
       ],
       "position": 1,
       "area": "bottom",
-      "realPosition": 10
+      "realPosition": 10,
+      "title": "Buy Hennessy XO Cognac - We Deliver Hennessy Worldwide‎",
+      "displayUrl": "www.send.com/HennessyCognacXO",
+      "targetUrl": "https://send.com/liquor/cat.php?list=285&utm_source=google&utm_medium=ppc&utm_term=HennessyCognac&utm_campaign=HennessyCognac",
+      "type": "ads"
     },
     {
-      "title": "70% Off Hennessy Xo - Best Price On Hennessy Xo‎",
-      "displayUrl": "www.blackfridaydeals2016.co/hennessy-xo",
-      "targetUrl": "http://www.blackfridaydeals2016.co/hennessy-xo?",
       "content": "Buy Now. Free Shipping. In Stock.",
       "preconnectUrls": [
         "http://www.blackfridaydeals2016.co/"
       ],
       "position": 2,
       "area": "bottom",
-      "realPosition": 11
+      "realPosition": 11,
+      "title": "70% Off Hennessy Xo - Best Price On Hennessy Xo‎",
+      "displayUrl": "www.blackfridaydeals2016.co/hennessy-xo",
+      "targetUrl": "http://www.blackfridaydeals2016.co/hennessy-xo?",
+      "type": "ads"
     },
     {
-      "title": "Hennessy Xo - 70% Off - Lowest Price On Hennessy Xo‎",
-      "displayUrl": "www.stuccu.com/Hennessy+Xo",
-      "targetUrl": "http://n.stuccu.com/s/Hennessy%20Xo",
       "content": "Free shipping, in stock. Buy now!\nIn stock · Exclusive deals · Best offers",
       "preconnectUrls": [
         "http://stuccu.com/"
       ],
       "position": 3,
       "area": "bottom",
-      "realPosition": 12
+      "realPosition": 12,
+      "title": "Hennessy Xo - 70% Off - Lowest Price On Hennessy Xo‎",
+      "displayUrl": "www.stuccu.com/Hennessy+Xo",
+      "targetUrl": "http://n.stuccu.com/s/Hennessy%20Xo",
+      "type": "ads"
     }
   ],
   "adsCount": 3,

@@ -1,31 +1,34 @@
 {
   "ads": [
     {
-      "title": "cofidis.fr - Simulation de Crédit - Simulation de Crédit Gratuite‎",
-      "displayUrl": "www.cofidis.fr/Cofidis",
-      "targetUrl": "https://www.cofidis.fr/fr/credit_en_ligne/simulateur-credits.html",
       "content": "Crédit Renouvelable, Crédit ou Rachat de Crédit. Des Crédits pour Chaque Besoins\nService Client de l'Année · Chat en ligne\nAppeler le 03 28 09 21 18",
       "position": 1,
       "area": "top",
-      "realPosition": 1
+      "realPosition": 1,
+      "title": "cofidis.fr - Simulation de Crédit - Simulation de Crédit Gratuite‎",
+      "displayUrl": "www.cofidis.fr/Cofidis",
+      "targetUrl": "https://www.cofidis.fr/fr/credit_en_ligne/simulateur-credits.html",
+      "type": "ads"
     },
     {
-      "title": "pret entre particulier 2% en - 48h Offre speciale pour vous‎",
-      "displayUrl": "www.invests-sarl-credit.com/",
-      "targetUrl": "http://invests-sarl-credit.com/",
       "content": "pret entre particulier taeg fixe rapide disponible en 48h .",
       "position": 2,
       "area": "top",
-      "realPosition": 2
+      "realPosition": 2,
+      "title": "pret entre particulier 2% en - 48h Offre speciale pour vous‎",
+      "displayUrl": "www.invests-sarl-credit.com/",
+      "targetUrl": "http://invests-sarl-credit.com/",
+      "type": "ads"
     },
     {
-      "title": "Crédit Sans Justificatif - Réponse de Principe Immédiate‎",
-      "displayUrl": "www.credit-public.org/",
-      "targetUrl": "http://www.credit-public.org/",
       "content": "Crédit rapide pour financer votre projet. Pas de frais de dossier !\nCatégories: Travaux, Auto, Trésorerie…",
       "position": 3,
       "area": "top",
-      "realPosition": 3
+      "realPosition": 3,
+      "title": "Crédit Sans Justificatif - Réponse de Principe Immédiate‎",
+      "displayUrl": "www.credit-public.org/",
+      "targetUrl": "http://www.credit-public.org/",
+      "type": "ads"
     }
   ],
   "adsCount": 3,

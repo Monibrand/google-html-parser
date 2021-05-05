@@ -1,13 +1,14 @@
 {
   "ads": [
     {
-      "title": "Effy® - Gardez votre Énergie - Obtenez des Aides Financières",
-      "displayUrl": "www.effy.fr/",
-      "targetUrl": "https://www.effy.fr/",
       "content": "1er spécialiste de la rénovation énergétique, Effy vous accompagne pour vos Travaux. + de 100 conseillers vous aident à trouver un...\nCalculez vos Aides\nIsolez votre Maison\nChangez de Chaudière\nPrime Chauffage",
       "position": 1,
       "area": "top",
-      "realPosition": 1
+      "realPosition": 1,
+      "title": "Effy® - Gardez votre Énergie - Obtenez des Aides Financières",
+      "displayUrl": "www.effy.fr/",
+      "targetUrl": "https://www.effy.fr/",
+      "type": "ads"
     }
   ],
   "adsCount": 1,
