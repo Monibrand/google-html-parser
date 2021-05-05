@@ -7,7 +7,9 @@
       "content": "10€ Offerts 1ère Commande Switch To BazarChic\nTélécharger sur App Store",
       "position": 1,
       "area": "top",
-      "realPosition": 1
+      "realPosition": 1,
+      "extension": "app",
+      "appAdName": "BazarChic, ventes privées mode"
     },
     {
       "title": "Nouvelles- vêtement pas cher | Promo: jusqu'à -85%",
