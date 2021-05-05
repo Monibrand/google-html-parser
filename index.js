@@ -26,33 +26,43 @@ function parse(options, body, callback){
     parser.setCurrentNode(this);
 
     if (parser.isAdNode()) {
-      var ad = {
-        title: parser.getAdTitle(),
-        displayUrl: parser.getAdDisplayUrl(),
-        targetUrl: parser.getAdTargetUrl(),
-      };
+      let ad = {};
+      let content = [];
 
-      var content = [];
+      ad.title = parser.getAdTitle();
+      ad.displayUrl = parser.getAdDisplayUrl();
+      ad.targetUrl = parser.getAdTargetUrl();
+
       if (parser.findAdEllipsisChild()) {
         parser.findAdEllipsisChild().remove();
       }
       parser.getAdEllipsis().each(function(){
         content.push($(this).text());
       });
-
       ad.content = content.join('\n');
 
       if (parser.getAdPreconnectUrl()) {
         ad.preconnectUrls = parser.getAdPreconnectUrl().split(',');
       }
+
       ad.position = position++;
+      
       if (parser.isAdOnTop()) {
         ad.area = 'top';
       }
       if (parser.isAdOnBottom()) {
         ad.area = 'bottom';
       }
+
       ad.realPosition = realPosition++;
+
+      if (parser.isAppStoreAdNode()) {
+        ad.appAdName = parser.getAppAdName();
+        ad.type = 'app-ads';
+      } else {
+        ad.type = 'ads';
+      }
+
       ads.push(ad);
     } else {
       var result = {
