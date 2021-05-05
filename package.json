@@ -34,12 +34,12 @@
   ],
   "devDependencies": {
     "minimist": "^1.2.5",
-    "mocha": "^7.1.1"
+    "mocha": "^7.2.0"
   },
   "dependencies": {
-    "bluebird": "^3.5.0",
-    "cheerio": "^1.0.0-rc.2",
-    "lodash": "^4.17.15"
+    "bluebird": "^3.7.2",
+    "cheerio": "^1.0.0-rc.6",
+    "lodash": "^4.17.21"
   },
   "engines": {
     "node": ">=6"
