@@ -1,6 +1,9 @@
 {
   "ads": [
     {
+      "title": "Polos Lacoste 2017 - Lacoste Site Officiel - lacoste.com‎",
+      "displayUrl": "www.lacoste.com/Site_Officiel/Polos",
+      "targetUrl": "http://www.lacoste.com/fr/les-polos/tous-les-polos/",
       "content": "Commandez sur le Site Officiel et Bénéficiez D'Avantages Exclusifs. Commandez\nLivraison en 48h · Paiement Sécurisé · SAV : Mail ou Téléphone · Retour Facile et Gratuit\nAubervilliers‎ - 01 41 61 04 03‎ - Ouvert aujourd'hui · 10:00 – 20:00\nPolos Lacoste\ndès 70,00 €\nClassic, Regular ou Slim\nChaussures Lacoste\ndès 65,00 €\nHomme, Femme et Enfants\nPantalon Lacoste\ndès 110,00 €\nHomme, Femme et Enfants",
       "preconnectUrls": [
         "http://www.lacoste.com/",
@@ -8,24 +11,19 @@
       ],
       "position": 1,
       "area": "top",
-      "realPosition": 1,
-      "title": "Polos Lacoste 2017 - Lacoste Site Officiel - lacoste.com‎",
-      "displayUrl": "www.lacoste.com/Site_Officiel/Polos",
-      "targetUrl": "http://www.lacoste.com/fr/les-polos/tous-les-polos/",
-      "type": "ads"
+      "realPosition": 1
     },
     {
+      "title": "Collection Printemps/Été 2017 - Nouveautés en Ligne‎",
+      "displayUrl": "www.monshowroom.com/Lacoste/Nouveautés",
+      "targetUrl": "https://www.monshowroom.com/fr/products/marques-femme/lacoste",
       "content": "Nouveautés sur vos Marques Favorites avec MSR. Livraison et Retour Gratuits\nMarques: Sessun, Vero Moda, Pieces\nTypes: Femme, Homme, Enfant, Déco",
       "preconnectUrls": [
         "https://www.monshowroom.com/"
       ],
       "position": 2,
       "area": "bottom",
-      "realPosition": 11,
-      "title": "Collection Printemps/Été 2017 - Nouveautés en Ligne‎",
-      "displayUrl": "www.monshowroom.com/Lacoste/Nouveautés",
-      "targetUrl": "https://www.monshowroom.com/fr/products/marques-femme/lacoste",
-      "type": "ads"
+      "realPosition": 11
     }
   ],
   "adsCount": 2,

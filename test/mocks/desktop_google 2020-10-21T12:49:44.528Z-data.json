@@ -1,14 +1,13 @@
 {
   "ads": [
     {
-      "content": "Réalisez un devis habitation en ligne en quelques clics. Formule économique ou protectrice. Une protection optimale : 15 options au choix pour s'adapter à votre situation ! Simple et modulable. Devis rapide en ligne. Des garanties solides. Un contrat sur mesure.\nDécouvrez l'offre logement spécial\nétudiants, apprenti et saisonniers.\nSécurisez votre investissement\nimmobilier en toute tranquillité !\nPour les propriétaires qui donnent\nen location un logement.\nÉconomie jusqu'à 10 000€ sur le\ncoût total de votre prêt immobilier",
-      "position": 1,
-      "area": "top",
-      "realPosition": 1,
       "title": "Assurance Habitation - Macif.fr",
       "displayUrl": "www.macif.fr/",
       "targetUrl": "https://www.macif.fr/assurance/particuliers/assurance-habitation-et-vie-quotidienne/residence-principale/devis-habitation-en-ligne",
-      "type": "ads"
+      "content": "Réalisez un devis habitation en ligne en quelques clics. Formule économique ou protectrice. Une protection optimale : 15 options au choix pour s'adapter à votre situation ! Simple et modulable. Devis rapide en ligne. Des garanties solides. Un contrat sur mesure.\nDécouvrez l'offre logement spécial\nétudiants, apprenti et saisonniers.\nSécurisez votre investissement\nimmobilier en toute tranquillité !\nPour les propriétaires qui donnent\nen location un logement.\nÉconomie jusqu'à 10 000€ sur le\ncoût total de votre prêt immobilier",
+      "position": 1,
+      "area": "top",
+      "realPosition": 1
     }
   ],
   "adsCount": 1,

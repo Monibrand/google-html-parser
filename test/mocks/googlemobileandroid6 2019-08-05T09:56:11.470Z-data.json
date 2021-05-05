@@ -1,14 +1,13 @@
 {
   "ads": [
     {
-      "content": "Choisissez le Crédit qui vous Convient avec Cofidis ! Simulation Gratuite. Guide du rachat. Service Client de l'Année. Guide du prêt perso. Guide paiement à crédit.\nCrédit Renouvelable\nFinancez Vos Projets\nDemande par Chatbot",
-      "position": 1,
-      "area": "top",
-      "realPosition": 1,
       "title": "Cofidis.fr | Cofidis Crédit | Besoin d'Argent Rapidement ?",
       "displayUrl": "www.cofidis.fr/",
       "targetUrl": "https://www.cofidis.fr/fr/credit_en_ligne/simulateur-credits.html?xtor=AD-16698-799956[Pixel_1x1_799956]-16275[3w_regie_lien_texte_toutypasse_decembre_2014_Pixel_1x1_799956_16275]-[Pixel_1x1]-[3WRegie]",
-      "type": "ads"
+      "content": "Choisissez le Crédit qui vous Convient avec Cofidis ! Simulation Gratuite. Guide du rachat. Service Client de l'Année. Guide du prêt perso. Guide paiement à crédit.\nCrédit Renouvelable\nFinancez Vos Projets\nDemande par Chatbot",
+      "position": 1,
+      "area": "top",
+      "realPosition": 1
     }
   ],
   "adsCount": 1,

@@ -1,6 +1,9 @@
 {
   "ads": [
     {
+      "title": "Capital One® Auto Finance - Build Your Car Loan Online‎",
+      "displayUrl": "www.capitalone.com/",
+      "targetUrl": "https://www.capitalone.com/cars/prequalify?PFFSRCID=S-GG-1234567890K-SEM-0001",
       "content": "Pre-Qualify, Access Personalized Financing Options & Build Your Deal–All Online. Pre-Qualify In Minutes. Dealer Reviews. 3+ Million Cars. Auto Reviews. 12,000+ Dealerships. Payment Calculator. Cars Added Daily. Services: New Car Financing, Used Car Financing.",
       "preconnectUrls": [
         "https://www.capitalone.com/",
@@ -8,24 +11,19 @@
       ],
       "position": 1,
       "area": "top",
-      "realPosition": 1,
-      "title": "Capital One® Auto Finance - Build Your Car Loan Online‎",
-      "displayUrl": "www.capitalone.com/",
-      "targetUrl": "https://www.capitalone.com/cars/prequalify?PFFSRCID=S-GG-1234567890K-SEM-0001",
-      "type": "ads"
+      "realPosition": 1
     },
     {
+      "title": "10 Best Car Loans 2020 - Apply Online Get approved Fast‎",
+      "displayUrl": "www.top10bestcarloans.com/",
+      "targetUrl": "https://www.top10bestcarloans.com/",
       "content": "Read Experts Review & Compare Your Car Loan Options. Apply Today For Low Rates! Need Money But Don’t Want to Leave the House? Click Now & Apply Online From Your Own Home! Auto Loans for Your Needs. Bad Credit OK. Credit Scores Range. No Hidden Fees.",
       "preconnectUrls": [
         "https://www.top10bestcarloans.com/"
       ],
       "position": 2,
       "area": "top",
-      "realPosition": 2,
-      "title": "10 Best Car Loans 2020 - Apply Online Get approved Fast‎",
-      "displayUrl": "www.top10bestcarloans.com/",
-      "targetUrl": "https://www.top10bestcarloans.com/",
-      "type": "ads"
+      "realPosition": 2
     }
   ],
   "adsCount": 2,

@@ -1,64 +1,58 @@
 {
   "ads": [
     {
+      "title": "Cofidis.fr | Simulation prêt personnel",
+      "displayUrl": "https://www.cofidis.fr",
+      "targetUrl": "https://www.bing.com/aclick?ld=e3InpdKdLsTqtObQ008lNApzVUCUxVI1L1BVG4xfIPuQdnVb1SuwcwRMhoTaN6Aq5JQ27LOZVjrxUAiCL_ix0IxgzzsgMsi0DlUNiAd1T1YZGFe7aFu4Q8d2RRoOzuoYd7Ka6a9BEl4DoEo9zsHHF3KcVvELY&u=aHR0cCUzYSUyZiUyZmNvZmlkaXMyLnNvbHV0aW9uLndlYm9yYW1hLmZyJTJmZmNnaS1iaW4lMmZkaXNwYXRjaC5mY2dpJTNmYS5BJTNkY2wlMjZhLnNpJTNkMzA0JTI2YS50ZSUzZDExMDM3JTI2YS5rd3QlM2RyJTI1MkZwcmV0LXBlcnNvbm5lbCUyNTJGc2ltdWxhdGlvbi1wcmV0Lmh0bWwlMjZhLmFpZCUzZDgwNDAxODM2NDQwMjcyJTI2YS5wbHQlM2QlMjZhLm5ldCUzZG8lMjZhLm1hdCUzZGJiJTI2YS5yYSUzZCUyNmEueWNwJTNkX2RtJTdjJTdjMTI4NjQyODc0OTAwMzg2NCU3Y2RhdC0yMzMyMjAxNjAxNTA3MTEwJTNhbG9jLTMyJTI2VVJMJTNkaHR0cHMlMjUzQSUyNTJGJTI1MkZjb2ZpZGlzLmNvbW1hbmRlcjEuY29tJTI1MkZjMyUyNTJGJTI1M0Z0Y3MlMjUzRDE0NTQlMjUyNmNtcCUyNTNERFNBJTI1MjAtJTI1MjBOZXV0cmUlMjUyNnNlbV9ncnAlMjUzRFBQJTI1MjZzZW1fa3clMjUzRHIlMjUyRnByZXQtcGVyc29ubmVsJTI1MkZzaW11bGF0aW9uLXByZXQuaHRtbCUyNTI2dGNsaWQlMjUzRDgwNDAxODM2NDQwMjcyJTI1MjZjaG4lMjUzRHNlbSUyNTI2c3JjJTI1M0RiaW5nJTI1MjZ1cmwlMjUzRGh0dHBzJTI1M0ElMjUyRiUyNTJGd3d3LmNvZmlkaXMuZnIlMjUyRmZyJTI1MkZwcmV0LXBlcnNvbm5lbCUyNTJGc2ltdWxhdGlvbi1wcmV0Lmh0bWwlMjZtc2Nsa2lkJTNkZWFhYzA3YzdkYmUzMTM0ZjUwMTE1OWVjMjUxZmZjMjI&rlid=eaac07c7dbe3134f501159ec251ffc22",
       "content": "Simulation de Crédit Gratuite et Sans Engagement Immédiatement en Ligne !\nGuide du Crédit · 30 ans d'Expertise\nPlus de 1 000 suiveurs sur Twitter\nPlus de 10K visiteurs lors du dernier mois",
       "position": 1,
       "area": "top",
-      "realPosition": 1,
-      "title": "Cofidis.fr | Simulation prêt personnel",
-      "displayUrl": "https://www.cofidis.fr",
-      "targetUrl": "https://www.bing.com/aclick?ld=e3InpdKdLsTqtObQ008lNApzVUCUxVI1L1BVG4xfIPuQdnVb1SuwcwRMhoTaN6Aq5JQ27LOZVjrxUAiCL_ix0IxgzzsgMsi0DlUNiAd1T1YZGFe7aFu4Q8d2RRoOzuoYd7Ka6a9BEl4DoEo9zsHHF3KcVvELY&u=aHR0cCUzYSUyZiUyZmNvZmlkaXMyLnNvbHV0aW9uLndlYm9yYW1hLmZyJTJmZmNnaS1iaW4lMmZkaXNwYXRjaC5mY2dpJTNmYS5BJTNkY2wlMjZhLnNpJTNkMzA0JTI2YS50ZSUzZDExMDM3JTI2YS5rd3QlM2RyJTI1MkZwcmV0LXBlcnNvbm5lbCUyNTJGc2ltdWxhdGlvbi1wcmV0Lmh0bWwlMjZhLmFpZCUzZDgwNDAxODM2NDQwMjcyJTI2YS5wbHQlM2QlMjZhLm5ldCUzZG8lMjZhLm1hdCUzZGJiJTI2YS5yYSUzZCUyNmEueWNwJTNkX2RtJTdjJTdjMTI4NjQyODc0OTAwMzg2NCU3Y2RhdC0yMzMyMjAxNjAxNTA3MTEwJTNhbG9jLTMyJTI2VVJMJTNkaHR0cHMlMjUzQSUyNTJGJTI1MkZjb2ZpZGlzLmNvbW1hbmRlcjEuY29tJTI1MkZjMyUyNTJGJTI1M0Z0Y3MlMjUzRDE0NTQlMjUyNmNtcCUyNTNERFNBJTI1MjAtJTI1MjBOZXV0cmUlMjUyNnNlbV9ncnAlMjUzRFBQJTI1MjZzZW1fa3clMjUzRHIlMjUyRnByZXQtcGVyc29ubmVsJTI1MkZzaW11bGF0aW9uLXByZXQuaHRtbCUyNTI2dGNsaWQlMjUzRDgwNDAxODM2NDQwMjcyJTI1MjZjaG4lMjUzRHNlbSUyNTI2c3JjJTI1M0RiaW5nJTI1MjZ1cmwlMjUzRGh0dHBzJTI1M0ElMjUyRiUyNTJGd3d3LmNvZmlkaXMuZnIlMjUyRmZyJTI1MkZwcmV0LXBlcnNvbm5lbCUyNTJGc2ltdWxhdGlvbi1wcmV0Lmh0bWwlMjZtc2Nsa2lkJTNkZWFhYzA3YzdkYmUzMTM0ZjUwMTE1OWVjMjUxZmZjMjI&rlid=eaac07c7dbe3134f501159ec251ffc22",
-      "type": "ads"
+      "realPosition": 1
     },
     {
+      "title": "Prêt Automobile - 99,9% Approuvé | pretautopartez.ca",
+      "displayUrl": "https://www.pretautopartez.ca/Prêt/Auto",
+      "targetUrl": "https://www.bing.com/aclick?ld=e3gjBMlJsLV5xHFyWrl4I6-zVUCUwFClN6P2vWIW4-Rz-GmXU8uBshv1vcXDmY72EbrBdF2XjXBUNADEEyHmNy1vtj54keVY4Nzv0m-pAbq4ib8AHv4xr1VWBr8BDsPrWPCymPfyD4mP6NoXZN3QTS_GPusZ0&u=aHR0cHMlM2ElMmYlMmZ3d3cucHJldGF1dG9wYXJ0ZXouY2ElMmZmciUyZmNyZWRpdC1hdXRvLWZhY2lsZSUyZmluZGV4Lmh0bWwlM2Z1dG1fc291cmNlJTNkbWljcm9zb2Z0JTI2dXRtX21lZGl1bSUzZHBhaWQlMjZ1dG1fY2FtcGFpZ24lM2RQciVjMyVhYXQlMjUyMEF1dG8lMjUyMCUyNTVCU2VhcmNoJTI1NUQlMjZ1dG1fY29udGVudCUzZFByJWMzJWFhdCUyNTIwQXV0byUyNTIwLSUyNTIwcHJldCUyNnV0bV90ZXJtJTNkcHJldCUyNTIwYXV0byUyNTIwY29maWRpcyUyNmNhbXBhaWduX2lkJTNkMzMzNzAxMTQzJTI2YWRncm91cF9pZCUzZDEyMTM4NjExMzQ3MjQzOTAlMjZhZF9pZCUzZDc1ODY2NDAxOTE4NDYxJTI2YWRfbmV0d29yayUzZG8lMjZhZF9kZXZpY2UlM2RtJTI2YWRfbGFuZ3VhZ2UlM2Rmci1jYSUyNm1zY2xraWQlM2Q3OGU1MjkzZDUwZDIxY2U4ZDJlNTc3MTZhZTJlZWZlMQ&rlid=78e5293d50d21ce8d2e57716ae2eefe1",
       "content": "Besoin d’un Prêt Auto? Rapide, Facile & Sécuritaire, Remplissez votre Demande en Ligne!",
       "position": 2,
       "area": "top",
-      "realPosition": 2,
-      "title": "Prêt Automobile - 99,9% Approuvé | pretautopartez.ca",
-      "displayUrl": "https://www.pretautopartez.ca/Prêt/Auto",
-      "targetUrl": "https://www.bing.com/aclick?ld=e3gjBMlJsLV5xHFyWrl4I6-zVUCUwFClN6P2vWIW4-Rz-GmXU8uBshv1vcXDmY72EbrBdF2XjXBUNADEEyHmNy1vtj54keVY4Nzv0m-pAbq4ib8AHv4xr1VWBr8BDsPrWPCymPfyD4mP6NoXZN3QTS_GPusZ0&u=aHR0cHMlM2ElMmYlMmZ3d3cucHJldGF1dG9wYXJ0ZXouY2ElMmZmciUyZmNyZWRpdC1hdXRvLWZhY2lsZSUyZmluZGV4Lmh0bWwlM2Z1dG1fc291cmNlJTNkbWljcm9zb2Z0JTI2dXRtX21lZGl1bSUzZHBhaWQlMjZ1dG1fY2FtcGFpZ24lM2RQciVjMyVhYXQlMjUyMEF1dG8lMjUyMCUyNTVCU2VhcmNoJTI1NUQlMjZ1dG1fY29udGVudCUzZFByJWMzJWFhdCUyNTIwQXV0byUyNTIwLSUyNTIwcHJldCUyNnV0bV90ZXJtJTNkcHJldCUyNTIwYXV0byUyNTIwY29maWRpcyUyNmNhbXBhaWduX2lkJTNkMzMzNzAxMTQzJTI2YWRncm91cF9pZCUzZDEyMTM4NjExMzQ3MjQzOTAlMjZhZF9pZCUzZDc1ODY2NDAxOTE4NDYxJTI2YWRfbmV0d29yayUzZG8lMjZhZF9kZXZpY2UlM2RtJTI2YWRfbGFuZ3VhZ2UlM2Rmci1jYSUyNm1zY2xraWQlM2Q3OGU1MjkzZDUwZDIxY2U4ZDJlNTc3MTZhZTJlZWZlMQ&rlid=78e5293d50d21ce8d2e57716ae2eefe1",
-      "type": "ads"
+      "realPosition": 2
     },
     {
-      "content": "Profitez d'un taux à partir de 1% sur 12 mois en Empruntant dès 8 000€ jusqu'au 21/08 ! Sofinco vous Accompagne dans la réalisation de vos Projets. Profitez de taux Attractifs\nEchéances Modulées · Offres Personnalisées",
-      "position": 3,
-      "area": "top",
-      "realPosition": 3,
       "title": "Crédit Auto en Ligne - Demande Gratuite et Sécurisée",
       "displayUrl": "https://www.sofinco.fr/Crédit/Auto",
       "targetUrl": "https://www.bing.com/aclick?ld=e3ZNGQu-xELrWqlZ6_YUq9HjVUCUxlIlxTOFwbm1HGfAszFIGJg1kvqRDcy2htd3P-rppEJac2Ro6XqAnNrIbhnV6TMdexjCSYG7baDkyu78OJnTUMp9nsvotgfiUkVVZxFD4pct3JyGXcr_0Tu1ezI3M6FXM&u=aHR0cCUzYSUyZiUyZmNsaWNrc2VydmUuZGFydHNlYXJjaC5uZXQlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA0NjkyMDAzNzQxNCUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwNTI5NzI3Nzg3MCUyNmRzX2FfY2lkJTNkNDAwODYxOTAxJTI2ZHNfYV9jYWlkJTNkODk2OTA3OTMwNiUyNmRzX2FfYWdpZCUzZDk0MTcxNTgyOTYxJTI2ZHNfYV9saWQlM2Rrd2QtMTkzNjI2NTQzODklMjYlMjZkc19lX2FkaWQlM2Q3NDkwNDMzNjQyNzY3OSUyNmRzX2VfdGFyZ2V0X2lkJTNka3dkLTc0OTA0NDI2MDgzNTgzJTNhbG9jLTMyJTI2JTI2ZHNfdXJsX3YlM2QyJTI2ZHNfZGVzdF91cmwlM2RodHRwcyUzYSUyZiUyZm1tdHJvLmNvbSUyZmMlM2Z0YWdpZCUzZDY1NDk2NzMtNzY1NjY2NWMwNDhlYWMwNGRjNjRkOGZmNjgxMDFmMTMlMjZpZGMlM2QxMDUxMjUlMjZydGdzY2FtcGFpZ25pZCUzZDM2MzczODYxOCUyNnJ0Z3NhZGdyb3VwJTNkNzQ5MDQzMzY0Mjc2NzklMjZydGdzYWRncm91cGlkJTNkMTE5ODQ2ODEzOTAwNzI1NiUyNnJ0Z3NrZXl3b3JkJTNkcHJldCUyNTIwYXV0byUyNTIwY29maWRpcyUyNnJ0Z3NrZXl3b3JkaWQlM2Q3NDkwNDQyNjA4MzU4MyUyNnJ0Z21hdGNodHlwZSUzZGIlMjZydGdwcm9kdWN0aWQlM2QlMjZydGd0YXJnZXRpZCUzZGt3ZC03NDkwNDQyNjA4MzU4MyUzYWxvYy0zMiUyNnJ0Z21zY2xraWQlM2QyMDg2YTRiOTlhMGUxZDlmYTc1ZGZhOTI2NGYyNjk1ZiUyNnJlZGlyJTNkaHR0cHMlM2ElMmYlMmZtbS5ldWxlcmlhbi5uZXQlMmZkeW5jbGljayUyZnNvZmluY28lMmYlM2Zlc2wtayUzZHNlbS1tc24lN2NuJTdjYzc0OTA0MzM2NDI3Njc5JTdjbWIlN2NrNzQ5MDQ0MjYwODM1ODMlN2NwJTdjdCU3Y2ExMTk4NDY4MTM5MDA3MjU2JTdjZzM2MzczODYxOCUyNmVzZWctbmFtZSUzZHByb2R1aXQlMjZlc2VnLWl0ZW0lM2QlMjZldXJsJTNkaHR0cHMlM2ElMmYlMmZ3d3cuc29maW5jby5mciUyZmhvbWUucGNBY3Rpb24uZG8lM2ZxNiUzZDAyMFAzNiUyNmo3JTNkTU9UMDA3MDMlMjZtc2Nsa2lkJTNkMjA4NmE0Yjk5YTBlMWQ5ZmE3NWRmYTkyNjRmMjY5NWY&rlid=2086a4b99a0e1d9fa75dfa9264f2695f",
-      "type": "ads"
+      "content": "Profitez d'un taux à partir de 1% sur 12 mois en Empruntant dès 8 000€ jusqu'au 21/08 ! Sofinco vous Accompagne dans la réalisation de vos Projets. Profitez de taux Attractifs\nEchéances Modulées · Offres Personnalisées",
+      "position": 3,
+      "area": "top",
+      "realPosition": 3
     },
     {
-      "content": "Execution améliorée. 69.66% des comptes CFD de clients de détail perdent de l’argent. Tradez Maintenant avec FXCM - plateformes de trading puissantes et spreads compétitifs.",
-      "position": 4,
-      "area": "top",
-      "realPosition": 4,
       "title": "Tradez le Forex avec FXCM - Ouvrez votre compte avec 300€",
       "displayUrl": "https://www.fxcm.com/fr",
       "targetUrl": "https://www.bing.com/aclick?ld=e3mRxVffLwdC7lV00dhJlPpDVUCUyDcDMzjEehQIfy2nckjjUW0OYS0fjlGz83XyzV89V1SGtKG1l4J4aUdr77HYOsBGqX2oT67yd_iCdXT5cRGMARc9U0xXrDQWkFrD4LlUC_vD0Q6uCvurmBmmfNFQ4eGJ4&u=aHR0cCUzYSUyZiUyZmNsaWNrc2VydmUuZGFydHNlYXJjaC5uZXQlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDAzMzgwODIzODg5MyUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwNDExNDA4MDk3MCUyNiUyNmRzX2VfYWRpZCUzZDcxMjYyMTYzMzc2MzIzJTI2ZHNfZV90YXJnZXRfaWQlM2Rrd2QtMTA2NjUzNDQ0ODIlM2Fsb2MtMzIlMjYlMjZkc191cmxfdiUzZDIlMjZkc19kZXN0X3VybCUzZGh0dHBzJTNhJTJmJTJmd3d3LmZ4Y20uY29tJTJmZnIlMmYlM2ZlbmdpbmUlM2RiaW5nZnIlMjZrZXl3b3JkJTNkZnhjbWJyb2FkJTI2Y21wJTNkc2ZzLTcwMTYwMDAwMDAwTHp0dEFBQyUyNm1zY2xraWQlM2RjNmE5MjU3ZTI1YmExZDdjNTRkYjdiNTVkYjQ2MmEzNA&rlid=c6a9257e25ba1d7c54db7b55db462a34",
-      "type": "ads"
+      "content": "Execution améliorée. 69.66% des comptes CFD de clients de détail perdent de l’argent. Tradez Maintenant avec FXCM - plateformes de trading puissantes et spreads compétitifs.",
+      "position": 4,
+      "area": "top",
+      "realPosition": 4
     },
     {
-      "content": "Simulation de Crédit Gratuite et Sans Engagement Immédiatement en Ligne !\nGuide du Crédit · 30 ans d'Expertise\nPlus de 1 000 suiveurs sur Twitter",
-      "position": 5,
-      "area": "bottom",
-      "realPosition": 12,
       "title": "Cofidis.fr | Simulation prêt personnel",
       "displayUrl": "https://www.cofidis.fr",
       "targetUrl": "https://www.bing.com/aclick?ld=e3InpdKdLsTqtObQ008lNApzVUCUxVI1L1BVG4xfIPuQdnVb1SuwcwRMhoTaN6Aq5JQ27LOZVjrxUAiCL_ix0IxgzzsgMsi0DlUNiAd1T1YZGFe7aFu4Q8d2RRoOzuoYd7Ka6a9BEl4DoEo9zsHHF3KcVvELY&u=aHR0cCUzYSUyZiUyZmNvZmlkaXMyLnNvbHV0aW9uLndlYm9yYW1hLmZyJTJmZmNnaS1iaW4lMmZkaXNwYXRjaC5mY2dpJTNmYS5BJTNkY2wlMjZhLnNpJTNkMzA0JTI2YS50ZSUzZDExMDM3JTI2YS5rd3QlM2RyJTI1MkZwcmV0LXBlcnNvbm5lbCUyNTJGc2ltdWxhdGlvbi1wcmV0Lmh0bWwlMjZhLmFpZCUzZDgwNDAxODM2NDQwMjcyJTI2YS5wbHQlM2QlMjZhLm5ldCUzZG8lMjZhLm1hdCUzZGJiJTI2YS5yYSUzZCUyNmEueWNwJTNkX2RtJTdjJTdjMTI4NjQyODc0OTAwMzg2NCU3Y2RhdC0yMzMyMjAxNjAxNTA3MTEwJTNhbG9jLTMyJTI2VVJMJTNkaHR0cHMlMjUzQSUyNTJGJTI1MkZjb2ZpZGlzLmNvbW1hbmRlcjEuY29tJTI1MkZjMyUyNTJGJTI1M0Z0Y3MlMjUzRDE0NTQlMjUyNmNtcCUyNTNERFNBJTI1MjAtJTI1MjBOZXV0cmUlMjUyNnNlbV9ncnAlMjUzRFBQJTI1MjZzZW1fa3clMjUzRHIlMjUyRnByZXQtcGVyc29ubmVsJTI1MkZzaW11bGF0aW9uLXByZXQuaHRtbCUyNTI2dGNsaWQlMjUzRDgwNDAxODM2NDQwMjcyJTI1MjZjaG4lMjUzRHNlbSUyNTI2c3JjJTI1M0RiaW5nJTI1MjZ1cmwlMjUzRGh0dHBzJTI1M0ElMjUyRiUyNTJGd3d3LmNvZmlkaXMuZnIlMjUyRmZyJTI1MkZwcmV0LXBlcnNvbm5lbCUyNTJGc2ltdWxhdGlvbi1wcmV0Lmh0bWwlMjZtc2Nsa2lkJTNkZWFhYzA3YzdkYmUzMTM0ZjUwMTE1OWVjMjUxZmZjMjI&rlid=eaac07c7dbe3134f501159ec251ffc22",
-      "type": "ads"
+      "content": "Simulation de Crédit Gratuite et Sans Engagement Immédiatement en Ligne !\nGuide du Crédit · 30 ans d'Expertise\nPlus de 1 000 suiveurs sur Twitter",
+      "position": 5,
+      "area": "bottom",
+      "realPosition": 12
     },
     {
-      "content": "Besoin d’un Prêt Auto? Rapide, Facile & Sécuritaire, Remplissez votre Demande en Ligne!",
-      "position": 6,
-      "area": "bottom",
-      "realPosition": 13,
       "title": "Prêt Automobile - 99,9% Approuvé | pretautopartez.ca",
       "displayUrl": "https://www.pretautopartez.ca/Prêt/Auto",
       "targetUrl": "https://www.bing.com/aclick?ld=e3gjBMlJsLV5xHFyWrl4I6-zVUCUwFClN6P2vWIW4-Rz-GmXU8uBshv1vcXDmY72EbrBdF2XjXBUNADEEyHmNy1vtj54keVY4Nzv0m-pAbq4ib8AHv4xr1VWBr8BDsPrWPCymPfyD4mP6NoXZN3QTS_GPusZ0&u=aHR0cHMlM2ElMmYlMmZ3d3cucHJldGF1dG9wYXJ0ZXouY2ElMmZmciUyZmNyZWRpdC1hdXRvLWZhY2lsZSUyZmluZGV4Lmh0bWwlM2Z1dG1fc291cmNlJTNkbWljcm9zb2Z0JTI2dXRtX21lZGl1bSUzZHBhaWQlMjZ1dG1fY2FtcGFpZ24lM2RQciVjMyVhYXQlMjUyMEF1dG8lMjUyMCUyNTVCU2VhcmNoJTI1NUQlMjZ1dG1fY29udGVudCUzZFByJWMzJWFhdCUyNTIwQXV0byUyNTIwLSUyNTIwcHJldCUyNnV0bV90ZXJtJTNkcHJldCUyNTIwYXV0byUyNTIwY29maWRpcyUyNmNhbXBhaWduX2lkJTNkMzMzNzAxMTQzJTI2YWRncm91cF9pZCUzZDEyMTM4NjExMzQ3MjQzOTAlMjZhZF9pZCUzZDc1ODY2NDAxOTE4NDYxJTI2YWRfbmV0d29yayUzZG8lMjZhZF9kZXZpY2UlM2RtJTI2YWRfbGFuZ3VhZ2UlM2Rmci1jYSUyNm1zY2xraWQlM2Q3OGU1MjkzZDUwZDIxY2U4ZDJlNTc3MTZhZTJlZWZlMQ&rlid=78e5293d50d21ce8d2e57716ae2eefe1",
-      "type": "ads"
+      "content": "Besoin d’un Prêt Auto? Rapide, Facile & Sécuritaire, Remplissez votre Demande en Ligne!",
+      "position": 6,
+      "area": "bottom",
+      "realPosition": 13
     }
   ],
   "adsCount": 6,

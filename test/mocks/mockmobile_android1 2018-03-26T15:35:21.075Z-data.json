@@ -1,14 +1,13 @@
 {
   "ads": [
     {
-      "content": "De quel Montant Avez-Vous Besoin ? Votre Simulation en ligne 80% Gratuite",
-      "position": 1,
-      "area": "top",
-      "realPosition": 1,
       "title": "Cofidis.fr | Crédit Cofidis en Ligne | Réponse de Principe Immédiate",
       "displayUrl": "www​.cofidis.fr/Crédit",
       "targetUrl": "http://www.google.fr/aclk?sa=l&ai=DChcSEwigoPutqIraAhXOFdMKHQciDSIYABAAGgJ3Yg&sig=AOD64_2agq-4z5JhmxjO8_4GTSv37cS0ig&ved=0ahUKEwiLjfetqIraAhWS2qQKHbMxACkQ0QwICg&adurl=",
-      "type": "ads"
+      "content": "De quel Montant Avez-Vous Besoin ? Votre Simulation en ligne 80% Gratuite",
+      "position": 1,
+      "area": "top",
+      "realPosition": 1
     }
   ],
   "adsCount": 1,

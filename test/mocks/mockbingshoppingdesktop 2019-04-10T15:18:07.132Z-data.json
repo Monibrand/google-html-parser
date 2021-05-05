@@ -1,84 +1,76 @@
 {
   "ads": [
     {
+      "title": "Lacoste.com - LACOSTE Site Officiel - Toute la Collection en ligne",
+      "displayUrl": "https://www.lacoste.com/Site_Officiel/Nouveautés",
+      "targetUrl": "https://www.bing.com/aclick?ld=e39BSst07Goyb0tDvmdbdhcDVUCUwHatNtsybff98GGP9heu70fSOZucYRV1TlmvegXRdQ9ScBkhPx4EQnEygVarDTuqIUwJWmoo8exOaSfdvS7pUY1AAZaE9F28h_mfCOAQa26OPO6wIQGyPEsoTfJ6cikwEpu8h7UMiwk5dbCLjPzVQB&u=aHR0cHMlM2ElMmYlMmZhZC5hdGRtdC5jb20lMmZzJTJmZ28lM2JhZHYlM2QxMTE5MjIwMDgxMTk2NCUzYmVjJTNkMTExOTIyMDA4MTIwMzglM2JjLmElM2QzMzU3MDUwODUlM2JzLmElM2Rnb29nbGUlM2JwLmElM2QzMzU3MDUwODUlM2Jhcy5hJTNkMTIxNzE1OTY2NjM5Nzk0NSUzYnFwYiUzZDElM2IlM2ZiaWRrdyUzZExhY29zdGUlMjZkdmMlM2RjJTI2aCUzZGh0dHAlM2ElMmYlMmZtbXRyby5jb20lMmZjJTNmdGFnaWQlM2Q2NTU3NDg1LWQ2OWJiNTUyOGRmZGMyOWFjMjViY2E0MDJkZWFmNDEyJTI2aWRjJTNkNzQ1NzklMjZjazFhZGQlM2Q4MzYlM2EyNTkyMDAwJTNhMTIxNzE1OTY2NjM5Nzk0NSUzYjkxMiUzYTc3NzYwMDAlM2FMYWNvc3RlX2V4YWN0JTI2cnRnc2VuZ2luZSUzZEdvb2dsZSUyNnJ0Z2lkY2FtcGFpZ24lM2QzMzU3MDUwODUlMjZydGdzYWRncm91cCUzZDEyMTcxNTk2NjYzOTc5NDUlMjZydGdhZGdyb3VwX25hbWUlM2RMYWNvc3RlX2V4YWN0JTI2cnRnc2tleXdvcmQlM2RMYWNvc3RlJTI2cnRnaWRjYXQlM2RNaXh0ZSUyNnJ0Z2RldmljZSUzZGMlMjZyZWRpciUzZGh0dHBzJTI1M0ElMjUyRiUyNTJGd3d3LmxhY29zdGUuY29tJTI1MkZmciUyNTJGJTI1M0ZybmQlMjUzRDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2QlMjU1QkZSJTI1NURTUkNfQlJBX0JyYW5kJTI2dXRtX3Rlcm0lM2RMYWNvc3RlJTI2dXRtX2NvbnRlbnQlM2RCcmFuZF9QaHJhc2VfQWxvbmU&rlid=6d071531808d1074f492499f8be4acc7",
       "content": "Commandez Vite sur le Site Officiel. Livraison Express 48h dès 180€ d'achat !\nVisitez la boutique en ligne LACOSTE et découvrez nos collections ...",
       "position": 1,
       "area": "top",
-      "realPosition": 1,
-      "title": "Lacoste.com - LACOSTE Site Officiel - Toute la Collection en ligne",
-      "displayUrl": "https://www.lacoste.com/Site_Officiel/Nouveautés",
-      "targetUrl": "https://www.bing.com/aclick?ld=e39BSst07Goyb0tDvmdbdhcDVUCUwHatNtsybff98GGP9heu70fSOZucYRV1TlmvegXRdQ9ScBkhPx4EQnEygVarDTuqIUwJWmoo8exOaSfdvS7pUY1AAZaE9F28h_mfCOAQa26OPO6wIQGyPEsoTfJ6cikwEpu8h7UMiwk5dbCLjPzVQB&u=aHR0cHMlM2ElMmYlMmZhZC5hdGRtdC5jb20lMmZzJTJmZ28lM2JhZHYlM2QxMTE5MjIwMDgxMTk2NCUzYmVjJTNkMTExOTIyMDA4MTIwMzglM2JjLmElM2QzMzU3MDUwODUlM2JzLmElM2Rnb29nbGUlM2JwLmElM2QzMzU3MDUwODUlM2Jhcy5hJTNkMTIxNzE1OTY2NjM5Nzk0NSUzYnFwYiUzZDElM2IlM2ZiaWRrdyUzZExhY29zdGUlMjZkdmMlM2RjJTI2aCUzZGh0dHAlM2ElMmYlMmZtbXRyby5jb20lMmZjJTNmdGFnaWQlM2Q2NTU3NDg1LWQ2OWJiNTUyOGRmZGMyOWFjMjViY2E0MDJkZWFmNDEyJTI2aWRjJTNkNzQ1NzklMjZjazFhZGQlM2Q4MzYlM2EyNTkyMDAwJTNhMTIxNzE1OTY2NjM5Nzk0NSUzYjkxMiUzYTc3NzYwMDAlM2FMYWNvc3RlX2V4YWN0JTI2cnRnc2VuZ2luZSUzZEdvb2dsZSUyNnJ0Z2lkY2FtcGFpZ24lM2QzMzU3MDUwODUlMjZydGdzYWRncm91cCUzZDEyMTcxNTk2NjYzOTc5NDUlMjZydGdhZGdyb3VwX25hbWUlM2RMYWNvc3RlX2V4YWN0JTI2cnRnc2tleXdvcmQlM2RMYWNvc3RlJTI2cnRnaWRjYXQlM2RNaXh0ZSUyNnJ0Z2RldmljZSUzZGMlMjZyZWRpciUzZGh0dHBzJTI1M0ElMjUyRiUyNTJGd3d3LmxhY29zdGUuY29tJTI1MkZmciUyNTJGJTI1M0ZybmQlMjUzRDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2QlMjU1QkZSJTI1NURTUkNfQlJBX0JyYW5kJTI2dXRtX3Rlcm0lM2RMYWNvc3RlJTI2dXRtX2NvbnRlbnQlM2RCcmFuZF9QaHJhc2VfQWxvbmU&rlid=6d071531808d1074f492499f8be4acc7",
-      "type": "ads"
+      "realPosition": 1
     },
     {
+      "title": "Lacoste L1212 - New Arrivals & Best Sellers - wardow.com",
+      "displayUrl": "https://www.wardow.com/Lacoste/L1212",
+      "targetUrl": "https://www.bing.com/aclick?ld=e3Ni6bdNtb7HcqlwV0-vwGXTVUCUwEg36SVsZ_Zs5MDuILLNgG_Brv5Z5w9z6SQl1Zkzd4NMdtkuA4UNDvoOY7ymmN_8BfLvui3oUqDonHDZ9Sf6Za_X4OPj6fzMwIqaKsUB0683KpNRuz-i9KaLepWdMagSah7A8L0qjO_zH23aZ9ZSTF&u=aHR0cCUzYSUyZiUyZnBpeGVsLmV2ZXJlc3R0ZWNoLm5ldCUyZjc2MjklMmZjcSUzZmV2X3NpZCUzZDEwJTI2ZXZfbHR4JTNkJTI2ZXZfbHglM2Rrd2QtNzE4MTIxODk3Mzk5NDMlM2Fsb2MtNjYlMjZldl9jcnglM2Q3MTgxMTk0ODU2OTMwMyUyNmV2X210JTNkcCUyNmV2X2R2YyUzZGMlMjZldl9waHklM2QzMTE2MyUyNmV2X2xvYyUzZCUyNmV2X2N4JTNkMzE5MjE4NTY5JTI2ZXZfYXglM2QxMTQ4OTg5OTQyNDcyODI3JTI2ZXZfZXglM2QlMjZ1cmwlM2RodHRwcyUyNTNBJTI1MkYlMjUyRnd3dy53YXJkb3cuY29tJTI1MkZlbiUyNTJGbGFjb3N0ZSUyNTNGc2VyaWVzJTI1M0RsMTIxMiUyNTI2dXRtX3NvdXJjZSUyNTNEYmluZyUyNTI2dXRtX21lZGl1bSUyNTNEY3BjJTI1MjZ1dG1fY2FtcGFpZ24lMjUzRDAyLiUyNTIwQnJhbmRfTGFjb3N0ZV9FTiUyNTI2dXRtX3Rlcm0lMjUzRGxhY29zdGUlMjUyMGwxMjEyJTI1MjZ1dG1fY29udGVudCUyNTNEMDFfbGFjb3N0ZV9sMTIxMiUyNTI2bXNjbGtpZCUyNTNEYmIzYzllNTRmZGM1MTA3ZjE4OWRjMmZhZjZhYzVkMzYlMjZtc2Nsa2lkJTNkYmIzYzllNTRmZGM1MTA3ZjE4OWRjMmZhZjZhYzVkMzY&rlid=bb3c9e54fdc5107f189dc2faf6ac5d36",
       "content": "Browse our Lacoste best sellers and buy online. Free delivery!",
       "position": 2,
       "area": "top",
-      "realPosition": 2,
-      "title": "Lacoste L1212 - New Arrivals & Best Sellers - wardow.com",
-      "displayUrl": "https://www.wardow.com/Lacoste/L1212",
-      "targetUrl": "https://www.bing.com/aclick?ld=e3Ni6bdNtb7HcqlwV0-vwGXTVUCUwEg36SVsZ_Zs5MDuILLNgG_Brv5Z5w9z6SQl1Zkzd4NMdtkuA4UNDvoOY7ymmN_8BfLvui3oUqDonHDZ9Sf6Za_X4OPj6fzMwIqaKsUB0683KpNRuz-i9KaLepWdMagSah7A8L0qjO_zH23aZ9ZSTF&u=aHR0cCUzYSUyZiUyZnBpeGVsLmV2ZXJlc3R0ZWNoLm5ldCUyZjc2MjklMmZjcSUzZmV2X3NpZCUzZDEwJTI2ZXZfbHR4JTNkJTI2ZXZfbHglM2Rrd2QtNzE4MTIxODk3Mzk5NDMlM2Fsb2MtNjYlMjZldl9jcnglM2Q3MTgxMTk0ODU2OTMwMyUyNmV2X210JTNkcCUyNmV2X2R2YyUzZGMlMjZldl9waHklM2QzMTE2MyUyNmV2X2xvYyUzZCUyNmV2X2N4JTNkMzE5MjE4NTY5JTI2ZXZfYXglM2QxMTQ4OTg5OTQyNDcyODI3JTI2ZXZfZXglM2QlMjZ1cmwlM2RodHRwcyUyNTNBJTI1MkYlMjUyRnd3dy53YXJkb3cuY29tJTI1MkZlbiUyNTJGbGFjb3N0ZSUyNTNGc2VyaWVzJTI1M0RsMTIxMiUyNTI2dXRtX3NvdXJjZSUyNTNEYmluZyUyNTI2dXRtX21lZGl1bSUyNTNEY3BjJTI1MjZ1dG1fY2FtcGFpZ24lMjUzRDAyLiUyNTIwQnJhbmRfTGFjb3N0ZV9FTiUyNTI2dXRtX3Rlcm0lMjUzRGxhY29zdGUlMjUyMGwxMjEyJTI1MjZ1dG1fY29udGVudCUyNTNEMDFfbGFjb3N0ZV9sMTIxMiUyNTI2bXNjbGtpZCUyNTNEYmIzYzllNTRmZGM1MTA3ZjE4OWRjMmZhZjZhYzVkMzYlMjZtc2Nsa2lkJTNkYmIzYzllNTRmZGM1MTA3ZjE4OWRjMmZhZjZhYzVkMzY&rlid=bb3c9e54fdc5107f189dc2faf6ac5d36",
-      "type": "ads"
+      "realPosition": 2
     },
     {
+      "title": "- 30 % Sur Les Articles Soldés - Nouvelle Collection Lacoste",
+      "displayUrl": "https://www.farfetch.com/Lacoste/Collection",
+      "targetUrl": "https://www.bing.com/aclick?ld=e3hFe1T2ZurVtxszo1VE56kjVUCUwmpPuvQOwT6aaD67fx8B2j-jpc6BZgxP27wQIJb54STp6VzyI-sV_PzlTB1N1Qdg76TReLCcDpBm5SkkypQ0hjKXyFF4SBzNupEtkHsaUPe8a0E9SgM2QOByqeRDtS4swoYxmtB-G5olXtdZkI-Evl&u=aHR0cCUzYSUyZiUyZmNsaWNrc2VydmUuZGFydHNlYXJjaC5uZXQlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA0MjcxMzY4NTE2NCUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwNDkyNzIxMDA3NiUyNiUyNmRzX2VfYWRpZCUzZDg0NjYyNTMzMDQyOTc5JTI2JTI2ZHNfdXJsX3YlM2QyJTI2ZHNfZGVzdF91cmwlM2RodHRwcyUzYSUyZiUyZnd3dy5mYXJmZXRjaC5jb20lMmZzaG9wcGluZyUyZm1lbiUyZmxhY29zdGUlMmZpdGVtcy5hc3B4JTNmdXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2tleXdvcmRpZCUzZDEwODM0MjEzOSUyNnV0bV90ZXJtJTNkMTA4MzQyMTM5JTI2cGlkJTNkYmluZ3NlYXJjaF9pbnQlMjZhZl9jaGFubmVsJTNkU2VhcmNoJTI2YyUzZDI4NzU0NzU1MyUyNmFmX2NfaWQlM2QyODc1NDc1NTMlMjZhZl9zaXRlaWQlM2QlN2JwbGFjZW1lbnQlN2QlMjZhZl9rZXl3b3JkcyUzZGt3ZC04NDY2MjQ3NzIxNTg2NyUzYWxvYy02NiUyNmFmX2Fkc2V0X2lkJTNkMTM1NDU5ODQ1MzczODQwNiUyNmFmX2FkX2lkJTNkJTdiY3JlYXRpdmUlN2QlMjZhZl9zdWIxJTNkMTA4MzQyMTM5JTI2aXNfcmV0YXJnZXRpbmclM2R0cnVlJTI2bXNjbGtpZCUzZDhiOWJkZGEyZTE0YjEzMWQzMDY5ODEwY2VhMjJlNDNlJTI2dXRtX2NhbXBhaWduJTNkU2VhcmNoJTI1M0FCaW5nJTI1M0FGUiUyNTNBRlIlMjUzQURlc2lnbmVyTmFtZSUyNTNBQk1NJTI1M0ElMjUzQU1lbiUyNnV0bV9jb250ZW50JTNkQk1NJTI1M0ElMjUzQUxhY29zdGUlMjUzQU1lbg&rlid=8b9bdda2e14b131d3069810cea22e43e",
       "content": "Nouveautés Quotidiennes. Livraison Rapide & Retours Gratuits Par Collecte. Offrez-Vous Des Articles Tout Droit Sortis De Notre Irrésistible Sélection PE19.",
       "position": 3,
       "area": "top",
-      "realPosition": 3,
-      "title": "- 30 % Sur Les Articles Soldés - Nouvelle Collection Lacoste",
-      "displayUrl": "https://www.farfetch.com/Lacoste/Collection",
-      "targetUrl": "https://www.bing.com/aclick?ld=e3hFe1T2ZurVtxszo1VE56kjVUCUwmpPuvQOwT6aaD67fx8B2j-jpc6BZgxP27wQIJb54STp6VzyI-sV_PzlTB1N1Qdg76TReLCcDpBm5SkkypQ0hjKXyFF4SBzNupEtkHsaUPe8a0E9SgM2QOByqeRDtS4swoYxmtB-G5olXtdZkI-Evl&u=aHR0cCUzYSUyZiUyZmNsaWNrc2VydmUuZGFydHNlYXJjaC5uZXQlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA0MjcxMzY4NTE2NCUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwNDkyNzIxMDA3NiUyNiUyNmRzX2VfYWRpZCUzZDg0NjYyNTMzMDQyOTc5JTI2JTI2ZHNfdXJsX3YlM2QyJTI2ZHNfZGVzdF91cmwlM2RodHRwcyUzYSUyZiUyZnd3dy5mYXJmZXRjaC5jb20lMmZzaG9wcGluZyUyZm1lbiUyZmxhY29zdGUlMmZpdGVtcy5hc3B4JTNmdXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2tleXdvcmRpZCUzZDEwODM0MjEzOSUyNnV0bV90ZXJtJTNkMTA4MzQyMTM5JTI2cGlkJTNkYmluZ3NlYXJjaF9pbnQlMjZhZl9jaGFubmVsJTNkU2VhcmNoJTI2YyUzZDI4NzU0NzU1MyUyNmFmX2NfaWQlM2QyODc1NDc1NTMlMjZhZl9zaXRlaWQlM2QlN2JwbGFjZW1lbnQlN2QlMjZhZl9rZXl3b3JkcyUzZGt3ZC04NDY2MjQ3NzIxNTg2NyUzYWxvYy02NiUyNmFmX2Fkc2V0X2lkJTNkMTM1NDU5ODQ1MzczODQwNiUyNmFmX2FkX2lkJTNkJTdiY3JlYXRpdmUlN2QlMjZhZl9zdWIxJTNkMTA4MzQyMTM5JTI2aXNfcmV0YXJnZXRpbmclM2R0cnVlJTI2bXNjbGtpZCUzZDhiOWJkZGEyZTE0YjEzMWQzMDY5ODEwY2VhMjJlNDNlJTI2dXRtX2NhbXBhaWduJTNkU2VhcmNoJTI1M0FCaW5nJTI1M0FGUiUyNTNBRlIlMjUzQURlc2lnbmVyTmFtZSUyNTNBQk1NJTI1M0ElMjUzQU1lbiUyNnV0bV9jb250ZW50JTNkQk1NJTI1M0ElMjUzQUxhY29zdGUlMjUzQU1lbg&rlid=8b9bdda2e14b131d3069810cea22e43e",
-      "type": "ads"
+      "realPosition": 3
     },
     {
-      "content": "Commandez facilement tous vos soins et vos produits de beauté du quotidien",
-      "position": 4,
-      "area": "top",
-      "realPosition": 4,
       "title": "Lacoste L1212 sur Amazon - Lacoste L1212 à petits prix",
       "displayUrl": "http://www.amazon.fr/Beaute/Cosmetiques",
       "targetUrl": "https://www.bing.com/aclick?ld=e3djFkbJ6foXQ6CrI1jPTxWzVUCUxnKex1t-dodPTr18q0BN7mpQQBsO7O3Q2BEWnncYWL-khDPlDtk4E1eq-YHzNsUZUFtMvOz3ysh4XIhOCGwu_zgt7xHJeIwLfqIwAqzlwY9pTpNJP6aopAr7Cw78QE00-eWkZqpWLEUxpxkIM-fvrQ&u=aHR0cCUzYSUyZiUyZnd3dy5hbWF6b24uZnIlMmZzJTJmJTNmaWUlM2RVVEY4JTI2a2V5d29yZHMlM2RsYWNvc3RlJTJibDEyMTIlMjZ0YWclM2RoeWRmcm1zbi0yMSUyNmluZGV4JTNkYXBzJTI2aHZhZGlkJTNkODAxMjY5NDE1NjM3NzElMjZodnFtdCUzZHAlMjZodmJtdCUzZGJwJTI2aHZkZXYlM2RjJTI2cmVmJTNkcGRfc2xfMzJnc204MDFrb19w&rlid=789083ced8da1a15df37df60d3b3191c",
-      "type": "ads"
+      "content": "Commandez facilement tous vos soins et vos produits de beauté du quotidien",
+      "position": 4,
+      "area": "top",
+      "realPosition": 4
     },
     {
-      "content": "Tous les produits et les tendances Lacoste. Le comparateur d'articles de mode !\nVos articles Lacoste de la nouvelle collection pour parmi plus de 1000 boutiques et ...",
-      "position": 5,
-      "area": "bottom",
-      "realPosition": 11,
       "title": "Lacoste à -70% - Les offres Lacoste - stylelounge.fr",
       "displayUrl": "https://www.stylelounge.fr/Lacoste/Offres",
       "targetUrl": "https://www.bing.com/aclick?ld=e3d9lbPXi-UBytTaZVYhdyMTVUCUxbUMQVNuRMp24NK854oWugB6jYNYEvvJOXCG0lALboE58vf58yv8AP_D_bqz6XeXSX9oTo6oo5nJWRqFpFI7vkBkqR2kQyIYD_Anej1uFRtkPppV5m-Vf25rbwT_oNYwlaVlju3o35E08aH01hN_UQ&u=aHR0cHMlM2ElMmYlMmZ3d3cuc3R5bGVsb3VuZ2UuZnIlMmZMYWNvc3RlJTNmc2NsaWQlM2RzZW0lMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9NZWRpdW0lM2RjJTI2dHJhZmZpY1NvdXJjZSUzZENhbXBhaWduJTI2YWR3b3Jkc0NhbXBhaWduSWQlM2QyNzc2ODAwMDQlMjZhZHdvcmRzQWRHcm91cElkJTNkMTIwODM2MzM2MDIwMDU2MSUyNmFkd29yZHNLZXl3b3JkSWQlM2RwJTI2YWR3b3Jkc05ldHdvcmslM2RvJTI2bXNjbGtpZCUzZGZlMDRkNzE0ODFlOTE0YzU2NjgwOGJiYThhODA2Mzg0JTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZFNMQV9GUiUyNTNBJTI1MjBTJTI1M0ElMjUyMEZhc2hpb25icmFuZCUyNTIwJTI1N0MlMjUyMGFsbCUyNTIweWVhciUyNTIwJTI1N0MlMjUyMFNlYXJjaCUyNTIwJTI1MjYlMjUyMFNOUCUyNTIwJTI1N0MlMjUyMEJNJTI1MjAlMjU3QyUyNTIwQ1BDJTI1MjAlMjU3QyUyNnV0bV90ZXJtJTNkJTI1MkJMYWNvc3RlJTI2dXRtX2NvbnRlbnQlM2RTTCUyNTNBJTI1MjBTJTI1M0ElMjUyMEZhc2hCcmFuZCUyNTNBJTI1MjBMYWNvc3RlJTI1MjAlMjU3QyUyNTIwYWxsJTI1MjB5ZWFyJTI1MjAlMjU3QyUyNTIwU2VhcmNoJTI1MjAlMjUyNiUyNTIwU05QJTI1MjAlMjU3QyUyNTIwQk0lMjUyMCUyNTdDJTI1MjBDUEMlMjUyMCUyNTdD&rlid=fe04d71481e914c566808bba8a806384",
-      "type": "ads"
+      "content": "Tous les produits et les tendances Lacoste. Le comparateur d'articles de mode !\nVos articles Lacoste de la nouvelle collection pour parmi plus de 1000 boutiques et ...",
+      "position": 5,
+      "area": "bottom",
+      "realPosition": 11
     },
     {
-      "content": "Commandez Vite sur le Site Officiel. Livraison Express 48h dès 180€ d'achat !\nVisitez la boutique en ligne LACOSTE et découvrez nos collections ...",
-      "position": 6,
-      "area": "bottom",
-      "realPosition": 12,
       "title": "Lacoste.com - LACOSTE Site Officiel - Toute la Collection en ligne",
       "displayUrl": "https://www.lacoste.com/Site_Officiel/Nouveautés",
       "targetUrl": "https://www.bing.com/aclick?ld=e39BSst07Goyb0tDvmdbdhcDVUCUwHatNtsybff98GGP9heu70fSOZucYRV1TlmvegXRdQ9ScBkhPx4EQnEygVarDTuqIUwJWmoo8exOaSfdvS7pUY1AAZaE9F28h_mfCOAQa26OPO6wIQGyPEsoTfJ6cikwEpu8h7UMiwk5dbCLjPzVQB&u=aHR0cHMlM2ElMmYlMmZhZC5hdGRtdC5jb20lMmZzJTJmZ28lM2JhZHYlM2QxMTE5MjIwMDgxMTk2NCUzYmVjJTNkMTExOTIyMDA4MTIwMzglM2JjLmElM2QzMzU3MDUwODUlM2JzLmElM2Rnb29nbGUlM2JwLmElM2QzMzU3MDUwODUlM2Jhcy5hJTNkMTIxNzE1OTY2NjM5Nzk0NSUzYnFwYiUzZDElM2IlM2ZiaWRrdyUzZExhY29zdGUlMjZkdmMlM2RjJTI2aCUzZGh0dHAlM2ElMmYlMmZtbXRyby5jb20lMmZjJTNmdGFnaWQlM2Q2NTU3NDg1LWQ2OWJiNTUyOGRmZGMyOWFjMjViY2E0MDJkZWFmNDEyJTI2aWRjJTNkNzQ1NzklMjZjazFhZGQlM2Q4MzYlM2EyNTkyMDAwJTNhMTIxNzE1OTY2NjM5Nzk0NSUzYjkxMiUzYTc3NzYwMDAlM2FMYWNvc3RlX2V4YWN0JTI2cnRnc2VuZ2luZSUzZEdvb2dsZSUyNnJ0Z2lkY2FtcGFpZ24lM2QzMzU3MDUwODUlMjZydGdzYWRncm91cCUzZDEyMTcxNTk2NjYzOTc5NDUlMjZydGdhZGdyb3VwX25hbWUlM2RMYWNvc3RlX2V4YWN0JTI2cnRnc2tleXdvcmQlM2RMYWNvc3RlJTI2cnRnaWRjYXQlM2RNaXh0ZSUyNnJ0Z2RldmljZSUzZGMlMjZyZWRpciUzZGh0dHBzJTI1M0ElMjUyRiUyNTJGd3d3LmxhY29zdGUuY29tJTI1MkZmciUyNTJGJTI1M0ZybmQlMjUzRDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2QlMjU1QkZSJTI1NURTUkNfQlJBX0JyYW5kJTI2dXRtX3Rlcm0lM2RMYWNvc3RlJTI2dXRtX2NvbnRlbnQlM2RCcmFuZF9QaHJhc2VfQWxvbmU&rlid=6d071531808d1074f492499f8be4acc7",
-      "type": "ads"
+      "content": "Commandez Vite sur le Site Officiel. Livraison Express 48h dès 180€ d'achat !\nVisitez la boutique en ligne LACOSTE et découvrez nos collections ...",
+      "position": 6,
+      "area": "bottom",
+      "realPosition": 12
     },
     {
-      "content": "Browse our Lacoste best sellers and buy online. Free delivery!",
-      "position": 7,
-      "area": "bottom",
-      "realPosition": 13,
       "title": "Lacoste L1212 - New Arrivals & Best Sellers - wardow.com",
       "displayUrl": "https://www.wardow.com/Lacoste/L1212",
       "targetUrl": "https://www.bing.com/aclick?ld=e3Ni6bdNtb7HcqlwV0-vwGXTVUCUwEg36SVsZ_Zs5MDuILLNgG_Brv5Z5w9z6SQl1Zkzd4NMdtkuA4UNDvoOY7ymmN_8BfLvui3oUqDonHDZ9Sf6Za_X4OPj6fzMwIqaKsUB0683KpNRuz-i9KaLepWdMagSah7A8L0qjO_zH23aZ9ZSTF&u=aHR0cCUzYSUyZiUyZnBpeGVsLmV2ZXJlc3R0ZWNoLm5ldCUyZjc2MjklMmZjcSUzZmV2X3NpZCUzZDEwJTI2ZXZfbHR4JTNkJTI2ZXZfbHglM2Rrd2QtNzE4MTIxODk3Mzk5NDMlM2Fsb2MtNjYlMjZldl9jcnglM2Q3MTgxMTk0ODU2OTMwMyUyNmV2X210JTNkcCUyNmV2X2R2YyUzZGMlMjZldl9waHklM2QzMTE2MyUyNmV2X2xvYyUzZCUyNmV2X2N4JTNkMzE5MjE4NTY5JTI2ZXZfYXglM2QxMTQ4OTg5OTQyNDcyODI3JTI2ZXZfZXglM2QlMjZ1cmwlM2RodHRwcyUyNTNBJTI1MkYlMjUyRnd3dy53YXJkb3cuY29tJTI1MkZlbiUyNTJGbGFjb3N0ZSUyNTNGc2VyaWVzJTI1M0RsMTIxMiUyNTI2dXRtX3NvdXJjZSUyNTNEYmluZyUyNTI2dXRtX21lZGl1bSUyNTNEY3BjJTI1MjZ1dG1fY2FtcGFpZ24lMjUzRDAyLiUyNTIwQnJhbmRfTGFjb3N0ZV9FTiUyNTI2dXRtX3Rlcm0lMjUzRGxhY29zdGUlMjUyMGwxMjEyJTI1MjZ1dG1fY29udGVudCUyNTNEMDFfbGFjb3N0ZV9sMTIxMiUyNTI2bXNjbGtpZCUyNTNEYmIzYzllNTRmZGM1MTA3ZjE4OWRjMmZhZjZhYzVkMzYlMjZtc2Nsa2lkJTNkYmIzYzllNTRmZGM1MTA3ZjE4OWRjMmZhZjZhYzVkMzY&rlid=bb3c9e54fdc5107f189dc2faf6ac5d36",
-      "type": "ads"
+      "content": "Browse our Lacoste best sellers and buy online. Free delivery!",
+      "position": 7,
+      "area": "bottom",
+      "realPosition": 13
     },
     {
-      "content": "Nouveautés Quotidiennes. Livraison Rapide & Retours Gratuits Par Collecte. Offrez-Vous Des Articles Tout Droit Sortis De Notre Irrésistible Sélection PE19.",
-      "position": 8,
-      "area": "bottom",
-      "realPosition": 14,
       "title": "- 30 % Sur Les Articles Soldés - Nouvelle Collection Lacoste",
       "displayUrl": "https://www.farfetch.com/Lacoste/Collection",
       "targetUrl": "https://www.bing.com/aclick?ld=e3hFe1T2ZurVtxszo1VE56kjVUCUwmpPuvQOwT6aaD67fx8B2j-jpc6BZgxP27wQIJb54STp6VzyI-sV_PzlTB1N1Qdg76TReLCcDpBm5SkkypQ0hjKXyFF4SBzNupEtkHsaUPe8a0E9SgM2QOByqeRDtS4swoYxmtB-G5olXtdZkI-Evl&u=aHR0cCUzYSUyZiUyZmNsaWNrc2VydmUuZGFydHNlYXJjaC5uZXQlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA0MjcxMzY4NTE2NCUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwNDkyNzIxMDA3NiUyNiUyNmRzX2VfYWRpZCUzZDg0NjYyNTMzMDQyOTc5JTI2JTI2ZHNfdXJsX3YlM2QyJTI2ZHNfZGVzdF91cmwlM2RodHRwcyUzYSUyZiUyZnd3dy5mYXJmZXRjaC5jb20lMmZzaG9wcGluZyUyZm1lbiUyZmxhY29zdGUlMmZpdGVtcy5hc3B4JTNmdXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2tleXdvcmRpZCUzZDEwODM0MjEzOSUyNnV0bV90ZXJtJTNkMTA4MzQyMTM5JTI2cGlkJTNkYmluZ3NlYXJjaF9pbnQlMjZhZl9jaGFubmVsJTNkU2VhcmNoJTI2YyUzZDI4NzU0NzU1MyUyNmFmX2NfaWQlM2QyODc1NDc1NTMlMjZhZl9zaXRlaWQlM2QlN2JwbGFjZW1lbnQlN2QlMjZhZl9rZXl3b3JkcyUzZGt3ZC04NDY2MjQ3NzIxNTg2NyUzYWxvYy02NiUyNmFmX2Fkc2V0X2lkJTNkMTM1NDU5ODQ1MzczODQwNiUyNmFmX2FkX2lkJTNkJTdiY3JlYXRpdmUlN2QlMjZhZl9zdWIxJTNkMTA4MzQyMTM5JTI2aXNfcmV0YXJnZXRpbmclM2R0cnVlJTI2bXNjbGtpZCUzZDhiOWJkZGEyZTE0YjEzMWQzMDY5ODEwY2VhMjJlNDNlJTI2dXRtX2NhbXBhaWduJTNkU2VhcmNoJTI1M0FCaW5nJTI1M0FGUiUyNTNBRlIlMjUzQURlc2lnbmVyTmFtZSUyNTNBQk1NJTI1M0ElMjUzQU1lbiUyNnV0bV9jb250ZW50JTNkQk1NJTI1M0ElMjUzQUxhY29zdGUlMjUzQU1lbg&rlid=8b9bdda2e14b131d3069810cea22e43e",
-      "type": "ads"
+      "content": "Nouveautés Quotidiennes. Livraison Rapide & Retours Gratuits Par Collecte. Offrez-Vous Des Articles Tout Droit Sortis De Notre Irrésistible Sélection PE19.",
+      "position": 8,
+      "area": "bottom",
+      "realPosition": 14
     }
   ],
   "adsCount": 8,

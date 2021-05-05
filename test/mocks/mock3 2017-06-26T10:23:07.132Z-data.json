@@ -1,6 +1,9 @@
 {
   "ads": [
     {
+      "title": "Crédit Cofidis - Simulation de Crédit Gratuite‎",
+      "displayUrl": "www.cofidis.fr/Crédit/Consommation",
+      "targetUrl": "https://www.cofidis.fr/fr/credit_en_ligne/simulateur-credits.html",
       "content": "Empruntez jusqu'à 6000€ aujourd'hui et obtenez une Réponse de Principe Immédiate",
       "preconnectUrls": [
         "https://www.cofidis.fr/",
@@ -8,11 +11,7 @@
       ],
       "position": 1,
       "area": "top",
-      "realPosition": 1,
-      "title": "Crédit Cofidis - Simulation de Crédit Gratuite‎",
-      "displayUrl": "www.cofidis.fr/Crédit/Consommation",
-      "targetUrl": "https://www.cofidis.fr/fr/credit_en_ligne/simulateur-credits.html",
-      "type": "ads"
+      "realPosition": 1
     }
   ],
   "adsCount": 1,

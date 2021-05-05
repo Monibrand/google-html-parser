@@ -1,34 +1,31 @@
 {
   "ads": [
     {
+      "title": "LACOSTE® Homme Site Officiel - Découvrez la Collection 2019",
+      "displayUrl": "www.lacoste.com/Nouveautés_2019/Polo Lacoste L1212",
+      "targetUrl": "https://www.bing.com/aclick?ld=e31AbdMkEUcu-04NpztnvDpzVUCUzZJ-MoQaefQBh2VCNHxonl8aDnAf0v9RRbHAZlP-jN_02T8Hm-M78JYnOZHARaxjdC8czle8-MLSEA2sJoGZS6LLtFKnk1XO9tmNKmyU-At7boCeEcfDoP1f3I-JZLxuw&u=aHR0cHMlM2ElMmYlMmZhZC5hdGRtdC5jb20lMmZzJTJmZ28lM2JhZHYlM2QxMTE5MjIwMDgxMTk2NCUzYmVjJTNkMTExOTIyMDA4MTIwMzglM2JjLmElM2QxODE0MTI2NzElM2JzLmElM2Rnb29nbGUlM2JwLmElM2QxODE0MTI2NzElM2Jhcy5hJTNkMTIyMTU1NzczMjY0MDU0MSUzYnFwYiUzZDElM2IlM2ZiaWRrdyUzZFBvbG8lMjUyMGxhY29zdGUlMjUyMGwxMjEyJTI2ZHZjJTNkbSUyNmglM2RodHRwJTNhJTJmJTJmbW10cm8uY29tJTJmYyUzZnRhZ2lkJTNkNjU1NzQ4NS1kNjliYjU1MjhkZmRjMjlhYzI1YmNhNDAyZGVhZjQxMiUyNmlkYyUzZDc0NTc5JTI2Y2sxYWRkJTNkODM2JTNhMjU5MjAwMCUzYTEyMjE1NTc3MzI2NDA1NDElM2I5MTIlM2E3Nzc2MDAwJTNhUG9sb3NsYWNvc3RlQ291bGV1ciUyNnJ0Z3NlbmdpbmUlM2RHb29nbGUlMjZydGdpZGNhbXBhaWduJTNkMTgxNDEyNjcxJTI2cnRnc2FkZ3JvdXAlM2QxMjIxNTU3NzMyNjQwNTQxJTI2cnRnYWRncm91cF9uYW1lJTNkUG9sb3NsYWNvc3RlQ291bGV1ciUyNnJ0Z3NrZXl3b3JkJTNkUG9sbyUyNTIwbGFjb3N0ZSUyNTIwbDEyMTIlMjZydGdpZGNhdCUzZEhvbW1lJTI2cnRnZGV2aWNlJTNkbSUyNnJlZGlyJTNkaHR0cHMlMjUzQSUyNTJGJTI1MkZ3d3cubGFjb3N0ZS5jb20lMjUyRmZyJTI1MkZsYWNvc3RlJTI1MkZob21tZSUyNTJGdmV0ZW1lbnRzJTI1MkZwb2xvcyUyNTJGY2xhc3NpcXVlcyUyNTJGJTI1M0ZybmQlMjUzRDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2QlMjU1QkZSJTI1NURTUkNfQlJBX01lbiUyNnV0bV90ZXJtJTNkUG9sbyUyNTIwbGFjb3N0ZSUyNTIwbDEyMTIlMjZ1dG1fY29udGVudCUzZE1lbl9DbG90aGVzX1BvbG9zX0wxMjEy&rlid=847d04648f2d121c0baa58ca84f85bf0",
       "content": "Commandez la Nouvelle Collection de Polos pour Homme. Livraison standard offerte dès 80€ d'achat ou retrait 1h en boutique\nSAV : Mail ou Téléphone",
       "position": 1,
       "area": "top",
-      "realPosition": 1,
-      "title": "LACOSTE® Homme Site Officiel - Découvrez la Collection 2019",
-      "displayUrl": "www.lacoste.com/Nouveautés_2019/Polo Lacoste L1212",
-      "targetUrl": "https://www.bing.com/aclick?ld=e31AbdMkEUcu-04NpztnvDpzVUCUzZJ-MoQaefQBh2VCNHxonl8aDnAf0v9RRbHAZlP-jN_02T8Hm-M78JYnOZHARaxjdC8czle8-MLSEA2sJoGZS6LLtFKnk1XO9tmNKmyU-At7boCeEcfDoP1f3I-JZLxuw&u=aHR0cHMlM2ElMmYlMmZhZC5hdGRtdC5jb20lMmZzJTJmZ28lM2JhZHYlM2QxMTE5MjIwMDgxMTk2NCUzYmVjJTNkMTExOTIyMDA4MTIwMzglM2JjLmElM2QxODE0MTI2NzElM2JzLmElM2Rnb29nbGUlM2JwLmElM2QxODE0MTI2NzElM2Jhcy5hJTNkMTIyMTU1NzczMjY0MDU0MSUzYnFwYiUzZDElM2IlM2ZiaWRrdyUzZFBvbG8lMjUyMGxhY29zdGUlMjUyMGwxMjEyJTI2ZHZjJTNkbSUyNmglM2RodHRwJTNhJTJmJTJmbW10cm8uY29tJTJmYyUzZnRhZ2lkJTNkNjU1NzQ4NS1kNjliYjU1MjhkZmRjMjlhYzI1YmNhNDAyZGVhZjQxMiUyNmlkYyUzZDc0NTc5JTI2Y2sxYWRkJTNkODM2JTNhMjU5MjAwMCUzYTEyMjE1NTc3MzI2NDA1NDElM2I5MTIlM2E3Nzc2MDAwJTNhUG9sb3NsYWNvc3RlQ291bGV1ciUyNnJ0Z3NlbmdpbmUlM2RHb29nbGUlMjZydGdpZGNhbXBhaWduJTNkMTgxNDEyNjcxJTI2cnRnc2FkZ3JvdXAlM2QxMjIxNTU3NzMyNjQwNTQxJTI2cnRnYWRncm91cF9uYW1lJTNkUG9sb3NsYWNvc3RlQ291bGV1ciUyNnJ0Z3NrZXl3b3JkJTNkUG9sbyUyNTIwbGFjb3N0ZSUyNTIwbDEyMTIlMjZydGdpZGNhdCUzZEhvbW1lJTI2cnRnZGV2aWNlJTNkbSUyNnJlZGlyJTNkaHR0cHMlMjUzQSUyNTJGJTI1MkZ3d3cubGFjb3N0ZS5jb20lMjUyRmZyJTI1MkZsYWNvc3RlJTI1MkZob21tZSUyNTJGdmV0ZW1lbnRzJTI1MkZwb2xvcyUyNTJGY2xhc3NpcXVlcyUyNTJGJTI1M0ZybmQlMjUzRDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2QlMjU1QkZSJTI1NURTUkNfQlJBX01lbiUyNnV0bV90ZXJtJTNkUG9sbyUyNTIwbGFjb3N0ZSUyNTIwbDEyMTIlMjZ1dG1fY29udGVudCUzZE1lbl9DbG90aGVzX1BvbG9zX0wxMjEy&rlid=847d04648f2d121c0baa58ca84f85bf0",
-      "type": "ads"
+      "realPosition": 1
     },
     {
-      "content": "L1212 Lacoste à petits prix. Livraison gratuite (voir cond.)\nNotes et avis de clients",
-      "position": 2,
-      "area": "top",
-      "realPosition": 2,
       "title": "L1212 Lacoste - L1212 Lacoste sur Amazon",
       "displayUrl": "www.amazon.fr/Mode/Vetements",
       "targetUrl": "https://www.bing.com/aclick?ld=e396NtVDpzWgNf2_Znke_EYDVUCUxl6NaFpDlEn7A6lVuzTbMmXKO90h7mmE4v5tgBbhCh2QyOnq-iA13nc7KdbR6vypexoVSO-bDQPpvStKIfeV1vSSJWvcgtAjs8bgRe5_9P1THgWApUSnCaO03imMH69K8&u=aHR0cCUzYSUyZiUyZnd3dy5hbWF6b24uZnIlMmZzJTJmJTNmaWUlM2RVVEY4JTI2a2V5d29yZHMlM2RsMTIxMiUyYmxhY29zdGUlMjZ0YWclM2RiaW5nYW1hem9uZnJzLTIxJTI2aW5kZXglM2RhcHMlMjZodmFkaWQlM2Q4MDI2NDM4MDY3MTg3NyUyNmh2cW10JTNkYiUyNmh2Ym10JTNkYmIlMjZodmRldiUzZG0lMjZyZWYlM2RwZF9zbF81cHlsNmQ3YjZqX2I&rlid=ee9bea0be96a15324fa3b6a5e2bfb64c",
-      "type": "ads"
+      "content": "L1212 Lacoste à petits prix. Livraison gratuite (voir cond.)\nNotes et avis de clients",
+      "position": 2,
+      "area": "top",
+      "realPosition": 2
     },
     {
-      "content": "Commandez la Nouvelle Collection de Polos pour Homme. Livraison standard offerte dès 80€ d'achat ou retrait 1h en boutique\nSAV : Mail ou Téléphone",
-      "position": 3,
-      "area": "bottom",
-      "realPosition": 12,
       "title": "LACOSTE® Homme Site Officiel - Découvrez la Collection 2019",
       "displayUrl": "www.lacoste.com/Nouveautés_2019/Polo Lacoste L1212",
       "targetUrl": "https://www.bing.com/aclick?ld=e31AbdMkEUcu-04NpztnvDpzVUCUzZJ-MoQaefQBh2VCNHxonl8aDnAf0v9RRbHAZlP-jN_02T8Hm-M78JYnOZHARaxjdC8czle8-MLSEA2sJoGZS6LLtFKnk1XO9tmNKmyU-At7boCeEcfDoP1f3I-JZLxuw&u=aHR0cHMlM2ElMmYlMmZhZC5hdGRtdC5jb20lMmZzJTJmZ28lM2JhZHYlM2QxMTE5MjIwMDgxMTk2NCUzYmVjJTNkMTExOTIyMDA4MTIwMzglM2JjLmElM2QxODE0MTI2NzElM2JzLmElM2Rnb29nbGUlM2JwLmElM2QxODE0MTI2NzElM2Jhcy5hJTNkMTIyMTU1NzczMjY0MDU0MSUzYnFwYiUzZDElM2IlM2ZiaWRrdyUzZFBvbG8lMjUyMGxhY29zdGUlMjUyMGwxMjEyJTI2ZHZjJTNkbSUyNmglM2RodHRwJTNhJTJmJTJmbW10cm8uY29tJTJmYyUzZnRhZ2lkJTNkNjU1NzQ4NS1kNjliYjU1MjhkZmRjMjlhYzI1YmNhNDAyZGVhZjQxMiUyNmlkYyUzZDc0NTc5JTI2Y2sxYWRkJTNkODM2JTNhMjU5MjAwMCUzYTEyMjE1NTc3MzI2NDA1NDElM2I5MTIlM2E3Nzc2MDAwJTNhUG9sb3NsYWNvc3RlQ291bGV1ciUyNnJ0Z3NlbmdpbmUlM2RHb29nbGUlMjZydGdpZGNhbXBhaWduJTNkMTgxNDEyNjcxJTI2cnRnc2FkZ3JvdXAlM2QxMjIxNTU3NzMyNjQwNTQxJTI2cnRnYWRncm91cF9uYW1lJTNkUG9sb3NsYWNvc3RlQ291bGV1ciUyNnJ0Z3NrZXl3b3JkJTNkUG9sbyUyNTIwbGFjb3N0ZSUyNTIwbDEyMTIlMjZydGdpZGNhdCUzZEhvbW1lJTI2cnRnZGV2aWNlJTNkbSUyNnJlZGlyJTNkaHR0cHMlMjUzQSUyNTJGJTI1MkZ3d3cubGFjb3N0ZS5jb20lMjUyRmZyJTI1MkZsYWNvc3RlJTI1MkZob21tZSUyNTJGdmV0ZW1lbnRzJTI1MkZwb2xvcyUyNTJGY2xhc3NpcXVlcyUyNTJGJTI1M0ZybmQlMjUzRDElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2QlMjU1QkZSJTI1NURTUkNfQlJBX01lbiUyNnV0bV90ZXJtJTNkUG9sbyUyNTIwbGFjb3N0ZSUyNTIwbDEyMTIlMjZ1dG1fY29udGVudCUzZE1lbl9DbG90aGVzX1BvbG9zX0wxMjEy&rlid=847d04648f2d121c0baa58ca84f85bf0",
-      "type": "ads"
+      "content": "Commandez la Nouvelle Collection de Polos pour Homme. Livraison standard offerte dès 80€ d'achat ou retrait 1h en boutique\nSAV : Mail ou Téléphone",
+      "position": 3,
+      "area": "bottom",
+      "realPosition": 12
     }
   ],
   "adsCount": 3,
