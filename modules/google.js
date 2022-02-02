@@ -16,7 +16,7 @@ class GoogleParser {
     }
 
     getAdTitle() {
-        return this.adNode.find('h3, .cfxYMc').first().text();
+        return this.adNode.find('h3, .cfxYMc, .CCgQ5').first().text();
     }
 
     getAdDisplayUrl() {
@@ -145,7 +145,7 @@ class GoogleParser {
         var detectRule = _.chain(options.detectText).map(function(text){
             return _.template('span:contains("<%= text %>")')({text: text});
           }).join(', ').value();
-          var adsCount = 0, test = self.$(detectRule).not('.evvN5c').not('.dc3Trd').not('.NVWord');
+          var adsCount = 0, test = self.$(detectRule).not('.evvN5c').not('.dc3Trd').not('.NVWord').not('.nMdasd');
           test.each(function(){
             if(options.detectText.indexOf(self.$(this).text()) >= 0 ){
               adsCount++;
