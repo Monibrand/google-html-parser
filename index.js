@@ -23,8 +23,9 @@ function parse(options, body, callback){
   const parser = getParser(options.searchEngine || 'google', $);
 
   parser.getNodeList().each(function(){
-    parser.setCurrentNode(this);
 
+
+    parser.setCurrentNode(this);
     if (parser.isAdNode()) {
       let ad = {};
       let content = [];
@@ -40,6 +41,10 @@ function parse(options, body, callback){
         content.push($(this).text());
       });
       ad.content = content.join('\n');
+
+      if(!ad.content){
+        ad.content = parser.getResultContent()
+      }
 
       if (parser.getAdPreconnectUrl()) {
         ad.preconnectUrls = parser.getAdPreconnectUrl().split(',');

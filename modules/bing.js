@@ -19,7 +19,8 @@ class BingParser {
     }
 
     getAdDisplayUrl() {
-        return this.adNode.find('.b_adurl cite').text();
+        const highlight = this.adNode.find('.sb_adBrandSidebar .sb_adTextInfo cite').text();
+        return highlight || this.adNode.find('.b_adurl cite').text();
     }
 
     getAdTargetUrl() {
@@ -70,6 +71,10 @@ class BingParser {
 
     getResultDescription() {
         return this.adNode.find('.b_caption p').text();
+    }
+
+    getResultContent() {
+        return this.adNode.find('.sb_adBrandSidebar .sb_adTextInfo p').text();
     }
 
     getShopAdList() {
@@ -134,16 +139,27 @@ class BingParser {
     }
 
     getAdsCountTemplate(options){
+
         const self = this;
+        
         var detectRule = _.chain(options.detectText).map(function(text){
             return _.template('#b_results span:contains("<%= text %>")')({text: text});
           }).join(', ').value();
-          var adsCount = 0, test = self.$(detectRule);
-          test.each(function(){
+        var detectRuleForHighlight = _.chain(options.detectText).map(function(text){
+            return _.template('#b_context>li.b_ad .sb_adBrandSidebar .b_adSlug:contains("<%= text %>")')({text: text});
+        }).join(', ').value();
+
+          var adsCount = 0, test = self.$(detectRule), testHighlight= self.$(detectRuleForHighlight);
+
+          const eachCount = function(){
             if(options.detectText.indexOf(self.$(this).text()) >= 0 ){
               adsCount++;
             }
-          });
+          }
+
+          test.each(eachCount);
+          testHighlight.each(eachCount);
+          
           return adsCount;
     }
 }
