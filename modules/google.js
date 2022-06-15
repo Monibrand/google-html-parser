@@ -14,7 +14,7 @@ class GoogleParser {
     getNodeList() {
         const self = this;
         return this.$('.ads-ad, #ires .g,  #res .g, .ZINbbc.xpd, .O9g5cc, .EtOod').filter(function(i, el){
-            console.log(self.$(this).children('.EtOod').length)
+            // console.log(self.$(this).children('.EtOod').length)
             return self.$(this).find('.EtOod').length === 0;
         });
     }
