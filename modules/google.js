@@ -1,4 +1,5 @@
-const _ = require('lodash')
+const _ = require('lodash');
+const debug = require('debug')('google-html-parser:GoogleParser');
 
 class GoogleParser {
 
@@ -13,8 +14,7 @@ class GoogleParser {
 
     getNodeList() {
         const self = this;
-        return this.$('.ads-ad, #ires .g,  #res .g, .ZINbbc.xpd, .O9g5cc, .EtOod').filter(function(i, el){
-            // console.log(self.$(this).children('.EtOod').length)
+        return this.$('.ads-ad, #ires .g,  #res .g, .ZINbbc.xpd, .O9g5cc, .EtOod').filter(function(){
             return self.$(this).find('.EtOod').length === 0;
         });
     }
@@ -146,12 +146,16 @@ class GoogleParser {
 
     getAdsCountTemplate(options){
         const self = this;
-        var detectRule = _.chain(options.detectText).map(function(text){
-            return _.template('span:contains("<%= text %>")')({text: text});
+        const detectRule = _.chain(options.detectText).map(function(text){
+            return _.template('span:contains("<%= text %>"):not(.j80PPb *, .oVrGyb *)')({text: text});
           }).join(', ').value();
-          var adsCount = 0, test = self.$(detectRule).not('.evvN5c').not('.dc3Trd').not('.NVWord').not('.nMdasd');
+          debug('start processing adsCount with rule=\'%s\'', detectRule);
+          let adsCount = 0;
+          const test = self.$(detectRule).not('.evvN5c, .dc3Trd, .NVWord, .nMdasd');
           test.each(function(){
-            if(options.detectText.indexOf(self.$(this).text()) >= 0 ){
+            const matchedIndex = options.detectText.indexOf(self.$(this).text());
+            if(matchedIndex >= 0 ){
+              debug('element=%O have text \'%s\'', self.$(this).parent.parent, options.detectText[matchedIndex]);
               adsCount++;
             }
           });

@@ -19,80 +19,68 @@
       "realPosition": 2
     }
   ],
-  "adsCount": 4,
+  "adsCount": 2,
   "shoppingAds": [],
   "results": [
     {
       "title": "https://www.index-assurance.fr › 20...",
       "targetUrl": "https://www.index-assurance.fr/200-e-offerts-pour-deux-contrats-dassurance-maaf-auto-auto-habitation-pro-10735.html",
-      "description": "200 € offerts pour deux contrats d'assurance MAAF : auto + auto / habitation / pro · Deux contrats d'assurance auto (en formule ...6 janv. 2020 — Offre réservée aux personnes ne détenant pas de contrat actif auprès de MAAF depuis plus de 12 mois. 200 € offerts sur le montant total de vos ...",
-      "realPosition": 3
-    },
-    {
-      "title": "https://www.index-assurance.fr › 20...",
-      "targetUrl": "https://www.index-assurance.fr/200-e-offerts-pour-deux-contrats-dassurance-maaf-auto-auto-habitation-pro-10735.html",
       "description": "200 € offerts pour deux contrats d'assurance MAAF : auto + auto / habitation / pro · Deux contrats d'assurance auto (en formule ...",
-      "realPosition": 4
+      "realPosition": 3
     },
     {
       "title": "https://www.index-assurance.fr › aut...",
       "targetUrl": "https://www.index-assurance.fr/auto-moto-habitation-ou-auto-auto-200-e-offerts-chez-la-maaf-9966.html",
       "description": "6 janv. 2020 — Offre réservée aux personnes ne détenant pas de contrat actif auprès de MAAF depuis plus de 12 mois. 200 € offerts sur le montant total de vos ...",
-      "realPosition": 5
+      "realPosition": 4
     },
     {
       "title": "https://www.maaf.fr › assurance-en-l...",
       "targetUrl": "https://www.maaf.fr/fr/assurance-en-ligne",
       "description": "200 € offerts* sur la 1ère année de cotisation, en souscrivant un contrat Auto Tous Risques + un contrat Habitation ou deux contrats Auto Tous Risques jusqu'au ...",
-      "realPosition": 6
+      "realPosition": 5
     },
     {
       "title": "https://www.maaf.fr › triple-plus-ha...",
       "targetUrl": "https://www.maaf.fr/fr/triple-plus-habitation",
       "description": "MAAF triple + jusqu'au 27 mars 2021, profitez de 200€ de réduction si vous souscrivez plusieurs contrats en agence ou par téléphone.",
-      "realPosition": 7
+      "realPosition": 6
     },
     {
       "title": "https://www.maaf.fr › assurance",
       "targetUrl": "https://www.maaf.fr/fr/assurance",
       "description": "200€ offerts*. sur la 1ère année de cotisation jusqu'au 31 juillet 2022 pour la souscription de deux contrats : Auto + Auto, Auto + Habitation ou Auto + ...",
-      "realPosition": 8
+      "realPosition": 7
     },
     {
       "title": "https://www.maaf.fr › assurance-auto",
       "targetUrl": "https://www.maaf.fr/fr/assurance-auto/assurance-auto-pas-cher/amp",
       "description": "200€ OFFERTS pour la souscription de 2 contrats auto Tous Risques ou d'un contrat auto et habitation MAAF jusqu'au 31 juillet 2022.",
-      "realPosition": 9
+      "realPosition": 8
     },
     {
       "title": "https://www.maaf.fr › assurance-auto",
       "targetUrl": "https://www.maaf.fr/fr/assurance-auto",
       "description": "200€ OFFERTS en souscrivant un contrat d'assurance auto tous risques et habitation ou 2 contrats autos tous risques souscris jusqu'au 31 juillet 2022.",
-      "realPosition": 10
-    },
-    {
-      "title": "https://www.index-habitation.fr › m...",
-      "targetUrl": "https://www.index-habitation.fr/maaf-assurance-habitation-auto-200-e-offerts-6509.html",
-      "description": "26 janv. 2022 — Offre promotionnelle valable durant la première année de cotisation si vous souscrivez entre le 2 janvier et le 26 mars 2022.12 oct. 2020 — Offre valable auprès d'un conseiller MAAF Assurances du 30 mai au 18 juillet 2021. Elle s'applique dès la souscription des contrats.",
-      "realPosition": 11
+      "realPosition": 9
     },
     {
       "title": "https://www.index-habitation.fr › m...",
       "targetUrl": "https://www.index-habitation.fr/maaf-assurance-habitation-auto-200-e-offerts-6509.html",
       "description": "26 janv. 2022 — Offre promotionnelle valable durant la première année de cotisation si vous souscrivez entre le 2 janvier et le 26 mars 2022.",
-      "realPosition": 12
+      "realPosition": 10
     },
     {
       "title": "https://www.index-habitation.fr › ha...",
       "targetUrl": "https://www.index-habitation.fr/habitation-auto-maaf-200-e-offerts-la-premiere-annee-5514.html",
       "description": "12 oct. 2020 — Offre valable auprès d'un conseiller MAAF Assurances du 30 mai au 18 juillet 2021. Elle s'applique dès la souscription des contrats.",
-      "realPosition": 13
+      "realPosition": 11
     },
     {
       "title": "https://www.dealabs.com › maaf",
       "targetUrl": "https://www.dealabs.com/codes-promo/maaf.fr",
       "description": "[Nouveaux clients] 200€ offerts sur les cotisations pour la souscription à deux contrats auto, auto/habitation ou auto/ ...",
-      "realPosition": 14
+      "realPosition": 12
     }
   ],
   "location": {
