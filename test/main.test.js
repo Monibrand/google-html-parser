@@ -28,15 +28,7 @@ describe('GoogleHtmlParser', function() {
 
       mock.data.ads.forEach((adMock, i) => {
         it('Ads ' + adMock.title + ' (' + i + ')', function(){
-          assert.strictEqual(extractedDatas.ads[i].position, adMock.position);
-          assert.strictEqual(extractedDatas.ads[i].realPosition, adMock.realPosition);
-          assert.strictEqual(extractedDatas.ads[i].area, adMock.area);
-          assert.strictEqual(extractedDatas.ads[i].title, adMock.title);
-          assert.strictEqual(extractedDatas.ads[i].type, adMock.type);
-          assert.strictEqual(extractedDatas.ads[i].appAdName, adMock.appAdName);
-          assert.strictEqual(extractedDatas.ads[i].content, adMock.content);
-          assert.strictEqual(extractedDatas.ads[i].displayUrl, adMock.displayUrl);
-          assert.strictEqual(extractedDatas.ads[i].targetUrl, adMock.targetUrl);
+          assert.deepStrictEqual(extractedDatas.ads[i], adMock);
           if(adMock.preconnectUrls){
             adMock.preconnectUrls.forEach((preconnectUrlMock, j) => {
               assert.strictEqual(extractedDatas.ads[i].preconnectUrls[j], preconnectUrlMock);

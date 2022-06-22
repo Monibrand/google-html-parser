@@ -19,8 +19,9 @@ class BingParser {
     }
 
     getAdDisplayUrl() {
-        const highlight = this.adNode.find('.sb_adBrandSidebar .sb_adTextInfo cite').text();
-        return highlight || this.adNode.find('.b_adurl cite').text();
+        return this.adNode.find('.b_ad cite').text().trim() ||
+          this.adNode.find('.b_adurl a').text().trim() ||
+          this.adNode.find('.b_adurl cite, .sb_DispAndDesc cite').text().trim();
     }
 
     getAdTargetUrl() {
@@ -70,7 +71,7 @@ class BingParser {
     }
 
     getResultDescription() {
-        return this.adNode.find('.b_caption p').text();
+        return this.adNode.find('.b_caption p, .b_snippet p').text();
     }
 
     getResultContent() {
