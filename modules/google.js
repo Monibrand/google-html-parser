@@ -27,10 +27,11 @@ class GoogleParser {
         return this.adNode.find('.ads-visurl cite').first().text() || this.adNode.find('.qzEoUe, .dTe0Ie.LrP0oe').first().text();
     }
 
-    getAdTargetUrl() {
+    getAdTargetUrl(domain = 'https://www.google.com') {
         const self = this;
         const possibleTargetUrls = this.adNode.find('a').map(function(i, el){return self.$(this).attr('href');}).get();
-        return _.find(possibleTargetUrls, (e) => !/^https:\/\/www\.(google|googleadservices)\.|^\/aclk|^javascript:/.test(e)) || possibleTargetUrls[0];
+        const bestTargetUrl = _.find(possibleTargetUrls, (e) => !/^https:\/\/www\.(google|googleadservices)\.|^\/aclk|^javascript:/.test(e)) || possibleTargetUrls[0];
+        return (bestTargetUrl.startsWith('/')) ? domain + bestTargetUrl : bestTargetUrl;
     }
 
     getAdEllipsis() {
