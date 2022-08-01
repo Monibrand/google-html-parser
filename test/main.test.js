@@ -38,12 +38,14 @@ describe('GoogleHtmlParser', function() {
       });
 
       mock.data.shoppingAds.forEach((shoppingAdMock, i) => {
+        
         it('Shopping ads ' + shoppingAdMock.title + ' (' + i + ')', function(){
           assert.strictEqual(extractedDatas.shoppingAds[i].title, shoppingAdMock.title);
           assert.strictEqual(extractedDatas.shoppingAds[i].advertiser, shoppingAdMock.advertiser);
           assert.strictEqual(extractedDatas.shoppingAds[i].targetUrl, shoppingAdMock.targetUrl);
           assert.strictEqual(extractedDatas.shoppingAds[i].image, shoppingAdMock.image);
           assert.strictEqual(extractedDatas.shoppingAds[i].price, shoppingAdMock.price);
+          assert.strictEqual(extractedDatas.shoppingAds[i].merchantId, shoppingAdMock.merchantId);
           assert.strictEqual(extractedDatas.shoppingAds[i].discountText, shoppingAdMock.discountText);
           assert.strictEqual(extractedDatas.shoppingAds[i].comparatorUrl, shoppingAdMock.comparatorUrl);
           assert.strictEqual(extractedDatas.shoppingAds[i].comparatorName, shoppingAdMock.comparatorName);

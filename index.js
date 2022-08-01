@@ -66,6 +66,7 @@ function parse(options, body, callback){
         ad.appAdName = parser.getAppAdName();
       }
 
+ 
       ads.push(ad);
     } else {
       var result = {
@@ -100,6 +101,7 @@ function parse(options, body, callback){
       advertiser: parser.getShopAdAdvertiser(),
       targetUrl: parser.getShopAdTargetUrl(),
       image: parser.getShopAdImage(),
+      merchantId : parser.getMerchantId(),
       discountText: parser.getShopAdDiscountText() || undefined,
       comparatorUrl: parser.getComparatorUrl() || undefined,
       comparatorName: parser.getComparatorName() || undefined,
