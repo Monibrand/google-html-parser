@@ -167,6 +167,10 @@ class BingParser {
     getMerchantId() {
       return this.$('[data-k]').attr('data-k');
     }
+
+    getCatalogId() {
+      return this.adNode.find('[data-kvalue]').attr('data-kvalue');
+    }
 }
 
 module.exports = {
