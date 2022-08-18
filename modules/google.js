@@ -166,6 +166,10 @@ class GoogleParser {
   getMerchantId() {
     return this.adNode.find('[data-merchant-id]').attr('data-merchant-id');
   }
+
+  getCatalogId() {
+    return this.adNode.find('[data-catalog-id]').attr('data-catalog-id');
+  }
 }
 
 module.exports = {
