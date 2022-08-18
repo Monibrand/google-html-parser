@@ -163,6 +163,10 @@ class BingParser {
           
           return adsCount;
     }
+
+    getMerchantId() {
+      return this.$('[data-k]').attr('data-k');
+    }
 }
 
 module.exports = {
