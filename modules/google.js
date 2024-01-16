@@ -20,7 +20,7 @@ class GoogleParser {
   }
 
   getAdTitle() {
-    return this.adNode.find('h3, .cfxYMc, .CCgQ5').first().text();
+    return this.adNode.find('h3, .cfxYMc, .CCgQ5 .ynAwRc').first().text();
   }
 
   getAdDisplayUrl() {
@@ -72,7 +72,10 @@ class GoogleParser {
   }
 
   getResultTitle() {
-    return this.adNode.find('h3').first().text() || this.adNode.find('a div').first().text() || this.adNode.find('a').first().text() || this.adNode.find('a').eq(1).text();
+    return this.adNode.find('h3').first().text() ||
+      this.adNode.find('a div').first().text() ||
+      this.adNode.find('a').first().text() ||
+      this.adNode.find('a').eq(1).text();
   }
 
   getResultTargetUrl() {
@@ -83,6 +86,7 @@ class GoogleParser {
     const self = this;
     return this.adNode.find('.st').text() ||
       this.adNode.find('div.JTuIPc > .pIpgAc, [jsname="ao5mud"] .BmP5tf > .MUxGbd , hr + .BmP5tf > .MUxGbd, .yDYNvb').text() ||
+      this.adNode.find('.r025kc').text() ||
       this.adNode.find('.LZ8hH, .IsZvec').text() ||
       this.adNode.find('.q2WXyd .rLMeW, .q2WXyd tr').map(function (i, el) { return self.$(this).text(); }).get().join('\n');
   }
@@ -97,6 +101,7 @@ class GoogleParser {
 
   getShopAdTitle() {
     return this.adNode.find('.pla-unit-title .rhsg4').text() ||
+      this.adNode.find('.bXPcId').text() ||
       this.adNode.find('h4, .pla-unit-title-link').text();
   }
 
