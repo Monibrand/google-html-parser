@@ -20,7 +20,7 @@ class GoogleParser {
   }
 
   getAdTitle() {
-    return this.adNode.find('h3, .cfxYMc, .CCgQ5 .ynAwRc').first().text();
+    return this.adNode.find('h3, .cfxYMc, .CCgQ5, .ynAwRc').first().text();
   }
 
   getAdDisplayUrl() {

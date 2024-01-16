@@ -72,7 +72,7 @@ class BingParser {
 
     getResultDescription() {
         return this.adNode.find('.b_caption p, .b_snippet p').text() ||
-          this.adNode.find('.b_caption div, .b_ad_description').text();
+          this.adNode.find('.b_ad_description').text();
     }
 
     getResultContent() {
