@@ -31,8 +31,8 @@ class BingParser {
     getAdEllipsis() {
         const cloneNode = this.adNode.clone();
         cloneNode.find('.b_caption .b_adSlug').remove();
-        return cloneNode.find('.b_caption p') ||
-          cloneNode.find('.b_ad_description');
+        return cloneNode.find('.b_ad_description') ||
+          cloneNode.find('.b_caption p');
     }
 
     getAdPreconnectUrl() {
@@ -72,8 +72,8 @@ class BingParser {
     }
 
     getResultDescription() {
-        return this.adNode.find('.b_caption p, .b_snippet p').text() ||
-          this.adNode.find('.b_ad_description').text();
+        return this.adNode.find('.b_ad_description').text() ||
+          this.adNode.find('.b_caption p, .b_snippet p').text();
     }
 
     getResultContent() {
