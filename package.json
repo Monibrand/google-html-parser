@@ -1,6 +1,6 @@
 {
   "name": "@monibrand/google-html-parser",
-  "version": "0.6.9",
+  "version": "0.6.10",
   "description": "Parse Search Engine Results Pages to retrieve organic results, ads, shopping and more",
   "main": "index.js",
   "scripts": {
