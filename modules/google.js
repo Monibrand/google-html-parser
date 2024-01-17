@@ -35,7 +35,7 @@ class GoogleParser {
   }
 
   getAdEllipsis() {
-    return this.adNode.find('div.ads-creative, div.ellip, div:nth-child(3) .lEBKkf, .yDYNvb.lEBKkf, hr + .BmP5tf > .MUxGbd, .HLLkSb.G99wIc.rLshyf, .MUxGbd.yDYNvb');
+    return this.adNode.find('div.ads-creative, div.ellip, div:nth-child(3) .lEBKkf, .yDYNvb.lEBKkf, hr + .BmP5tf > .MUxGbd, .HLLkSb.G99wIc.rLshyf, .MUxGbd.yDYNvb, .r025kc');
   }
 
   getAdPreconnectUrl() {
