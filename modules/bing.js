@@ -165,7 +165,15 @@ class BingParser {
     }
 
     getMerchantId() {
-      return this.$('[data-k]').attr('data-k');
+      return null;
+    }
+
+    getCatalogId() {
+      return null;
+    }
+
+    getDtld() {
+      return null;
     }
 }
 
