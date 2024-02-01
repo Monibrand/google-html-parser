@@ -102,8 +102,6 @@ function parse(options, body, callback){
       targetUrl: parser.getShopAdTargetUrl(),
       image: parser.getShopAdImage(),
       merchantId : parser.getMerchantId(),
-      catalogId : parser.getCatalogId(),
-      dtld: parser.getDtld(),
       discountText: parser.getShopAdDiscountText() || undefined,
       comparatorUrl: parser.getComparatorUrl() || undefined,
       comparatorName: parser.getComparatorName() || undefined,
