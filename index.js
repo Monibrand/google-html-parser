@@ -42,7 +42,7 @@ function parse(options, body, callback){
       });
       ad.content = content.join('\n');
 
-      if(!ad.content){
+      if(!ad.content && parser.getResultContent){
         ad.content = parser.getResultContent()
       }
 
@@ -102,6 +102,8 @@ function parse(options, body, callback){
       targetUrl: parser.getShopAdTargetUrl(),
       image: parser.getShopAdImage(),
       merchantId : parser.getMerchantId(),
+      catalogId : parser.getCatalogId(),
+      dtld: parser.getDtld(),
       discountText: parser.getShopAdDiscountText() || undefined,
       comparatorUrl: parser.getComparatorUrl() || undefined,
       comparatorName: parser.getComparatorName() || undefined,
