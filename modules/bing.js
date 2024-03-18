@@ -19,9 +19,9 @@ class BingParser {
     }
 
     getAdDisplayUrl() {
-        return this.adNode.find('.b_ad cite').text().trim() ||
-          this.adNode.find('.b_adurl a').text().trim() ||
-          this.adNode.find('.b_adurl cite, .sb_DispAndDesc cite').text().trim();
+        return this.adNode.find('.b_ad cite').text().trim().replace('HTTPS', '') ||
+          this.adNode.find('.b_adurl a').text().trim().replace('HTTPS', '') ||
+          this.adNode.find('.b_adurl cite, .sb_DispAndDesc cite').text().trim().replace('HTTPS', '');
     }
 
     getAdTargetUrl() {
@@ -101,7 +101,7 @@ class BingParser {
     }
 
     getShopAdAdvertiser() {
-        return this.adNode.find('cite').text();
+        return this.adNode.find('cite').text().replace('HTTPS', '');
     }
 
     getShopAdTargetUrl() {
